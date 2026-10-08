@@ -11,20 +11,6 @@ reopened (2.7x), P1 (3.9x) and slow-first-response (2.1x) drive breaches; a Rand
 predicts SLA breach at ROC-AUC ≈ 0.92; simulated stage reductions could lift compliance from
 76.3% to ~81% and recover ~3k closed tickets.
 
-## Dashboard preview (Power BI)
-
-| | |
-|:---:|:---:|
-| ![Executive Overview](docs/screenshots/executive-overview.png) | ![Operational Performance](docs/screenshots/operational-performance.png) |
-| **Executive Overview** | **Operational Performance** |
-| ![Team & Resolution Performance](docs/screenshots/team-performance.png) | ![Customer & Ticket Analysis](docs/screenshots/customer-ticket-analysis.png) |
-| **Team & Resolution Performance** | **Customer & Ticket Analysis** |
-| ![Risk & Driver Analysis](docs/screenshots/risk-driver-analysis.png) | *(download `OpsPulse.pbix` to explore live)* |
-| **Risk & Driver Analysis** | |
-
-> The full interactive report ships as **`OpsPulse.pbix`** — open it in Power BI Desktop
-> (the 5 pages above are screenshots of it).
-
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
 │ 00_generate_data.py   synthetic service-desk simulation (ground truth)      │
