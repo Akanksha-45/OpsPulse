@@ -1,0 +1,193 @@
+{
+  "baseline_breach_rate_pct": 23.7,
+  "driver_lift": [
+    {
+      "driver": "p1_priority",
+      "share_pct": 10.0,
+      "breach_when_present": 91.3,
+      "breach_when_absent": 16.1,
+      "lift": 3.86
+    },
+    {
+      "driver": "reopened",
+      "share_pct": 8.2,
+      "breach_when_present": 64.6,
+      "breach_when_absent": 20.0,
+      "lift": 2.73
+    },
+    {
+      "driver": "p2_priority",
+      "share_pct": 19.9,
+      "breach_when_present": 51.3,
+      "breach_when_absent": 16.8,
+      "lift": 2.17
+    },
+    {
+      "driver": "first_response_slow",
+      "share_pct": 39.8,
+      "breach_when_present": 49.0,
+      "breach_when_absent": 6.9,
+      "lift": 2.07
+    },
+    {
+      "driver": "strategic_account",
+      "share_pct": 8.2,
+      "breach_when_present": 37.1,
+      "breach_when_absent": 22.5,
+      "lift": 1.57
+    },
+    {
+      "driver": "escalated",
+      "share_pct": 13.0,
+      "breach_when_present": 32.4,
+      "breach_when_absent": 22.4,
+      "lift": 1.37
+    },
+    {
+      "driver": "technical_category",
+      "share_pct": 16.6,
+      "breach_when_present": 28.4,
+      "breach_when_absent": 22.7,
+      "lift": 1.2
+    },
+    {
+      "driver": "night_created",
+      "share_pct": 33.6,
+      "breach_when_present": 26.9,
+      "breach_when_absent": 22.0,
+      "lift": 1.14
+    },
+    {
+      "driver": "integration_category",
+      "share_pct": 15.1,
+      "breach_when_present": 26.4,
+      "breach_when_absent": 23.2,
+      "lift": 1.12
+    },
+    {
+      "driver": "weekend_created",
+      "share_pct": 28.3,
+      "breach_when_present": 26.3,
+      "breach_when_absent": 22.6,
+      "lift": 1.11
+    },
+    {
+      "driver": "high_agent_load",
+      "share_pct": 32.0,
+      "breach_when_present": 26.0,
+      "breach_when_absent": 22.6,
+      "lift": 1.1
+    }
+  ],
+  "top_combos": [
+    {
+      "driver": "reopened & p1_priority",
+      "n": 527,
+      "breach_rate": 100.0,
+      "lift": 4.22
+    },
+    {
+      "driver": "reopened & p2_priority",
+      "n": 934,
+      "breach_rate": 99.7,
+      "lift": 4.21
+    },
+    {
+      "driver": "p1_priority & strategic_account",
+      "n": 506,
+      "breach_rate": 99.6,
+      "lift": 4.21
+    },
+    {
+      "driver": "escalated & p1_priority",
+      "n": 798,
+      "breach_rate": 99.0,
+      "lift": 4.18
+    },
+    {
+      "driver": "technical_category & p1_priority",
+      "n": 1046,
+      "breach_rate": 96.1,
+      "lift": 4.06
+    },
+    {
+      "driver": "p1_priority & night_created",
+      "n": 2080,
+      "breach_rate": 95.5,
+      "lift": 4.03
+    },
+    {
+      "driver": "p1_priority & weekend_created",
+      "n": 1769,
+      "breach_rate": 95.3,
+      "lift": 4.02
+    },
+    {
+      "driver": "integration_category & p1_priority",
+      "n": 931,
+      "breach_rate": 95.0,
+      "lift": 4.01
+    },
+    {
+      "driver": "high_agent_load & p1_priority",
+      "n": 1950,
+      "breach_rate": 94.6,
+      "lift": 4.0
+    },
+    {
+      "driver": "p1_priority & first_response_slow",
+      "n": 5785,
+      "breach_rate": 93.3,
+      "lift": 3.94
+    },
+    {
+      "driver": "reopened & first_response_slow",
+      "n": 2024,
+      "breach_rate": 92.0,
+      "lift": 3.89
+    },
+    {
+      "driver": "p2_priority & strategic_account",
+      "n": 1047,
+      "breach_rate": 84.2,
+      "lift": 3.56
+    }
+  ],
+  "correlation": {
+    "resolution_time_hours": {
+      "resolution_time_hours": 1.0,
+      "agent_load": 0.078,
+      "n_escalations": 0.126,
+      "sla_hours": 0.098,
+      "investigation_hours": 0.412
+    },
+    "agent_load": {
+      "resolution_time_hours": 0.078,
+      "agent_load": 1.0,
+      "n_escalations": 0.005,
+      "sla_hours": -0.002,
+      "investigation_hours": 0.168
+    },
+    "n_escalations": {
+      "resolution_time_hours": 0.126,
+      "agent_load": 0.005,
+      "n_escalations": 1.0,
+      "sla_hours": -0.0,
+      "investigation_hours": 0.122
+    },
+    "sla_hours": {
+      "resolution_time_hours": 0.098,
+      "agent_load": -0.002,
+      "n_escalations": -0.0,
+      "sla_hours": 1.0,
+      "investigation_hours": 0.237
+    },
+    "investigation_hours": {
+      "resolution_time_hours": 0.412,
+      "agent_load": 0.168,
+      "n_escalations": 0.122,
+      "sla_hours": 0.237,
+      "investigation_hours": 1.0
+    }
+  }
+}

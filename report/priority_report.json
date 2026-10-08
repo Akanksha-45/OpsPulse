@@ -1,0 +1,89 @@
+{
+  "open_tickets": 357,
+  "priority_counts": {
+    "OVER-BUDGET": 269,
+    "LOW": 68,
+    "MEDIUM": 13,
+    "HIGH": 4,
+    "CRITICAL": 3
+  },
+  "risk_by_department": {
+    "open": {
+      "Account Management": 38,
+      "Billing": 74,
+      "Product Ops": 49,
+      "Support": 93,
+      "Technical": 103
+    },
+    "over_budget": {
+      "Account Management": 33,
+      "Billing": 57,
+      "Product Ops": 34,
+      "Support": 69,
+      "Technical": 76
+    },
+    "critical": {
+      "Account Management": 0,
+      "Billing": 1,
+      "Product Ops": 0,
+      "Support": 0,
+      "Technical": 2
+    },
+    "high": {
+      "Account Management": 1,
+      "Billing": 1,
+      "Product Ops": 0,
+      "Support": 0,
+      "Technical": 2
+    },
+    "at_risk_value_kusd": {
+      "Account Management": 4307.0,
+      "Billing": 4886.0,
+      "Product Ops": 4060.0,
+      "Support": 9827.0,
+      "Technical": 8202.0
+    }
+  },
+  "risk_by_category": {
+    "open": {
+      "Integration": 56.0,
+      "Technical Issue": 59.0,
+      "Account Setup": 41.0,
+      "Security Concern": 50.0,
+      "Data Correction": 44.0,
+      "Billing Dispute": 28.0,
+      "Access Management": 26.0,
+      "Feature Request": 53.0
+    },
+    "over_budget": {
+      "Integration": 47.0,
+      "Technical Issue": 42.0,
+      "Account Setup": 36.0,
+      "Security Concern": 34.0,
+      "Data Correction": 30.0,
+      "Billing Dispute": 21.0,
+      "Access Management": 21.0,
+      "Feature Request": 38.0
+    },
+    "critical": {
+      "Integration": 0.0,
+      "Technical Issue": 1.0,
+      "Account Setup": 1.0,
+      "Security Concern": 0.0,
+      "Data Correction": 0.0,
+      "Billing Dispute": 0.0,
+      "Access Management": 0.0,
+      "Feature Request": 1.0
+    },
+    "risk": {
+      "Integration": 0.473,
+      "Technical Issue": 0.448,
+      "Account Setup": 0.443,
+      "Security Concern": 0.423,
+      "Data Correction": 0.419,
+      "Billing Dispute": 0.397,
+      "Access Management": 0.395,
+      "Feature Request": 0.302
+    }
+  }
+}

@@ -1,0 +1,7 @@
+scenario,compliance_after,gain_pct_points,tickets_recovered
+S1 investigation -20%,79.3,3.0,1838
+S2 investigation -30%,80.8,4.4,2763
+S3 first-response (Assigned) -30%,78.5,2.2,1347
+S4 escalation stage -50%,76.7,0.4,246
+S5 investigation -10% + Assigned -20%,79.3,2.9,1823
+S6 combined -20% inv + -25% assigned,81.1,4.8,2996

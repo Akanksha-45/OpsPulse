@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "raw_tickets": 63018,
+    "cleaned_tickets": 62517,
+    "raw_history_rows": 408366,
+    "cleaned_history_rows": 406729,
+    "rows_rejected": 501
+  },
+  "ticket_checks": {
+    "duplicate_ticket_ids": 251,
+    "exact_duplicate_rows": 251,
+    "missing_assigned_agent": 502,
+    "missing_channel": 630,
+    "missing_customer": 0,
+    "resolved_before_created": 252,
+    "unknown_agent_values": 250,
+    "extreme_resolution_outliers": 2269,
+    "resolution_upper_iqr_bound": 55.4
+  },
+  "history_checks": {
+    "negative_duration": 627,
+    "end_before_start": 0,
+    "extreme_stage_outliers": 21509
+  }
+}

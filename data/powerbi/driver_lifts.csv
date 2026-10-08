@@ -1,0 +1,12 @@
+driver,lift
+p1_priority,3.86
+reopened,2.73
+p2_priority,2.17
+first_response_slow,2.07
+strategic_account,1.57
+escalated,1.37
+technical_category,1.2
+night_created,1.14
+integration_category,1.12
+weekend_created,1.11
+high_agent_load,1.1

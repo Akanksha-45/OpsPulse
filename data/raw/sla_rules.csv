@@ -1,0 +1,17 @@
+priority,customer_segment,sla_hours,response_hours
+P1,Strategic,5.44,1.36
+P1,Enterprise,6.56,1.64
+P1,Mid-Market,8.0,2.0
+P1,SMB,9.2,2.3
+P2,Strategic,10.88,2.04
+P2,Enterprise,13.12,2.46
+P2,Mid-Market,16.0,3.0
+P2,SMB,18.4,3.45
+P3,Strategic,27.2,4.08
+P3,Enterprise,32.8,4.92
+P3,Mid-Market,40.0,6.0
+P3,SMB,46.0,6.9
+P4,Strategic,65.28,8.16
+P4,Enterprise,78.72,9.84
+P4,Mid-Market,96.0,12.0
+P4,SMB,110.4,13.8

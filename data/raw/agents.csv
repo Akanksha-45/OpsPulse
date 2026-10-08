@@ -1,0 +1,35 @@
+agent_id,department,team,experience_level,shift,location,capacity_per_day
+A001,Support,Support L1,Junior,Morning,EU West,23
+A002,Support,Support L1,Mid,Morning,EU East,25
+A003,Support,Support L1,Junior,Evening,EU East,12
+A004,Support,Support L1,Mid,Morning,US West,24
+A005,Support,Support L1,Mid,Evening,EU East,17
+A006,Support,Support L1,Senior,Evening,APAC North,11
+A007,Support,Support L1,Junior,Evening,US East,22
+A008,Support,Support L1,Mid,Night,EU West,24
+A009,Support,Support L1,Junior,Morning,EU West,17
+A010,Technical,Technical L1,Senior,Morning,APAC South,20
+A011,Technical,Technical L1,Junior,Night,EU West,15
+A012,Technical,Technical L1,Mid,Morning,APAC South,13
+A013,Technical,Technical L1,Senior,Morning,US West,13
+A014,Technical,Technical L1,Mid,Morning,US East,23
+A015,Technical,Technical L1,Junior,Morning,APAC South,23
+A016,Technical,Technical L1,Junior,Morning,APAC North,14
+A017,Technical,Technical L1,Mid,Morning,APAC South,13
+A018,Billing,Billing L1,Senior,Evening,APAC South,20
+A019,Billing,Billing L1,Junior,Evening,EU East,17
+A020,Billing,Billing L1,Mid,Morning,US West,11
+A021,Billing,Billing L1,Mid,Morning,APAC North,19
+A022,Billing,Billing L1,Junior,Evening,EU East,18
+A023,Billing,Billing L1,Mid,Morning,EU East,10
+A024,Account Management,Account Management L1,Mid,Morning,US West,16
+A025,Account Management,Account Management L1,Junior,Morning,APAC South,10
+A026,Account Management,Account Management L1,Senior,Morning,EU West,20
+A027,Account Management,Account Management L1,Mid,Evening,APAC North,20
+A028,Account Management,Account Management L1,Mid,Evening,US West,12
+A029,Account Management,Account Management L1,Senior,Morning,APAC South,21
+A030,Product Ops,PO Squad 3,Mid,Morning,APAC North,18
+A031,Product Ops,PO Squad 1,Senior,Evening,EU West,17
+A032,Product Ops,PO Squad 2,Mid,Morning,APAC South,20
+A033,Product Ops,PO Squad 3,Mid,Morning,EU West,11
+A034,Product Ops,PO Squad 1,Lead,Night,EU West,21

@@ -1,0 +1,44 @@
+{
+  "train_size": 46620,
+  "test_size": 15540,
+  "positive_rate": 0.2367,
+  "results": {
+    "Logistic Regression": {
+      "precision": 0.637,
+      "recall": 0.84,
+      "f1": 0.724,
+      "roc_auc": 0.917,
+      "tn": 10099,
+      "fp": 1762,
+      "fn": 589,
+      "tp": 3090
+    },
+    "Random Forest": {
+      "precision": 0.668,
+      "recall": 0.817,
+      "f1": 0.735,
+      "roc_auc": 0.916,
+      "tn": 10366,
+      "fp": 1495,
+      "fn": 673,
+      "tp": 3006
+    }
+  },
+  "top_features": {
+    "response_sla_hours": 0.2939,
+    "sla_hours": 0.286,
+    "priority_P1": 0.1014,
+    "priority_P4": 0.0921,
+    "priority_P3": 0.0713,
+    "priority_P2": 0.0472,
+    "time_of_day": 0.0123,
+    "agent_load": 0.0113,
+    "n_escalations": 0.0112,
+    "day_of_week": 0.0082,
+    "customer_segment_SMB": 0.0073,
+    "customer_segment_Strategic": 0.0067,
+    "is_night": 0.0046,
+    "category_Technical Issue": 0.0041,
+    "customer_segment_Enterprise": 0.0038
+  }
+}

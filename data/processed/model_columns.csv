@@ -1,0 +1,15 @@
+columns
+priority
+category
+department
+channel
+customer_segment
+agent_shift
+agent_load
+n_escalations
+sla_hours
+response_sla_hours
+time_of_day
+day_of_week
+is_night
+is_weekend

@@ -1,0 +1,113 @@
+{
+  "stage_profile": {
+    "Investigation": {
+      "n": 70247,
+      "median_hours": 7.27,
+      "mean_hours": 8.71,
+      "p95_hours": 20.28,
+      "total_hours": 612033.49,
+      "share_of_cycle_pct": 45.68
+    },
+    "Assigned": {
+      "n": 62160,
+      "median_hours": 3.14,
+      "mean_hours": 3.95,
+      "p95_hours": 9.55,
+      "total_hours": 245756.11,
+      "share_of_cycle_pct": 18.34
+    },
+    "Resolution": {
+      "n": 66977,
+      "median_hours": 1.1,
+      "mean_hours": 3.11,
+      "p95_hours": 14.81,
+      "total_hours": 208013.29,
+      "share_of_cycle_pct": 15.53
+    },
+    "Created": {
+      "n": 62160,
+      "median_hours": 1.04,
+      "mean_hours": 1.27,
+      "p95_hours": 2.95,
+      "total_hours": 78769.71,
+      "share_of_cycle_pct": 5.88
+    },
+    "Reopened": {
+      "n": 5124,
+      "median_hours": 10.66,
+      "mean_hours": 13.76,
+      "p95_hours": 34.87,
+      "total_hours": 70520.88,
+      "share_of_cycle_pct": 5.26
+    },
+    "Closed": {
+      "n": 66968,
+      "median_hours": 0.85,
+      "mean_hours": 1.02,
+      "p95_hours": 2.27,
+      "total_hours": 68219.38,
+      "share_of_cycle_pct": 5.09
+    },
+    "Escalated": {
+      "n": 8087,
+      "median_hours": 3.2,
+      "mean_hours": 3.52,
+      "p95_hours": 6.6,
+      "total_hours": 28427.94,
+      "share_of_cycle_pct": 2.12
+    },
+    "First Response": {
+      "n": 62160,
+      "median_hours": 0.4,
+      "mean_hours": 0.45,
+      "p95_hours": 0.9,
+      "total_hours": 28065.37,
+      "share_of_cycle_pct": 2.09
+    }
+  },
+  "investigation_breakdown": {
+    "by_category": {
+      "Technical Issue": 10.89,
+      "Integration": 9.65,
+      "Security Concern": 9.08,
+      "Data Correction": 8.4,
+      "Feature Request": 8.09,
+      "Account Setup": 7.38,
+      "Billing Dispute": 5.85,
+      "Access Management": 5.35
+    },
+    "by_department": {
+      "Product Ops": 8.33,
+      "Technical": 8.3,
+      "Account Management": 8.3,
+      "Support": 8.25,
+      "Billing": 8.22
+    },
+    "by_priority": {
+      "P4": 9.96,
+      "P3": 9.15,
+      "P2": 6.74,
+      "P1": 4.45
+    }
+  },
+  "tests": {
+    "load_high_vs_low": {
+      "high_median": 19.14,
+      "low_median": 16.11,
+      "mannwhitney_u": 259481781.0,
+      "p_value": 0.0
+    },
+    "escalated_vs_not": {
+      "esc_median": 22.56,
+      "no_esc_median": 16.8,
+      "mannwhitney_u": 302936114.0,
+      "p_value": 0.0
+    },
+    "technical_vs_others": {
+      "tech_median": 20.58,
+      "other_median": 16.96,
+      "mannwhitney_u": 332456695.0,
+      "p_value": 0.0
+    }
+  }
+}

@@ -1,0 +1,4201 @@
+customer_id,customer_segment,region,customer_value_kusd
+C00001,Enterprise,APAC,136.3
+C00002,SMB,EMEA,10.9
+C00003,Enterprise,APAC,233.5
+C00004,Enterprise,North America,178.1
+C00005,Enterprise,APAC,165.3
+C00006,SMB,EMEA,12.1
+C00007,Mid-Market,EMEA,37.9
+C00008,Mid-Market,North America,110.6
+C00009,Mid-Market,North America,115.9
+C00010,Mid-Market,North America,39.5
+C00011,Mid-Market,North America,79.9
+C00012,Strategic,APAC,253.3
+C00013,SMB,North America,29.5
+C00014,Mid-Market,APAC,38.4
+C00015,Mid-Market,North America,41.6
+C00016,Mid-Market,EMEA,56.3
+C00017,SMB,APAC,11.2
+C00018,Mid-Market,North America,48.2
+C00019,Enterprise,EMEA,354.5
+C00020,SMB,North America,9.6
+C00021,Enterprise,North America,115.4
+C00022,Mid-Market,APAC,87.5
+C00023,Mid-Market,APAC,71.3
+C00024,Mid-Market,North America,44.7
+C00025,Enterprise,North America,92.2
+C00026,SMB,APAC,24.4
+C00027,SMB,APAC,13.6
+C00028,Mid-Market,LATAM,49.9
+C00029,Mid-Market,North America,119.8
+C00030,Enterprise,APAC,86.4
+C00031,Enterprise,APAC,147.6
+C00032,Enterprise,EMEA,97.2
+C00033,Mid-Market,LATAM,50.2
+C00034,Mid-Market,North America,69.8
+C00035,Enterprise,North America,213.8
+C00036,Enterprise,EMEA,109.5
+C00037,Mid-Market,North America,51.6
+C00038,SMB,LATAM,12.2
+C00039,Enterprise,APAC,128.7
+C00040,Mid-Market,EMEA,76.4
+C00041,SMB,North America,8.8
+C00042,Strategic,EMEA,433.1
+C00043,Enterprise,North America,177.3
+C00044,SMB,EMEA,8.2
+C00045,SMB,EMEA,9.2
+C00046,Strategic,North America,288.1
+C00047,SMB,North America,11.2
+C00048,Mid-Market,APAC,162.3
+C00049,Mid-Market,North America,99.5
+C00050,SMB,APAC,6.2
+C00051,Enterprise,North America,97.7
+C00052,SMB,North America,7.1
+C00053,Mid-Market,North America,130.6
+C00054,Mid-Market,North America,85.1
+C00055,Enterprise,North America,150.6
+C00056,Enterprise,North America,141.9
+C00057,Enterprise,North America,197.8
+C00058,SMB,EMEA,14.1
+C00059,Mid-Market,APAC,43.4
+C00060,Strategic,North America,1419.1
+C00061,Enterprise,EMEA,190.3
+C00062,Strategic,North America,449.9
+C00063,Enterprise,APAC,180.1
+C00064,SMB,North America,18.2
+C00065,SMB,APAC,9.7
+C00066,SMB,EMEA,10.5
+C00067,Enterprise,EMEA,171.4
+C00068,SMB,EMEA,10.8
+C00069,Mid-Market,North America,50.8
+C00070,Mid-Market,EMEA,130.5
+C00071,Mid-Market,North America,51.8
+C00072,Mid-Market,EMEA,51.6
+C00073,SMB,APAC,26.2
+C00074,Mid-Market,EMEA,131.5
+C00075,SMB,APAC,10.5
+C00076,Mid-Market,North America,93.7
+C00077,Enterprise,EMEA,146.8
+C00078,Mid-Market,North America,136.1
+C00079,Enterprise,APAC,155.3
+C00080,SMB,APAC,23.7
+C00081,SMB,LATAM,7.6
+C00082,Enterprise,EMEA,118.3
+C00083,Mid-Market,North America,100.9
+C00084,Mid-Market,EMEA,68.8
+C00085,SMB,LATAM,24.8
+C00086,Mid-Market,APAC,78.3
+C00087,Enterprise,North America,188.8
+C00088,Mid-Market,LATAM,86.5
+C00089,Mid-Market,APAC,66.7
+C00090,Enterprise,North America,149.7
+C00091,Enterprise,North America,250.9
+C00092,Mid-Market,North America,116.9
+C00093,Mid-Market,APAC,65.7
+C00094,Mid-Market,North America,109.1
+C00095,SMB,APAC,15.4
+C00096,SMB,EMEA,4.9
+C00097,Mid-Market,EMEA,63.0
+C00098,Mid-Market,APAC,34.2
+C00099,Mid-Market,EMEA,73.1
+C00100,SMB,LATAM,6.4
+C00101,SMB,APAC,9.7
+C00102,SMB,North America,12.8
+C00103,Enterprise,APAC,203.1
+C00104,Enterprise,North America,174.8
+C00105,Enterprise,APAC,202.3
+C00106,Strategic,North America,581.0
+C00107,Mid-Market,LATAM,30.8
+C00108,SMB,North America,16.8
+C00109,SMB,LATAM,19.6
+C00110,SMB,North America,8.5
+C00111,Enterprise,EMEA,294.2
+C00112,Mid-Market,APAC,45.9
+C00113,SMB,North America,10.2
+C00114,SMB,APAC,6.4
+C00115,Strategic,EMEA,495.3
+C00116,SMB,LATAM,18.2
+C00117,Enterprise,North America,98.9
+C00118,Mid-Market,LATAM,55.1
+C00119,Mid-Market,North America,108.7
+C00120,Mid-Market,EMEA,97.0
+C00121,SMB,APAC,14.3
+C00122,Mid-Market,EMEA,144.4
+C00123,Enterprise,North America,172.0
+C00124,Mid-Market,EMEA,69.7
+C00125,Mid-Market,EMEA,41.2
+C00126,Enterprise,EMEA,96.8
+C00127,Strategic,North America,956.4
+C00128,Enterprise,EMEA,187.1
+C00129,SMB,EMEA,13.0
+C00130,Mid-Market,LATAM,96.8
+C00131,Mid-Market,EMEA,193.1
+C00132,Mid-Market,LATAM,62.5
+C00133,SMB,EMEA,11.1
+C00134,SMB,North America,8.2
+C00135,Mid-Market,North America,81.0
+C00136,SMB,North America,10.5
+C00137,Mid-Market,North America,91.4
+C00138,SMB,North America,4.9
+C00139,SMB,EMEA,18.0
+C00140,Mid-Market,North America,15.8
+C00141,SMB,APAC,14.6
+C00142,Mid-Market,EMEA,29.7
+C00143,Mid-Market,EMEA,57.7
+C00144,Enterprise,EMEA,216.1
+C00145,Enterprise,APAC,333.0
+C00146,Mid-Market,APAC,109.4
+C00147,Enterprise,North America,131.1
+C00148,Enterprise,LATAM,179.7
+C00149,Mid-Market,North America,39.3
+C00150,SMB,North America,5.9
+C00151,Enterprise,EMEA,268.2
+C00152,Mid-Market,North America,28.1
+C00153,SMB,EMEA,11.1
+C00154,SMB,LATAM,13.2
+C00155,Mid-Market,EMEA,80.8
+C00156,SMB,EMEA,13.7
+C00157,SMB,EMEA,10.5
+C00158,Mid-Market,APAC,34.3
+C00159,Mid-Market,EMEA,40.2
+C00160,Mid-Market,APAC,61.4
+C00161,Enterprise,North America,223.2
+C00162,Strategic,APAC,512.0
+C00163,Mid-Market,EMEA,58.2
+C00164,Enterprise,EMEA,174.3
+C00165,SMB,EMEA,21.0
+C00166,SMB,APAC,4.1
+C00167,SMB,LATAM,7.4
+C00168,Enterprise,EMEA,94.2
+C00169,Mid-Market,EMEA,123.9
+C00170,SMB,North America,27.2
+C00171,SMB,North America,5.7
+C00172,Strategic,EMEA,316.5
+C00173,SMB,EMEA,5.4
+C00174,Mid-Market,LATAM,106.5
+C00175,Mid-Market,LATAM,76.5
+C00176,SMB,North America,5.6
+C00177,Strategic,North America,444.7
+C00178,SMB,LATAM,8.3
+C00179,SMB,APAC,13.4
+C00180,Enterprise,EMEA,131.2
+C00181,Strategic,EMEA,302.7
+C00182,Strategic,North America,332.4
+C00183,SMB,North America,4.1
+C00184,Mid-Market,APAC,50.0
+C00185,Mid-Market,North America,52.7
+C00186,SMB,North America,15.6
+C00187,Mid-Market,LATAM,82.2
+C00188,SMB,North America,10.3
+C00189,Enterprise,EMEA,73.4
+C00190,Mid-Market,APAC,137.8
+C00191,Enterprise,North America,97.4
+C00192,Enterprise,North America,108.2
+C00193,Mid-Market,North America,51.9
+C00194,SMB,LATAM,8.0
+C00195,Enterprise,APAC,74.3
+C00196,Mid-Market,APAC,47.4
+C00197,SMB,EMEA,13.6
+C00198,Enterprise,North America,233.1
+C00199,Enterprise,APAC,190.3
+C00200,Mid-Market,LATAM,55.7
+C00201,Mid-Market,EMEA,105.4
+C00202,SMB,APAC,9.6
+C00203,SMB,North America,17.1
+C00204,Enterprise,EMEA,132.2
+C00205,Mid-Market,EMEA,92.1
+C00206,SMB,North America,8.4
+C00207,Enterprise,North America,106.0
+C00208,Mid-Market,North America,53.7
+C00209,Enterprise,North America,256.5
+C00210,SMB,North America,15.4
+C00211,Mid-Market,EMEA,59.6
+C00212,Enterprise,APAC,159.1
+C00213,Mid-Market,EMEA,29.7
+C00214,Mid-Market,LATAM,37.9
+C00215,Enterprise,North America,57.3
+C00216,Mid-Market,EMEA,115.8
+C00217,Mid-Market,APAC,35.9
+C00218,Mid-Market,LATAM,61.6
+C00219,Strategic,North America,453.3
+C00220,Strategic,North America,575.1
+C00221,Enterprise,EMEA,251.1
+C00222,Mid-Market,EMEA,26.0
+C00223,Strategic,APAC,898.2
+C00224,Enterprise,LATAM,107.0
+C00225,Enterprise,APAC,101.3
+C00226,Mid-Market,APAC,100.0
+C00227,SMB,North America,16.0
+C00228,Mid-Market,North America,79.9
+C00229,Mid-Market,North America,69.9
+C00230,Mid-Market,North America,46.7
+C00231,SMB,LATAM,26.1
+C00232,Mid-Market,APAC,110.2
+C00233,Enterprise,North America,97.8
+C00234,Enterprise,EMEA,89.0
+C00235,Strategic,North America,898.2
+C00236,Mid-Market,North America,67.1
+C00237,SMB,EMEA,7.4
+C00238,Enterprise,North America,91.2
+C00239,Enterprise,EMEA,71.6
+C00240,Strategic,EMEA,644.3
+C00241,SMB,North America,8.2
+C00242,Mid-Market,North America,71.2
+C00243,SMB,EMEA,11.3
+C00244,SMB,EMEA,13.2
+C00245,Strategic,EMEA,448.2
+C00246,Mid-Market,North America,69.0
+C00247,Mid-Market,EMEA,67.8
+C00248,SMB,North America,22.9
+C00249,SMB,APAC,7.1
+C00250,Mid-Market,LATAM,60.8
+C00251,Mid-Market,EMEA,103.6
+C00252,SMB,LATAM,24.2
+C00253,Enterprise,APAC,114.0
+C00254,SMB,North America,22.8
+C00255,SMB,North America,28.3
+C00256,Mid-Market,LATAM,57.5
+C00257,Mid-Market,North America,250.8
+C00258,Mid-Market,EMEA,92.8
+C00259,SMB,EMEA,18.1
+C00260,Mid-Market,North America,60.4
+C00261,Enterprise,EMEA,66.9
+C00262,SMB,North America,6.3
+C00263,SMB,APAC,8.8
+C00264,Enterprise,North America,133.2
+C00265,Mid-Market,North America,68.0
+C00266,Mid-Market,APAC,61.7
+C00267,Mid-Market,North America,59.7
+C00268,Enterprise,LATAM,158.0
+C00269,SMB,APAC,7.3
+C00270,SMB,North America,13.7
+C00271,Mid-Market,EMEA,19.5
+C00272,SMB,EMEA,9.3
+C00273,Enterprise,North America,139.1
+C00274,SMB,EMEA,8.1
+C00275,Enterprise,North America,190.7
+C00276,SMB,LATAM,24.5
+C00277,SMB,North America,10.8
+C00278,Enterprise,North America,98.6
+C00279,Enterprise,North America,205.4
+C00280,Enterprise,EMEA,269.4
+C00281,SMB,North America,15.2
+C00282,Enterprise,North America,138.7
+C00283,SMB,APAC,9.3
+C00284,Mid-Market,EMEA,55.6
+C00285,Mid-Market,EMEA,62.1
+C00286,Enterprise,APAC,270.3
+C00287,SMB,North America,15.6
+C00288,Enterprise,North America,244.3
+C00289,Enterprise,APAC,238.4
+C00290,Mid-Market,EMEA,68.3
+C00291,Mid-Market,North America,16.0
+C00292,SMB,LATAM,5.5
+C00293,Enterprise,APAC,94.8
+C00294,Strategic,North America,321.7
+C00295,Mid-Market,LATAM,72.1
+C00296,Enterprise,APAC,101.9
+C00297,Mid-Market,North America,32.5
+C00298,Enterprise,North America,242.5
+C00299,Enterprise,North America,152.5
+C00300,Mid-Market,APAC,38.3
+C00301,SMB,EMEA,10.0
+C00302,Mid-Market,EMEA,73.9
+C00303,Mid-Market,North America,83.5
+C00304,SMB,North America,6.4
+C00305,SMB,LATAM,15.8
+C00306,Mid-Market,EMEA,88.8
+C00307,SMB,EMEA,21.7
+C00308,Mid-Market,EMEA,84.7
+C00309,Mid-Market,APAC,86.9
+C00310,SMB,North America,10.0
+C00311,Mid-Market,North America,69.9
+C00312,SMB,LATAM,16.9
+C00313,Strategic,North America,765.5
+C00314,SMB,APAC,7.5
+C00315,SMB,North America,10.6
+C00316,Enterprise,North America,186.4
+C00317,SMB,North America,15.8
+C00318,SMB,APAC,4.5
+C00319,Enterprise,EMEA,256.1
+C00320,SMB,EMEA,9.6
+C00321,Strategic,North America,399.7
+C00322,Mid-Market,EMEA,86.2
+C00323,SMB,North America,18.6
+C00324,Mid-Market,EMEA,42.6
+C00325,Enterprise,APAC,204.2
+C00326,SMB,APAC,6.9
+C00327,SMB,LATAM,36.1
+C00328,Mid-Market,North America,64.2
+C00329,Enterprise,North America,195.4
+C00330,Mid-Market,North America,48.9
+C00331,SMB,North America,11.7
+C00332,Mid-Market,LATAM,115.0
+C00333,Enterprise,LATAM,96.9
+C00334,Mid-Market,APAC,39.8
+C00335,Enterprise,North America,566.4
+C00336,SMB,APAC,13.4
+C00337,Enterprise,LATAM,164.5
+C00338,SMB,LATAM,6.4
+C00339,SMB,North America,10.6
+C00340,Mid-Market,EMEA,85.8
+C00341,SMB,APAC,20.8
+C00342,Enterprise,EMEA,248.0
+C00343,Mid-Market,EMEA,79.1
+C00344,Strategic,EMEA,244.1
+C00345,SMB,APAC,8.4
+C00346,Mid-Market,North America,117.2
+C00347,SMB,EMEA,10.8
+C00348,Enterprise,APAC,266.5
+C00349,Enterprise,EMEA,102.5
+C00350,Strategic,North America,285.4
+C00351,SMB,North America,10.6
+C00352,SMB,North America,10.8
+C00353,SMB,APAC,10.7
+C00354,SMB,North America,11.1
+C00355,SMB,North America,12.2
+C00356,Mid-Market,LATAM,130.0
+C00357,Mid-Market,North America,47.0
+C00358,SMB,North America,14.8
+C00359,Enterprise,North America,254.4
+C00360,Mid-Market,APAC,67.8
+C00361,SMB,EMEA,12.6
+C00362,SMB,APAC,4.0
+C00363,Enterprise,North America,135.9
+C00364,Enterprise,EMEA,102.7
+C00365,Mid-Market,APAC,135.0
+C00366,Strategic,North America,238.5
+C00367,Mid-Market,North America,38.3
+C00368,SMB,APAC,8.5
+C00369,Mid-Market,North America,72.4
+C00370,Mid-Market,EMEA,41.9
+C00371,Strategic,North America,215.3
+C00372,SMB,EMEA,15.8
+C00373,SMB,EMEA,18.9
+C00374,SMB,North America,28.6
+C00375,Mid-Market,North America,39.5
+C00376,Enterprise,North America,88.2
+C00377,Mid-Market,North America,57.3
+C00378,SMB,North America,8.7
+C00379,Strategic,North America,457.3
+C00380,Mid-Market,North America,55.2
+C00381,SMB,North America,6.5
+C00382,Enterprise,EMEA,93.4
+C00383,SMB,LATAM,21.4
+C00384,Mid-Market,APAC,40.0
+C00385,Mid-Market,North America,46.3
+C00386,Mid-Market,LATAM,46.9
+C00387,SMB,EMEA,12.5
+C00388,Mid-Market,EMEA,60.7
+C00389,Mid-Market,North America,120.6
+C00390,SMB,EMEA,25.6
+C00391,Mid-Market,EMEA,61.9
+C00392,SMB,APAC,11.1
+C00393,Mid-Market,EMEA,118.7
+C00394,Mid-Market,EMEA,43.3
+C00395,Mid-Market,North America,59.0
+C00396,Enterprise,North America,250.9
+C00397,Mid-Market,North America,49.1
+C00398,SMB,North America,8.2
+C00399,SMB,EMEA,15.7
+C00400,Strategic,APAC,337.9
+C00401,SMB,EMEA,12.1
+C00402,Strategic,EMEA,471.1
+C00403,Strategic,EMEA,150.6
+C00404,Mid-Market,EMEA,61.7
+C00405,SMB,North America,11.9
+C00406,Mid-Market,EMEA,64.8
+C00407,Enterprise,LATAM,61.4
+C00408,Mid-Market,APAC,29.5
+C00409,SMB,North America,7.8
+C00410,SMB,EMEA,4.0
+C00411,SMB,EMEA,10.7
+C00412,SMB,EMEA,20.9
+C00413,Mid-Market,EMEA,35.3
+C00414,SMB,APAC,14.4
+C00415,Mid-Market,APAC,54.8
+C00416,Mid-Market,EMEA,102.5
+C00417,Enterprise,EMEA,158.4
+C00418,Mid-Market,North America,92.7
+C00419,Mid-Market,North America,56.7
+C00420,Enterprise,North America,98.6
+C00421,SMB,EMEA,14.4
+C00422,SMB,North America,16.1
+C00423,SMB,EMEA,8.4
+C00424,Mid-Market,North America,47.3
+C00425,SMB,APAC,13.9
+C00426,SMB,North America,11.4
+C00427,Strategic,APAC,223.7
+C00428,Enterprise,North America,378.4
+C00429,Enterprise,EMEA,127.4
+C00430,Mid-Market,North America,50.6
+C00431,Strategic,APAC,589.6
+C00432,Enterprise,North America,96.4
+C00433,Enterprise,APAC,246.4
+C00434,SMB,APAC,14.4
+C00435,SMB,North America,14.1
+C00436,Mid-Market,EMEA,68.4
+C00437,SMB,LATAM,4.0
+C00438,Mid-Market,North America,27.3
+C00439,Mid-Market,North America,36.8
+C00440,SMB,EMEA,8.9
+C00441,Mid-Market,North America,73.9
+C00442,Enterprise,APAC,209.8
+C00443,Mid-Market,APAC,31.8
+C00444,Enterprise,North America,146.0
+C00445,Strategic,North America,546.8
+C00446,SMB,EMEA,12.0
+C00447,Enterprise,LATAM,436.4
+C00448,SMB,APAC,22.2
+C00449,Enterprise,North America,250.4
+C00450,SMB,EMEA,10.9
+C00451,Mid-Market,North America,112.7
+C00452,SMB,LATAM,17.4
+C00453,Enterprise,EMEA,223.8
+C00454,SMB,North America,8.1
+C00455,Mid-Market,EMEA,57.8
+C00456,Mid-Market,APAC,34.2
+C00457,Mid-Market,EMEA,70.6
+C00458,Mid-Market,North America,56.2
+C00459,Strategic,APAC,791.4
+C00460,SMB,EMEA,10.4
+C00461,SMB,EMEA,10.0
+C00462,Mid-Market,EMEA,168.9
+C00463,Mid-Market,North America,70.5
+C00464,SMB,APAC,8.2
+C00465,Mid-Market,LATAM,61.1
+C00466,SMB,EMEA,6.3
+C00467,SMB,North America,19.9
+C00468,Mid-Market,LATAM,55.1
+C00469,Enterprise,North America,83.1
+C00470,Enterprise,North America,195.9
+C00471,Mid-Market,APAC,69.6
+C00472,SMB,North America,17.8
+C00473,Mid-Market,North America,65.0
+C00474,Mid-Market,North America,45.3
+C00475,SMB,North America,7.3
+C00476,SMB,LATAM,16.5
+C00477,Mid-Market,APAC,45.3
+C00478,Mid-Market,North America,54.5
+C00479,Mid-Market,North America,58.8
+C00480,Mid-Market,North America,61.9
+C00481,Mid-Market,North America,24.4
+C00482,Enterprise,LATAM,116.0
+C00483,Mid-Market,EMEA,25.1
+C00484,SMB,EMEA,10.8
+C00485,SMB,LATAM,19.5
+C00486,Enterprise,North America,61.2
+C00487,Mid-Market,EMEA,69.0
+C00488,Mid-Market,APAC,148.2
+C00489,Enterprise,LATAM,74.9
+C00490,SMB,APAC,10.7
+C00491,Mid-Market,EMEA,57.2
+C00492,Mid-Market,APAC,26.9
+C00493,Mid-Market,North America,71.7
+C00494,Enterprise,North America,123.1
+C00495,Mid-Market,APAC,45.2
+C00496,Enterprise,North America,230.3
+C00497,Enterprise,APAC,170.4
+C00498,SMB,APAC,7.9
+C00499,Enterprise,APAC,172.1
+C00500,Mid-Market,EMEA,60.7
+C00501,SMB,LATAM,11.9
+C00502,SMB,North America,12.2
+C00503,Mid-Market,APAC,70.1
+C00504,Enterprise,EMEA,204.9
+C00505,Enterprise,North America,77.2
+C00506,Mid-Market,North America,38.5
+C00507,Mid-Market,EMEA,31.8
+C00508,SMB,LATAM,14.2
+C00509,Mid-Market,EMEA,66.8
+C00510,Enterprise,EMEA,156.1
+C00511,Enterprise,EMEA,84.4
+C00512,Enterprise,EMEA,201.1
+C00513,SMB,APAC,10.1
+C00514,Enterprise,North America,157.0
+C00515,Enterprise,APAC,203.3
+C00516,Enterprise,APAC,185.1
+C00517,Strategic,North America,408.5
+C00518,SMB,North America,13.1
+C00519,SMB,APAC,24.5
+C00520,Strategic,APAC,231.0
+C00521,Mid-Market,LATAM,59.5
+C00522,SMB,APAC,5.4
+C00523,Mid-Market,APAC,54.7
+C00524,SMB,APAC,4.0
+C00525,Enterprise,North America,163.9
+C00526,Mid-Market,EMEA,55.4
+C00527,SMB,APAC,21.3
+C00528,SMB,LATAM,10.8
+C00529,Enterprise,LATAM,72.5
+C00530,SMB,APAC,35.1
+C00531,Mid-Market,EMEA,134.8
+C00532,SMB,North America,13.3
+C00533,SMB,North America,8.8
+C00534,Mid-Market,APAC,63.8
+C00535,Mid-Market,LATAM,29.0
+C00536,Mid-Market,EMEA,43.3
+C00537,Strategic,North America,252.2
+C00538,Mid-Market,EMEA,45.0
+C00539,Mid-Market,APAC,67.1
+C00540,Mid-Market,APAC,47.2
+C00541,SMB,North America,6.4
+C00542,SMB,APAC,6.8
+C00543,Mid-Market,LATAM,174.7
+C00544,Enterprise,North America,96.3
+C00545,SMB,EMEA,4.2
+C00546,Mid-Market,EMEA,48.9
+C00547,SMB,North America,11.1
+C00548,SMB,North America,16.0
+C00549,Enterprise,APAC,169.4
+C00550,SMB,North America,15.8
+C00551,Enterprise,North America,85.3
+C00552,Strategic,APAC,664.3
+C00553,Enterprise,LATAM,126.1
+C00554,SMB,EMEA,11.5
+C00555,Mid-Market,EMEA,31.4
+C00556,Mid-Market,North America,32.4
+C00557,Enterprise,LATAM,168.2
+C00558,Enterprise,North America,201.0
+C00559,Mid-Market,EMEA,42.3
+C00560,Strategic,EMEA,320.6
+C00561,Enterprise,EMEA,121.1
+C00562,Enterprise,EMEA,262.4
+C00563,Mid-Market,EMEA,166.5
+C00564,Mid-Market,North America,35.3
+C00565,SMB,LATAM,7.5
+C00566,Mid-Market,EMEA,34.7
+C00567,Enterprise,North America,566.5
+C00568,Enterprise,LATAM,130.6
+C00569,SMB,EMEA,25.9
+C00570,Mid-Market,APAC,32.7
+C00571,Mid-Market,EMEA,115.9
+C00572,Strategic,EMEA,133.6
+C00573,SMB,EMEA,20.7
+C00574,SMB,EMEA,13.7
+C00575,Enterprise,North America,159.4
+C00576,Mid-Market,LATAM,26.1
+C00577,Strategic,EMEA,374.2
+C00578,SMB,North America,11.8
+C00579,Mid-Market,EMEA,49.9
+C00580,SMB,North America,14.9
+C00581,Mid-Market,LATAM,92.5
+C00582,SMB,North America,13.6
+C00583,Enterprise,North America,130.0
+C00584,SMB,APAC,14.9
+C00585,Mid-Market,APAC,84.8
+C00586,Enterprise,EMEA,107.7
+C00587,Mid-Market,EMEA,121.0
+C00588,SMB,APAC,16.8
+C00589,Enterprise,North America,192.8
+C00590,Mid-Market,EMEA,66.2
+C00591,Mid-Market,LATAM,40.0
+C00592,Mid-Market,North America,89.1
+C00593,SMB,EMEA,4.8
+C00594,SMB,EMEA,10.1
+C00595,Mid-Market,North America,66.6
+C00596,Enterprise,North America,198.1
+C00597,Mid-Market,North America,96.0
+C00598,Enterprise,EMEA,214.9
+C00599,Mid-Market,North America,95.1
+C00600,SMB,North America,10.9
+C00601,SMB,EMEA,13.3
+C00602,Enterprise,EMEA,121.3
+C00603,Mid-Market,APAC,26.4
+C00604,Mid-Market,EMEA,113.9
+C00605,Enterprise,North America,303.4
+C00606,SMB,North America,4.9
+C00607,SMB,EMEA,13.1
+C00608,SMB,LATAM,19.0
+C00609,Mid-Market,EMEA,22.7
+C00610,Strategic,North America,199.0
+C00611,Mid-Market,North America,37.0
+C00612,SMB,North America,15.7
+C00613,Strategic,APAC,237.2
+C00614,Strategic,EMEA,323.8
+C00615,SMB,APAC,15.1
+C00616,Strategic,LATAM,683.4
+C00617,Mid-Market,EMEA,95.2
+C00618,Enterprise,EMEA,97.8
+C00619,SMB,APAC,19.9
+C00620,Mid-Market,North America,46.2
+C00621,SMB,EMEA,16.7
+C00622,Enterprise,EMEA,108.5
+C00623,SMB,North America,24.7
+C00624,Mid-Market,APAC,44.2
+C00625,Mid-Market,APAC,62.6
+C00626,SMB,APAC,10.1
+C00627,Enterprise,EMEA,106.3
+C00628,Strategic,North America,410.3
+C00629,Enterprise,North America,119.2
+C00630,Mid-Market,APAC,90.3
+C00631,SMB,LATAM,9.2
+C00632,SMB,EMEA,10.6
+C00633,Enterprise,EMEA,199.0
+C00634,Enterprise,North America,131.8
+C00635,Mid-Market,EMEA,52.3
+C00636,Strategic,EMEA,218.8
+C00637,SMB,North America,13.2
+C00638,Enterprise,EMEA,172.8
+C00639,SMB,EMEA,10.7
+C00640,Mid-Market,North America,65.6
+C00641,Mid-Market,EMEA,32.5
+C00642,SMB,APAC,13.3
+C00643,Mid-Market,LATAM,71.6
+C00644,SMB,EMEA,9.5
+C00645,SMB,North America,8.9
+C00646,Mid-Market,North America,31.9
+C00647,SMB,North America,7.3
+C00648,SMB,North America,6.8
+C00649,SMB,EMEA,11.9
+C00650,SMB,North America,11.8
+C00651,Enterprise,North America,198.3
+C00652,Mid-Market,APAC,63.6
+C00653,Mid-Market,APAC,30.9
+C00654,Enterprise,APAC,175.5
+C00655,Mid-Market,APAC,48.1
+C00656,Mid-Market,North America,63.2
+C00657,Enterprise,EMEA,250.5
+C00658,SMB,North America,18.2
+C00659,Mid-Market,LATAM,42.6
+C00660,Mid-Market,APAC,80.8
+C00661,Enterprise,APAC,96.5
+C00662,Strategic,North America,673.8
+C00663,Enterprise,EMEA,163.9
+C00664,SMB,APAC,5.3
+C00665,SMB,LATAM,6.3
+C00666,Mid-Market,North America,71.2
+C00667,Mid-Market,North America,92.6
+C00668,Strategic,APAC,366.2
+C00669,Strategic,North America,164.3
+C00670,Enterprise,North America,123.6
+C00671,Enterprise,North America,163.9
+C00672,Mid-Market,North America,72.1
+C00673,Strategic,North America,429.6
+C00674,SMB,APAC,11.5
+C00675,Mid-Market,North America,74.1
+C00676,SMB,APAC,12.7
+C00677,Mid-Market,LATAM,85.4
+C00678,Mid-Market,APAC,26.6
+C00679,SMB,LATAM,5.5
+C00680,SMB,North America,10.6
+C00681,SMB,EMEA,7.5
+C00682,Enterprise,North America,190.7
+C00683,Strategic,North America,437.4
+C00684,Mid-Market,EMEA,61.7
+C00685,Enterprise,APAC,226.5
+C00686,Mid-Market,EMEA,41.7
+C00687,Enterprise,EMEA,174.5
+C00688,Mid-Market,EMEA,72.6
+C00689,SMB,North America,34.4
+C00690,SMB,APAC,8.4
+C00691,Enterprise,EMEA,234.2
+C00692,SMB,EMEA,11.5
+C00693,SMB,North America,14.3
+C00694,SMB,North America,7.9
+C00695,SMB,North America,12.7
+C00696,Enterprise,EMEA,109.3
+C00697,SMB,APAC,15.7
+C00698,Mid-Market,EMEA,81.4
+C00699,Mid-Market,North America,39.2
+C00700,SMB,EMEA,21.6
+C00701,Mid-Market,APAC,105.2
+C00702,Enterprise,APAC,114.8
+C00703,Mid-Market,North America,36.9
+C00704,Mid-Market,North America,69.8
+C00705,Enterprise,EMEA,201.1
+C00706,Strategic,EMEA,1039.0
+C00707,SMB,North America,7.6
+C00708,SMB,APAC,11.4
+C00709,Mid-Market,North America,76.8
+C00710,Enterprise,North America,102.1
+C00711,Enterprise,North America,69.4
+C00712,Enterprise,EMEA,145.2
+C00713,Mid-Market,EMEA,55.4
+C00714,Mid-Market,EMEA,97.6
+C00715,Mid-Market,APAC,73.1
+C00716,Strategic,North America,570.9
+C00717,SMB,EMEA,26.7
+C00718,Mid-Market,North America,60.3
+C00719,Mid-Market,LATAM,30.7
+C00720,Mid-Market,EMEA,62.4
+C00721,SMB,APAC,13.3
+C00722,Mid-Market,North America,160.5
+C00723,SMB,EMEA,7.4
+C00724,Mid-Market,LATAM,39.6
+C00725,Enterprise,APAC,153.6
+C00726,Enterprise,North America,278.2
+C00727,SMB,EMEA,18.3
+C00728,Enterprise,North America,78.5
+C00729,Strategic,North America,675.9
+C00730,SMB,LATAM,16.3
+C00731,Mid-Market,EMEA,35.2
+C00732,Mid-Market,EMEA,97.7
+C00733,SMB,APAC,8.4
+C00734,Mid-Market,North America,74.4
+C00735,Enterprise,North America,145.3
+C00736,Mid-Market,APAC,72.4
+C00737,Strategic,North America,602.0
+C00738,Enterprise,APAC,90.0
+C00739,Enterprise,EMEA,65.5
+C00740,Mid-Market,North America,98.6
+C00741,Enterprise,North America,188.4
+C00742,SMB,EMEA,18.6
+C00743,Strategic,North America,668.6
+C00744,SMB,North America,20.3
+C00745,Strategic,APAC,285.4
+C00746,Enterprise,North America,128.3
+C00747,SMB,North America,9.9
+C00748,Mid-Market,LATAM,143.3
+C00749,Mid-Market,APAC,67.5
+C00750,SMB,North America,22.2
+C00751,SMB,LATAM,14.2
+C00752,Enterprise,North America,437.3
+C00753,Mid-Market,EMEA,105.7
+C00754,Mid-Market,North America,20.5
+C00755,Enterprise,APAC,310.0
+C00756,Enterprise,EMEA,106.6
+C00757,Enterprise,North America,157.6
+C00758,Strategic,EMEA,1389.7
+C00759,Strategic,EMEA,584.8
+C00760,Mid-Market,LATAM,23.8
+C00761,Strategic,EMEA,258.5
+C00762,Enterprise,North America,314.5
+C00763,Mid-Market,EMEA,79.4
+C00764,SMB,APAC,7.0
+C00765,Enterprise,EMEA,185.1
+C00766,Mid-Market,APAC,121.6
+C00767,SMB,EMEA,14.9
+C00768,Mid-Market,North America,99.3
+C00769,Mid-Market,North America,85.6
+C00770,Enterprise,North America,151.9
+C00771,Enterprise,APAC,53.4
+C00772,Strategic,EMEA,407.7
+C00773,SMB,APAC,17.1
+C00774,Mid-Market,North America,81.6
+C00775,SMB,EMEA,16.2
+C00776,Mid-Market,LATAM,24.8
+C00777,Enterprise,North America,183.9
+C00778,Mid-Market,EMEA,49.2
+C00779,Mid-Market,EMEA,78.2
+C00780,SMB,LATAM,13.6
+C00781,SMB,EMEA,15.6
+C00782,Mid-Market,North America,68.4
+C00783,Mid-Market,APAC,47.1
+C00784,Enterprise,EMEA,74.4
+C00785,SMB,APAC,22.1
+C00786,Mid-Market,North America,79.2
+C00787,SMB,LATAM,10.6
+C00788,Mid-Market,North America,62.8
+C00789,Enterprise,North America,123.4
+C00790,Mid-Market,North America,30.2
+C00791,Mid-Market,LATAM,62.8
+C00792,SMB,APAC,7.7
+C00793,Mid-Market,North America,56.6
+C00794,SMB,EMEA,7.7
+C00795,Enterprise,LATAM,516.4
+C00796,Strategic,EMEA,565.4
+C00797,SMB,North America,10.0
+C00798,SMB,APAC,10.0
+C00799,SMB,EMEA,9.1
+C00800,Enterprise,North America,90.8
+C00801,SMB,North America,7.0
+C00802,Mid-Market,North America,49.2
+C00803,Mid-Market,North America,60.4
+C00804,SMB,North America,13.9
+C00805,SMB,APAC,12.2
+C00806,Mid-Market,EMEA,84.5
+C00807,Strategic,APAC,269.1
+C00808,SMB,EMEA,11.5
+C00809,Mid-Market,EMEA,87.9
+C00810,Mid-Market,North America,66.5
+C00811,Mid-Market,APAC,43.8
+C00812,Mid-Market,North America,98.0
+C00813,Mid-Market,EMEA,22.4
+C00814,Enterprise,EMEA,205.2
+C00815,Enterprise,EMEA,199.0
+C00816,Mid-Market,EMEA,119.0
+C00817,Mid-Market,EMEA,52.3
+C00818,Strategic,North America,440.9
+C00819,SMB,North America,9.2
+C00820,SMB,APAC,15.4
+C00821,Mid-Market,EMEA,133.8
+C00822,Enterprise,APAC,145.3
+C00823,SMB,North America,16.3
+C00824,Strategic,North America,651.0
+C00825,Enterprise,EMEA,204.2
+C00826,SMB,APAC,11.1
+C00827,Enterprise,North America,108.4
+C00828,Enterprise,North America,212.6
+C00829,SMB,EMEA,10.4
+C00830,Mid-Market,LATAM,48.2
+C00831,Enterprise,EMEA,73.3
+C00832,SMB,EMEA,11.4
+C00833,SMB,EMEA,14.3
+C00834,Enterprise,EMEA,233.5
+C00835,SMB,APAC,14.1
+C00836,SMB,APAC,25.6
+C00837,SMB,EMEA,13.1
+C00838,Mid-Market,North America,74.1
+C00839,Enterprise,North America,310.5
+C00840,SMB,EMEA,14.2
+C00841,Mid-Market,EMEA,106.1
+C00842,SMB,North America,18.6
+C00843,SMB,EMEA,14.8
+C00844,Enterprise,APAC,301.8
+C00845,SMB,LATAM,8.2
+C00846,SMB,EMEA,16.5
+C00847,SMB,EMEA,20.9
+C00848,Mid-Market,EMEA,95.7
+C00849,Enterprise,APAC,153.8
+C00850,Mid-Market,North America,40.1
+C00851,SMB,APAC,17.4
+C00852,Mid-Market,EMEA,86.9
+C00853,Mid-Market,North America,26.0
+C00854,Mid-Market,EMEA,91.2
+C00855,SMB,LATAM,8.8
+C00856,SMB,APAC,13.2
+C00857,Mid-Market,North America,110.3
+C00858,Enterprise,EMEA,157.0
+C00859,Mid-Market,APAC,58.5
+C00860,SMB,APAC,20.7
+C00861,Strategic,North America,539.4
+C00862,SMB,EMEA,11.5
+C00863,SMB,LATAM,23.0
+C00864,SMB,North America,9.5
+C00865,SMB,APAC,7.5
+C00866,Enterprise,North America,285.5
+C00867,Enterprise,EMEA,122.9
+C00868,Strategic,EMEA,368.9
+C00869,SMB,EMEA,8.8
+C00870,Enterprise,EMEA,132.3
+C00871,Enterprise,North America,141.6
+C00872,Strategic,North America,545.9
+C00873,Mid-Market,North America,74.6
+C00874,Enterprise,EMEA,323.7
+C00875,Mid-Market,North America,73.6
+C00876,Enterprise,LATAM,250.4
+C00877,SMB,North America,12.8
+C00878,Mid-Market,North America,107.1
+C00879,SMB,APAC,7.5
+C00880,SMB,LATAM,22.5
+C00881,SMB,LATAM,12.8
+C00882,SMB,APAC,17.6
+C00883,Mid-Market,North America,102.3
+C00884,Mid-Market,EMEA,71.8
+C00885,SMB,North America,11.4
+C00886,SMB,North America,11.6
+C00887,Mid-Market,EMEA,61.9
+C00888,Enterprise,North America,255.4
+C00889,Enterprise,EMEA,285.9
+C00890,Enterprise,EMEA,122.9
+C00891,Mid-Market,APAC,55.6
+C00892,SMB,North America,7.1
+C00893,SMB,APAC,9.7
+C00894,Mid-Market,North America,39.2
+C00895,SMB,APAC,22.5
+C00896,Strategic,EMEA,275.1
+C00897,Enterprise,North America,269.7
+C00898,Enterprise,North America,148.4
+C00899,SMB,LATAM,14.3
+C00900,Strategic,EMEA,421.0
+C00901,Mid-Market,EMEA,80.0
+C00902,Enterprise,EMEA,236.9
+C00903,SMB,APAC,9.4
+C00904,Mid-Market,North America,43.9
+C00905,SMB,North America,17.4
+C00906,Mid-Market,APAC,77.8
+C00907,SMB,EMEA,9.9
+C00908,Mid-Market,North America,48.7
+C00909,Mid-Market,EMEA,118.1
+C00910,Enterprise,EMEA,258.5
+C00911,Strategic,EMEA,401.9
+C00912,Mid-Market,EMEA,49.0
+C00913,Mid-Market,LATAM,42.1
+C00914,SMB,EMEA,16.3
+C00915,Mid-Market,EMEA,77.7
+C00916,Enterprise,North America,247.5
+C00917,Mid-Market,EMEA,40.8
+C00918,Strategic,EMEA,168.9
+C00919,Strategic,North America,309.5
+C00920,Enterprise,North America,132.4
+C00921,Mid-Market,North America,47.2
+C00922,Enterprise,EMEA,224.5
+C00923,Mid-Market,North America,68.6
+C00924,SMB,North America,12.0
+C00925,Enterprise,APAC,380.4
+C00926,Mid-Market,APAC,39.7
+C00927,SMB,North America,7.7
+C00928,Mid-Market,North America,77.0
+C00929,Enterprise,APAC,165.5
+C00930,SMB,APAC,15.6
+C00931,SMB,EMEA,7.5
+C00932,Enterprise,EMEA,227.9
+C00933,Mid-Market,North America,114.2
+C00934,SMB,North America,8.3
+C00935,SMB,North America,12.7
+C00936,SMB,North America,6.2
+C00937,SMB,EMEA,47.5
+C00938,SMB,EMEA,15.1
+C00939,Mid-Market,APAC,77.6
+C00940,Mid-Market,North America,37.0
+C00941,Enterprise,North America,58.3
+C00942,Enterprise,LATAM,110.1
+C00943,Enterprise,North America,239.2
+C00944,SMB,APAC,12.0
+C00945,Enterprise,LATAM,170.5
+C00946,SMB,EMEA,8.3
+C00947,Enterprise,North America,118.7
+C00948,SMB,North America,18.6
+C00949,Enterprise,EMEA,230.2
+C00950,Enterprise,EMEA,253.3
+C00951,Mid-Market,EMEA,61.1
+C00952,SMB,EMEA,7.0
+C00953,SMB,LATAM,28.1
+C00954,SMB,EMEA,14.1
+C00955,Enterprise,EMEA,364.7
+C00956,Enterprise,North America,115.6
+C00957,Enterprise,EMEA,119.7
+C00958,SMB,North America,17.2
+C00959,Mid-Market,EMEA,52.1
+C00960,Enterprise,APAC,271.9
+C00961,SMB,EMEA,4.0
+C00962,SMB,North America,10.0
+C00963,Mid-Market,North America,106.0
+C00964,SMB,North America,11.3
+C00965,SMB,LATAM,14.5
+C00966,SMB,APAC,7.1
+C00967,Mid-Market,North America,51.8
+C00968,SMB,EMEA,7.6
+C00969,Mid-Market,North America,65.2
+C00970,SMB,EMEA,11.9
+C00971,SMB,North America,12.2
+C00972,Enterprise,APAC,117.7
+C00973,Mid-Market,North America,95.3
+C00974,Mid-Market,North America,46.1
+C00975,SMB,EMEA,8.4
+C00976,SMB,APAC,33.8
+C00977,SMB,North America,11.0
+C00978,SMB,EMEA,9.8
+C00979,Enterprise,North America,176.8
+C00980,Mid-Market,EMEA,124.8
+C00981,SMB,EMEA,9.6
+C00982,Mid-Market,North America,171.3
+C00983,Mid-Market,North America,105.3
+C00984,SMB,LATAM,6.0
+C00985,SMB,North America,4.9
+C00986,Mid-Market,North America,83.7
+C00987,Enterprise,EMEA,132.4
+C00988,SMB,North America,9.3
+C00989,Mid-Market,EMEA,71.1
+C00990,SMB,APAC,4.8
+C00991,SMB,EMEA,14.4
+C00992,Enterprise,North America,161.0
+C00993,SMB,North America,8.2
+C00994,SMB,EMEA,15.5
+C00995,Mid-Market,EMEA,98.1
+C00996,SMB,North America,11.5
+C00997,SMB,LATAM,21.2
+C00998,Mid-Market,North America,48.1
+C00999,Enterprise,North America,199.1
+C01000,Mid-Market,North America,113.9
+C01001,Enterprise,North America,106.5
+C01002,Enterprise,EMEA,95.9
+C01003,Mid-Market,APAC,44.3
+C01004,Strategic,EMEA,437.5
+C01005,SMB,North America,10.5
+C01006,Mid-Market,North America,73.0
+C01007,SMB,North America,17.7
+C01008,Mid-Market,LATAM,84.9
+C01009,SMB,North America,12.0
+C01010,Mid-Market,North America,96.2
+C01011,Enterprise,North America,177.4
+C01012,Strategic,APAC,557.9
+C01013,SMB,APAC,12.9
+C01014,SMB,EMEA,8.9
+C01015,Enterprise,North America,363.9
+C01016,Mid-Market,APAC,44.7
+C01017,SMB,APAC,7.6
+C01018,Strategic,APAC,642.4
+C01019,Strategic,EMEA,562.7
+C01020,Enterprise,EMEA,111.0
+C01021,Strategic,North America,827.7
+C01022,SMB,North America,16.8
+C01023,Enterprise,North America,110.4
+C01024,SMB,EMEA,13.0
+C01025,Mid-Market,North America,66.9
+C01026,SMB,LATAM,14.5
+C01027,SMB,EMEA,16.2
+C01028,Mid-Market,North America,45.3
+C01029,Enterprise,North America,282.8
+C01030,SMB,LATAM,29.1
+C01031,Enterprise,EMEA,112.0
+C01032,Strategic,North America,334.4
+C01033,Enterprise,LATAM,152.0
+C01034,SMB,North America,13.6
+C01035,SMB,North America,11.3
+C01036,Mid-Market,EMEA,199.7
+C01037,Mid-Market,North America,43.8
+C01038,Enterprise,APAC,205.4
+C01039,Mid-Market,North America,69.9
+C01040,Mid-Market,APAC,39.7
+C01041,Enterprise,EMEA,218.1
+C01042,SMB,APAC,17.0
+C01043,SMB,EMEA,13.0
+C01044,Mid-Market,North America,38.5
+C01045,Enterprise,North America,206.3
+C01046,Strategic,North America,257.2
+C01047,Strategic,North America,216.7
+C01048,Enterprise,North America,166.3
+C01049,SMB,North America,19.3
+C01050,Mid-Market,EMEA,95.2
+C01051,SMB,APAC,20.3
+C01052,Mid-Market,North America,72.8
+C01053,SMB,North America,13.9
+C01054,Enterprise,North America,163.0
+C01055,Mid-Market,EMEA,37.8
+C01056,Mid-Market,North America,33.2
+C01057,Mid-Market,EMEA,94.2
+C01058,SMB,LATAM,5.7
+C01059,Mid-Market,North America,46.0
+C01060,Mid-Market,North America,79.2
+C01061,Strategic,North America,789.1
+C01062,Strategic,APAC,321.6
+C01063,Mid-Market,EMEA,83.8
+C01064,Strategic,EMEA,660.2
+C01065,Enterprise,North America,179.7
+C01066,Mid-Market,LATAM,41.0
+C01067,Mid-Market,APAC,65.2
+C01068,SMB,EMEA,6.4
+C01069,SMB,North America,14.0
+C01070,Enterprise,North America,107.8
+C01071,Mid-Market,APAC,36.7
+C01072,Mid-Market,North America,48.1
+C01073,Enterprise,North America,157.2
+C01074,SMB,LATAM,19.5
+C01075,SMB,EMEA,10.1
+C01076,Enterprise,North America,246.6
+C01077,Mid-Market,North America,50.1
+C01078,Mid-Market,EMEA,46.7
+C01079,Mid-Market,North America,94.5
+C01080,Mid-Market,North America,50.0
+C01081,SMB,EMEA,13.6
+C01082,Mid-Market,APAC,46.2
+C01083,SMB,North America,11.7
+C01084,Mid-Market,North America,76.9
+C01085,Mid-Market,APAC,93.1
+C01086,SMB,APAC,14.9
+C01087,Enterprise,EMEA,131.0
+C01088,SMB,EMEA,11.1
+C01089,Enterprise,EMEA,235.9
+C01090,Strategic,EMEA,666.7
+C01091,Strategic,North America,347.4
+C01092,SMB,North America,18.1
+C01093,Mid-Market,APAC,61.8
+C01094,SMB,EMEA,12.1
+C01095,Mid-Market,North America,50.2
+C01096,Enterprise,EMEA,143.2
+C01097,Enterprise,North America,76.9
+C01098,SMB,North America,25.6
+C01099,SMB,North America,10.8
+C01100,Mid-Market,North America,76.5
+C01101,Enterprise,APAC,193.3
+C01102,SMB,EMEA,10.3
+C01103,SMB,North America,21.2
+C01104,Mid-Market,North America,64.6
+C01105,Strategic,EMEA,440.7
+C01106,Enterprise,North America,89.9
+C01107,SMB,North America,13.8
+C01108,SMB,North America,6.0
+C01109,SMB,EMEA,12.0
+C01110,Strategic,APAC,352.8
+C01111,SMB,APAC,13.3
+C01112,SMB,EMEA,8.9
+C01113,Strategic,North America,395.8
+C01114,SMB,EMEA,9.5
+C01115,Mid-Market,APAC,41.9
+C01116,Mid-Market,EMEA,78.6
+C01117,Mid-Market,EMEA,26.0
+C01118,SMB,APAC,17.4
+C01119,Mid-Market,LATAM,30.3
+C01120,Mid-Market,EMEA,127.3
+C01121,Enterprise,EMEA,79.8
+C01122,Strategic,APAC,161.0
+C01123,Enterprise,LATAM,97.3
+C01124,SMB,EMEA,18.4
+C01125,Mid-Market,EMEA,60.2
+C01126,SMB,LATAM,7.7
+C01127,Mid-Market,LATAM,71.2
+C01128,Enterprise,APAC,228.6
+C01129,SMB,APAC,10.3
+C01130,SMB,EMEA,15.2
+C01131,Mid-Market,LATAM,52.8
+C01132,SMB,North America,12.3
+C01133,Mid-Market,EMEA,98.7
+C01134,Enterprise,APAC,248.5
+C01135,Strategic,North America,196.3
+C01136,Enterprise,EMEA,221.3
+C01137,Enterprise,EMEA,178.0
+C01138,Mid-Market,APAC,84.9
+C01139,SMB,North America,6.6
+C01140,Mid-Market,EMEA,151.9
+C01141,Enterprise,APAC,303.3
+C01142,Mid-Market,North America,52.3
+C01143,Enterprise,LATAM,88.8
+C01144,SMB,EMEA,10.9
+C01145,SMB,EMEA,9.6
+C01146,Enterprise,APAC,288.5
+C01147,SMB,EMEA,16.7
+C01148,Mid-Market,LATAM,53.9
+C01149,Mid-Market,EMEA,52.8
+C01150,Mid-Market,APAC,58.9
+C01151,SMB,North America,10.8
+C01152,SMB,EMEA,21.8
+C01153,SMB,APAC,12.9
+C01154,Mid-Market,LATAM,73.4
+C01155,SMB,North America,15.1
+C01156,Enterprise,North America,259.6
+C01157,SMB,APAC,14.1
+C01158,Mid-Market,North America,58.4
+C01159,Mid-Market,North America,43.3
+C01160,Strategic,North America,196.0
+C01161,Enterprise,North America,190.2
+C01162,Mid-Market,EMEA,57.0
+C01163,Mid-Market,EMEA,108.0
+C01164,Enterprise,North America,87.7
+C01165,Mid-Market,North America,88.5
+C01166,SMB,LATAM,14.1
+C01167,SMB,LATAM,10.6
+C01168,Enterprise,North America,256.5
+C01169,Mid-Market,EMEA,43.0
+C01170,Strategic,LATAM,185.8
+C01171,SMB,EMEA,10.9
+C01172,Strategic,LATAM,275.8
+C01173,Strategic,EMEA,227.3
+C01174,Mid-Market,North America,127.6
+C01175,Enterprise,North America,199.5
+C01176,Enterprise,North America,227.8
+C01177,Enterprise,North America,156.8
+C01178,Strategic,North America,466.1
+C01179,SMB,LATAM,6.6
+C01180,Mid-Market,North America,62.2
+C01181,Mid-Market,EMEA,149.7
+C01182,Mid-Market,North America,41.9
+C01183,SMB,APAC,22.0
+C01184,Mid-Market,North America,50.6
+C01185,SMB,North America,9.3
+C01186,Mid-Market,North America,92.8
+C01187,Mid-Market,APAC,115.6
+C01188,Mid-Market,North America,28.6
+C01189,Enterprise,EMEA,157.2
+C01190,Mid-Market,North America,46.2
+C01191,Strategic,North America,424.6
+C01192,Enterprise,EMEA,273.5
+C01193,Strategic,North America,354.9
+C01194,SMB,EMEA,8.1
+C01195,SMB,LATAM,29.8
+C01196,SMB,APAC,20.8
+C01197,SMB,APAC,20.5
+C01198,Mid-Market,EMEA,55.5
+C01199,SMB,EMEA,21.9
+C01200,SMB,APAC,6.0
+C01201,SMB,LATAM,9.0
+C01202,SMB,EMEA,22.8
+C01203,Enterprise,APAC,163.8
+C01204,SMB,LATAM,17.6
+C01205,Enterprise,North America,187.1
+C01206,Mid-Market,North America,39.9
+C01207,Enterprise,APAC,191.8
+C01208,Enterprise,North America,148.3
+C01209,Mid-Market,LATAM,36.6
+C01210,Mid-Market,North America,74.7
+C01211,SMB,North America,5.0
+C01212,Mid-Market,North America,37.5
+C01213,Strategic,EMEA,414.6
+C01214,Mid-Market,EMEA,63.8
+C01215,SMB,APAC,13.5
+C01216,SMB,LATAM,39.1
+C01217,SMB,North America,11.5
+C01218,SMB,North America,21.4
+C01219,SMB,North America,11.1
+C01220,SMB,APAC,11.7
+C01221,Mid-Market,EMEA,42.2
+C01222,Mid-Market,North America,55.4
+C01223,Mid-Market,EMEA,52.9
+C01224,SMB,EMEA,11.2
+C01225,Strategic,North America,271.6
+C01226,Enterprise,North America,196.4
+C01227,SMB,EMEA,16.4
+C01228,SMB,EMEA,11.5
+C01229,Mid-Market,North America,79.8
+C01230,Mid-Market,EMEA,43.1
+C01231,SMB,APAC,10.1
+C01232,Mid-Market,EMEA,48.2
+C01233,SMB,EMEA,9.7
+C01234,Mid-Market,APAC,27.8
+C01235,Mid-Market,EMEA,50.9
+C01236,Mid-Market,North America,43.3
+C01237,SMB,North America,9.0
+C01238,Enterprise,EMEA,144.4
+C01239,SMB,EMEA,11.2
+C01240,SMB,LATAM,5.4
+C01241,Enterprise,North America,183.4
+C01242,Mid-Market,North America,101.6
+C01243,Enterprise,LATAM,242.9
+C01244,SMB,North America,6.6
+C01245,Strategic,EMEA,653.4
+C01246,SMB,North America,14.8
+C01247,Enterprise,EMEA,189.4
+C01248,Mid-Market,North America,110.2
+C01249,Enterprise,APAC,138.0
+C01250,Strategic,APAC,320.4
+C01251,Mid-Market,LATAM,50.7
+C01252,SMB,EMEA,11.1
+C01253,SMB,APAC,17.5
+C01254,Enterprise,North America,114.2
+C01255,Mid-Market,EMEA,93.4
+C01256,Mid-Market,North America,64.5
+C01257,Enterprise,North America,180.5
+C01258,SMB,LATAM,10.7
+C01259,Mid-Market,EMEA,43.2
+C01260,SMB,EMEA,24.2
+C01261,Mid-Market,EMEA,104.5
+C01262,Mid-Market,North America,51.7
+C01263,Mid-Market,EMEA,66.6
+C01264,Mid-Market,North America,38.8
+C01265,Mid-Market,APAC,42.3
+C01266,Mid-Market,EMEA,77.8
+C01267,Enterprise,APAC,148.2
+C01268,Mid-Market,EMEA,68.5
+C01269,Mid-Market,North America,21.0
+C01270,SMB,EMEA,17.7
+C01271,Strategic,North America,286.4
+C01272,Mid-Market,North America,62.5
+C01273,Enterprise,North America,160.7
+C01274,Enterprise,North America,92.6
+C01275,SMB,LATAM,25.1
+C01276,Mid-Market,APAC,72.4
+C01277,Enterprise,North America,206.1
+C01278,Enterprise,EMEA,128.3
+C01279,Mid-Market,North America,71.9
+C01280,Mid-Market,North America,33.4
+C01281,Enterprise,EMEA,301.3
+C01282,Strategic,North America,284.7
+C01283,Enterprise,EMEA,132.8
+C01284,Enterprise,North America,92.6
+C01285,Enterprise,North America,99.5
+C01286,Enterprise,EMEA,86.4
+C01287,SMB,APAC,13.9
+C01288,Enterprise,North America,80.7
+C01289,Strategic,North America,1202.7
+C01290,Mid-Market,North America,37.6
+C01291,Mid-Market,APAC,178.5
+C01292,Mid-Market,North America,21.9
+C01293,Enterprise,North America,119.4
+C01294,Enterprise,North America,185.0
+C01295,Strategic,EMEA,539.7
+C01296,Enterprise,EMEA,228.3
+C01297,SMB,North America,8.5
+C01298,Mid-Market,APAC,70.3
+C01299,SMB,LATAM,13.2
+C01300,Mid-Market,APAC,61.9
+C01301,Mid-Market,EMEA,52.3
+C01302,Enterprise,North America,219.5
+C01303,SMB,EMEA,21.6
+C01304,Mid-Market,LATAM,58.9
+C01305,SMB,EMEA,11.6
+C01306,Enterprise,North America,249.6
+C01307,SMB,APAC,18.7
+C01308,Mid-Market,EMEA,108.2
+C01309,SMB,North America,9.8
+C01310,Mid-Market,LATAM,38.3
+C01311,SMB,North America,7.5
+C01312,Enterprise,LATAM,177.8
+C01313,SMB,APAC,13.7
+C01314,Mid-Market,EMEA,83.9
+C01315,Enterprise,North America,142.6
+C01316,SMB,EMEA,8.3
+C01317,Mid-Market,North America,73.1
+C01318,SMB,North America,13.6
+C01319,SMB,EMEA,8.8
+C01320,Strategic,North America,630.6
+C01321,SMB,APAC,6.8
+C01322,Enterprise,North America,180.9
+C01323,Mid-Market,EMEA,52.2
+C01324,Enterprise,EMEA,109.7
+C01325,Mid-Market,APAC,67.3
+C01326,SMB,LATAM,13.0
+C01327,Mid-Market,North America,92.7
+C01328,SMB,EMEA,13.1
+C01329,Enterprise,EMEA,79.9
+C01330,Mid-Market,EMEA,44.9
+C01331,SMB,APAC,13.1
+C01332,SMB,North America,15.6
+C01333,Mid-Market,LATAM,64.5
+C01334,SMB,EMEA,8.8
+C01335,Mid-Market,EMEA,56.1
+C01336,Mid-Market,APAC,38.9
+C01337,SMB,EMEA,9.3
+C01338,Strategic,North America,596.9
+C01339,Enterprise,North America,125.4
+C01340,Mid-Market,EMEA,88.6
+C01341,Mid-Market,EMEA,57.4
+C01342,SMB,North America,8.9
+C01343,Enterprise,EMEA,192.9
+C01344,SMB,EMEA,11.5
+C01345,Enterprise,North America,149.1
+C01346,Mid-Market,EMEA,34.7
+C01347,SMB,APAC,9.7
+C01348,SMB,EMEA,19.8
+C01349,SMB,LATAM,10.2
+C01350,SMB,North America,8.3
+C01351,Mid-Market,APAC,84.3
+C01352,Enterprise,North America,113.4
+C01353,Mid-Market,North America,27.1
+C01354,Mid-Market,APAC,73.0
+C01355,Mid-Market,North America,64.8
+C01356,Enterprise,North America,136.6
+C01357,SMB,North America,21.3
+C01358,SMB,LATAM,15.4
+C01359,Strategic,North America,511.7
+C01360,SMB,EMEA,19.9
+C01361,Enterprise,EMEA,115.0
+C01362,SMB,North America,7.7
+C01363,SMB,North America,11.5
+C01364,Mid-Market,North America,54.5
+C01365,SMB,EMEA,8.5
+C01366,Mid-Market,North America,37.4
+C01367,Strategic,EMEA,438.0
+C01368,Strategic,North America,374.5
+C01369,SMB,EMEA,13.6
+C01370,SMB,APAC,5.2
+C01371,Mid-Market,LATAM,56.9
+C01372,SMB,North America,23.1
+C01373,SMB,North America,8.8
+C01374,Enterprise,EMEA,292.2
+C01375,Strategic,North America,219.7
+C01376,SMB,North America,6.5
+C01377,SMB,North America,7.2
+C01378,SMB,EMEA,15.1
+C01379,SMB,LATAM,12.4
+C01380,SMB,EMEA,8.6
+C01381,SMB,North America,14.4
+C01382,Mid-Market,APAC,42.1
+C01383,SMB,North America,6.3
+C01384,Mid-Market,North America,71.3
+C01385,Enterprise,APAC,115.3
+C01386,SMB,EMEA,17.4
+C01387,Strategic,North America,710.8
+C01388,SMB,EMEA,5.7
+C01389,Mid-Market,EMEA,41.7
+C01390,Mid-Market,LATAM,155.8
+C01391,Mid-Market,North America,60.2
+C01392,Mid-Market,North America,51.4
+C01393,Mid-Market,EMEA,77.0
+C01394,Enterprise,LATAM,163.7
+C01395,Mid-Market,APAC,74.4
+C01396,SMB,EMEA,24.9
+C01397,Mid-Market,EMEA,35.1
+C01398,Enterprise,EMEA,191.3
+C01399,SMB,APAC,18.0
+C01400,Enterprise,APAC,103.8
+C01401,Mid-Market,APAC,78.6
+C01402,Strategic,North America,386.1
+C01403,SMB,North America,8.2
+C01404,SMB,APAC,13.3
+C01405,SMB,EMEA,15.0
+C01406,Enterprise,North America,141.8
+C01407,Strategic,APAC,175.0
+C01408,SMB,North America,5.5
+C01409,SMB,North America,10.2
+C01410,SMB,APAC,9.7
+C01411,Mid-Market,EMEA,48.4
+C01412,Mid-Market,North America,101.0
+C01413,Mid-Market,North America,36.9
+C01414,Enterprise,EMEA,191.0
+C01415,SMB,North America,10.8
+C01416,Mid-Market,North America,113.1
+C01417,SMB,APAC,9.7
+C01418,Enterprise,EMEA,116.0
+C01419,Enterprise,LATAM,192.8
+C01420,SMB,EMEA,8.1
+C01421,Enterprise,LATAM,196.0
+C01422,SMB,LATAM,25.5
+C01423,Strategic,North America,655.1
+C01424,Mid-Market,APAC,60.3
+C01425,SMB,North America,30.8
+C01426,Strategic,EMEA,463.3
+C01427,Enterprise,LATAM,189.0
+C01428,Strategic,North America,390.6
+C01429,Mid-Market,North America,39.2
+C01430,Enterprise,EMEA,167.4
+C01431,Enterprise,North America,105.1
+C01432,Strategic,North America,494.7
+C01433,SMB,EMEA,27.4
+C01434,Mid-Market,APAC,95.0
+C01435,Enterprise,North America,171.3
+C01436,Mid-Market,APAC,53.6
+C01437,Enterprise,EMEA,154.3
+C01438,Mid-Market,EMEA,70.5
+C01439,SMB,APAC,14.4
+C01440,SMB,EMEA,7.2
+C01441,Enterprise,EMEA,100.8
+C01442,SMB,EMEA,10.2
+C01443,Mid-Market,APAC,70.3
+C01444,Enterprise,North America,122.3
+C01445,SMB,North America,14.7
+C01446,Enterprise,EMEA,222.8
+C01447,Mid-Market,EMEA,36.0
+C01448,Enterprise,LATAM,59.4
+C01449,Mid-Market,EMEA,48.5
+C01450,Enterprise,APAC,184.2
+C01451,SMB,North America,16.6
+C01452,Mid-Market,EMEA,79.0
+C01453,SMB,North America,13.0
+C01454,Mid-Market,EMEA,39.6
+C01455,SMB,LATAM,12.4
+C01456,Mid-Market,EMEA,33.9
+C01457,Enterprise,North America,117.5
+C01458,Enterprise,LATAM,283.4
+C01459,Mid-Market,EMEA,58.5
+C01460,Enterprise,North America,150.6
+C01461,Mid-Market,North America,55.7
+C01462,Enterprise,North America,184.1
+C01463,SMB,APAC,20.2
+C01464,Mid-Market,LATAM,43.9
+C01465,Enterprise,EMEA,172.8
+C01466,Mid-Market,EMEA,30.6
+C01467,Mid-Market,North America,76.1
+C01468,SMB,North America,28.3
+C01469,Strategic,North America,578.0
+C01470,Mid-Market,North America,69.7
+C01471,SMB,North America,7.6
+C01472,Enterprise,North America,193.7
+C01473,Strategic,EMEA,401.2
+C01474,SMB,LATAM,6.6
+C01475,Strategic,EMEA,1215.1
+C01476,Enterprise,North America,123.5
+C01477,Enterprise,EMEA,156.2
+C01478,Strategic,EMEA,623.4
+C01479,Mid-Market,APAC,52.1
+C01480,Mid-Market,APAC,68.6
+C01481,SMB,North America,17.9
+C01482,Strategic,EMEA,449.2
+C01483,SMB,APAC,14.3
+C01484,SMB,EMEA,14.6
+C01485,SMB,APAC,9.0
+C01486,Mid-Market,LATAM,72.7
+C01487,Enterprise,APAC,106.5
+C01488,Enterprise,North America,185.1
+C01489,Mid-Market,APAC,22.8
+C01490,SMB,LATAM,6.1
+C01491,SMB,North America,17.2
+C01492,SMB,APAC,16.8
+C01493,SMB,EMEA,15.8
+C01494,Enterprise,North America,283.6
+C01495,Mid-Market,EMEA,92.2
+C01496,SMB,EMEA,10.5
+C01497,Enterprise,EMEA,227.8
+C01498,Mid-Market,North America,56.4
+C01499,Enterprise,North America,93.8
+C01500,Enterprise,EMEA,116.5
+C01501,Mid-Market,EMEA,68.4
+C01502,Enterprise,North America,159.4
+C01503,Mid-Market,North America,68.7
+C01504,SMB,APAC,19.3
+C01505,Mid-Market,EMEA,38.8
+C01506,SMB,North America,4.0
+C01507,SMB,APAC,8.3
+C01508,Mid-Market,North America,44.0
+C01509,SMB,EMEA,24.9
+C01510,Mid-Market,EMEA,85.7
+C01511,Mid-Market,APAC,52.3
+C01512,Enterprise,North America,184.7
+C01513,Enterprise,EMEA,168.7
+C01514,Enterprise,North America,213.6
+C01515,SMB,APAC,14.7
+C01516,SMB,LATAM,13.8
+C01517,Mid-Market,APAC,70.6
+C01518,Mid-Market,North America,48.4
+C01519,SMB,EMEA,17.2
+C01520,Mid-Market,EMEA,52.5
+C01521,SMB,APAC,23.6
+C01522,Mid-Market,North America,55.3
+C01523,Enterprise,North America,178.3
+C01524,Enterprise,North America,188.4
+C01525,Enterprise,EMEA,136.1
+C01526,Mid-Market,North America,140.5
+C01527,Mid-Market,EMEA,58.6
+C01528,Mid-Market,EMEA,65.3
+C01529,Mid-Market,North America,35.9
+C01530,SMB,North America,29.4
+C01531,Mid-Market,North America,46.8
+C01532,Mid-Market,North America,38.2
+C01533,SMB,LATAM,7.3
+C01534,Enterprise,EMEA,234.1
+C01535,Enterprise,LATAM,125.5
+C01536,Strategic,North America,251.3
+C01537,Mid-Market,APAC,40.1
+C01538,Enterprise,EMEA,93.3
+C01539,Mid-Market,APAC,48.5
+C01540,Mid-Market,APAC,45.5
+C01541,SMB,EMEA,11.8
+C01542,SMB,EMEA,8.5
+C01543,Enterprise,EMEA,104.6
+C01544,Enterprise,EMEA,130.8
+C01545,Mid-Market,North America,40.6
+C01546,Strategic,North America,261.5
+C01547,Enterprise,North America,206.5
+C01548,Mid-Market,APAC,89.4
+C01549,Mid-Market,APAC,138.1
+C01550,Mid-Market,LATAM,57.3
+C01551,SMB,EMEA,12.8
+C01552,Enterprise,APAC,190.0
+C01553,Enterprise,North America,97.7
+C01554,SMB,LATAM,9.1
+C01555,Enterprise,North America,116.3
+C01556,SMB,LATAM,11.0
+C01557,Mid-Market,EMEA,68.5
+C01558,Mid-Market,EMEA,56.8
+C01559,SMB,EMEA,11.5
+C01560,Enterprise,EMEA,228.6
+C01561,Mid-Market,LATAM,67.7
+C01562,SMB,LATAM,14.5
+C01563,Mid-Market,North America,76.9
+C01564,SMB,APAC,19.8
+C01565,Enterprise,EMEA,334.1
+C01566,Mid-Market,APAC,68.3
+C01567,Strategic,North America,266.0
+C01568,SMB,EMEA,13.4
+C01569,Mid-Market,North America,37.3
+C01570,Enterprise,EMEA,149.1
+C01571,SMB,North America,4.4
+C01572,SMB,North America,8.4
+C01573,SMB,EMEA,11.7
+C01574,Strategic,North America,381.6
+C01575,SMB,North America,13.4
+C01576,SMB,North America,7.5
+C01577,Enterprise,North America,179.1
+C01578,Mid-Market,North America,134.0
+C01579,Mid-Market,EMEA,88.1
+C01580,Enterprise,EMEA,173.4
+C01581,Mid-Market,North America,123.6
+C01582,Mid-Market,North America,38.4
+C01583,SMB,North America,24.7
+C01584,Mid-Market,APAC,137.2
+C01585,Enterprise,North America,143.8
+C01586,SMB,EMEA,6.7
+C01587,Mid-Market,APAC,51.3
+C01588,Mid-Market,North America,69.1
+C01589,SMB,LATAM,6.6
+C01590,SMB,North America,15.6
+C01591,Enterprise,North America,222.5
+C01592,Mid-Market,APAC,40.4
+C01593,SMB,LATAM,14.7
+C01594,SMB,EMEA,12.1
+C01595,Enterprise,APAC,248.0
+C01596,Mid-Market,North America,146.1
+C01597,SMB,North America,11.6
+C01598,Mid-Market,LATAM,59.5
+C01599,Mid-Market,North America,20.8
+C01600,SMB,EMEA,15.6
+C01601,SMB,North America,8.9
+C01602,SMB,EMEA,16.9
+C01603,Mid-Market,LATAM,53.7
+C01604,SMB,North America,6.6
+C01605,Enterprise,APAC,111.0
+C01606,Enterprise,APAC,64.6
+C01607,Mid-Market,LATAM,71.9
+C01608,Enterprise,EMEA,80.2
+C01609,Enterprise,North America,236.5
+C01610,Mid-Market,North America,43.1
+C01611,Mid-Market,North America,54.8
+C01612,SMB,EMEA,10.8
+C01613,Mid-Market,North America,44.9
+C01614,SMB,APAC,5.9
+C01615,Mid-Market,North America,75.4
+C01616,Mid-Market,EMEA,40.0
+C01617,SMB,North America,12.5
+C01618,SMB,LATAM,6.5
+C01619,Mid-Market,North America,49.1
+C01620,Mid-Market,North America,75.9
+C01621,Enterprise,EMEA,180.8
+C01622,Enterprise,North America,195.2
+C01623,SMB,LATAM,24.6
+C01624,Mid-Market,North America,77.2
+C01625,Enterprise,EMEA,110.0
+C01626,Enterprise,EMEA,211.0
+C01627,Mid-Market,EMEA,49.1
+C01628,SMB,APAC,12.1
+C01629,Mid-Market,EMEA,104.9
+C01630,Mid-Market,EMEA,47.6
+C01631,Strategic,APAC,501.0
+C01632,Mid-Market,EMEA,102.8
+C01633,SMB,North America,11.7
+C01634,SMB,North America,10.3
+C01635,Mid-Market,North America,33.2
+C01636,SMB,North America,20.6
+C01637,Enterprise,APAC,257.4
+C01638,Mid-Market,EMEA,130.8
+C01639,SMB,North America,8.9
+C01640,Mid-Market,EMEA,82.2
+C01641,Enterprise,North America,126.5
+C01642,Enterprise,APAC,148.8
+C01643,Mid-Market,North America,70.4
+C01644,Mid-Market,North America,99.8
+C01645,Mid-Market,EMEA,26.4
+C01646,Enterprise,EMEA,165.9
+C01647,Mid-Market,LATAM,39.9
+C01648,Mid-Market,EMEA,67.3
+C01649,SMB,EMEA,12.7
+C01650,Mid-Market,APAC,51.7
+C01651,Mid-Market,LATAM,31.8
+C01652,Mid-Market,APAC,49.1
+C01653,SMB,EMEA,15.5
+C01654,SMB,EMEA,15.6
+C01655,Strategic,EMEA,940.8
+C01656,Mid-Market,North America,71.5
+C01657,Mid-Market,APAC,87.1
+C01658,Mid-Market,LATAM,46.6
+C01659,Enterprise,APAC,259.8
+C01660,SMB,North America,12.3
+C01661,Mid-Market,North America,52.4
+C01662,Mid-Market,EMEA,66.7
+C01663,Mid-Market,North America,72.6
+C01664,SMB,North America,17.1
+C01665,Enterprise,EMEA,339.9
+C01666,Strategic,North America,262.7
+C01667,SMB,EMEA,17.9
+C01668,Mid-Market,APAC,50.1
+C01669,SMB,APAC,4.0
+C01670,SMB,North America,17.4
+C01671,Enterprise,EMEA,231.5
+C01672,Strategic,North America,631.3
+C01673,Mid-Market,EMEA,42.4
+C01674,SMB,APAC,12.0
+C01675,Mid-Market,EMEA,26.6
+C01676,Mid-Market,LATAM,90.1
+C01677,SMB,EMEA,19.0
+C01678,Strategic,North America,654.8
+C01679,Enterprise,North America,158.7
+C01680,Mid-Market,EMEA,62.0
+C01681,Strategic,EMEA,573.8
+C01682,SMB,North America,10.5
+C01683,SMB,EMEA,17.9
+C01684,SMB,North America,9.7
+C01685,SMB,APAC,10.6
+C01686,Mid-Market,LATAM,72.3
+C01687,Enterprise,North America,117.5
+C01688,Mid-Market,North America,62.8
+C01689,Strategic,APAC,719.5
+C01690,Strategic,North America,209.6
+C01691,SMB,APAC,14.9
+C01692,Mid-Market,North America,75.5
+C01693,Enterprise,North America,452.8
+C01694,Mid-Market,North America,40.4
+C01695,Mid-Market,EMEA,56.5
+C01696,Strategic,North America,597.0
+C01697,SMB,APAC,15.8
+C01698,Mid-Market,LATAM,60.3
+C01699,Enterprise,North America,208.2
+C01700,Mid-Market,North America,43.6
+C01701,Mid-Market,North America,31.6
+C01702,SMB,EMEA,9.5
+C01703,Enterprise,LATAM,296.8
+C01704,Strategic,North America,262.4
+C01705,SMB,APAC,6.5
+C01706,Mid-Market,EMEA,72.3
+C01707,SMB,EMEA,14.8
+C01708,SMB,EMEA,9.6
+C01709,Mid-Market,APAC,63.1
+C01710,Mid-Market,APAC,60.1
+C01711,SMB,APAC,11.6
+C01712,SMB,EMEA,16.2
+C01713,Enterprise,EMEA,199.9
+C01714,Mid-Market,APAC,58.6
+C01715,Enterprise,North America,173.2
+C01716,Mid-Market,North America,25.6
+C01717,Mid-Market,EMEA,163.8
+C01718,SMB,LATAM,9.9
+C01719,SMB,North America,11.0
+C01720,Enterprise,EMEA,73.1
+C01721,SMB,North America,11.6
+C01722,Mid-Market,APAC,71.4
+C01723,Enterprise,North America,211.2
+C01724,Enterprise,North America,168.1
+C01725,Mid-Market,North America,75.5
+C01726,SMB,EMEA,22.7
+C01727,Enterprise,EMEA,94.4
+C01728,Strategic,North America,448.1
+C01729,Mid-Market,APAC,35.2
+C01730,Mid-Market,LATAM,31.0
+C01731,Enterprise,North America,87.7
+C01732,SMB,LATAM,9.4
+C01733,SMB,North America,8.7
+C01734,Strategic,APAC,595.5
+C01735,Enterprise,North America,65.7
+C01736,SMB,LATAM,18.9
+C01737,SMB,LATAM,10.6
+C01738,SMB,APAC,17.7
+C01739,Mid-Market,EMEA,150.6
+C01740,SMB,EMEA,8.1
+C01741,Enterprise,APAC,147.2
+C01742,SMB,EMEA,17.1
+C01743,SMB,North America,12.8
+C01744,SMB,North America,19.3
+C01745,SMB,LATAM,11.5
+C01746,SMB,North America,23.3
+C01747,Enterprise,EMEA,199.2
+C01748,Enterprise,North America,178.2
+C01749,Enterprise,North America,200.1
+C01750,SMB,EMEA,11.4
+C01751,SMB,EMEA,16.7
+C01752,Mid-Market,North America,98.8
+C01753,SMB,North America,8.9
+C01754,Enterprise,North America,129.4
+C01755,Mid-Market,LATAM,30.2
+C01756,Enterprise,North America,240.8
+C01757,Enterprise,LATAM,104.6
+C01758,Enterprise,EMEA,355.0
+C01759,Strategic,APAC,465.9
+C01760,Mid-Market,North America,115.8
+C01761,SMB,North America,15.9
+C01762,SMB,APAC,8.3
+C01763,SMB,EMEA,23.7
+C01764,Mid-Market,EMEA,52.2
+C01765,SMB,North America,7.7
+C01766,Enterprise,APAC,147.7
+C01767,Enterprise,LATAM,225.1
+C01768,SMB,APAC,13.4
+C01769,SMB,EMEA,8.9
+C01770,Mid-Market,North America,124.8
+C01771,SMB,North America,15.2
+C01772,Mid-Market,North America,71.8
+C01773,Enterprise,North America,262.8
+C01774,Enterprise,North America,239.1
+C01775,Strategic,LATAM,435.3
+C01776,Enterprise,EMEA,64.5
+C01777,Mid-Market,North America,35.2
+C01778,Enterprise,EMEA,157.9
+C01779,Enterprise,EMEA,250.0
+C01780,SMB,North America,12.0
+C01781,Mid-Market,North America,58.5
+C01782,SMB,APAC,9.6
+C01783,Mid-Market,LATAM,51.9
+C01784,SMB,North America,9.4
+C01785,SMB,North America,26.8
+C01786,Mid-Market,North America,58.3
+C01787,Enterprise,EMEA,239.6
+C01788,Mid-Market,APAC,112.1
+C01789,Enterprise,North America,250.1
+C01790,Mid-Market,North America,44.4
+C01791,Mid-Market,North America,100.5
+C01792,SMB,North America,7.9
+C01793,Enterprise,EMEA,84.4
+C01794,Enterprise,North America,110.2
+C01795,Enterprise,APAC,194.8
+C01796,Enterprise,APAC,271.6
+C01797,Mid-Market,APAC,52.1
+C01798,Mid-Market,APAC,60.1
+C01799,Enterprise,EMEA,78.4
+C01800,Strategic,APAC,502.2
+C01801,Mid-Market,EMEA,47.2
+C01802,Enterprise,APAC,76.4
+C01803,SMB,EMEA,10.7
+C01804,Strategic,North America,233.2
+C01805,SMB,APAC,16.6
+C01806,Mid-Market,EMEA,62.7
+C01807,SMB,EMEA,6.1
+C01808,Enterprise,APAC,253.1
+C01809,SMB,North America,9.2
+C01810,SMB,North America,14.9
+C01811,Mid-Market,APAC,83.3
+C01812,Enterprise,APAC,116.4
+C01813,SMB,LATAM,21.5
+C01814,Mid-Market,North America,40.6
+C01815,SMB,APAC,8.7
+C01816,Enterprise,EMEA,283.9
+C01817,Mid-Market,LATAM,77.1
+C01818,Strategic,EMEA,375.6
+C01819,SMB,EMEA,17.3
+C01820,Mid-Market,EMEA,91.0
+C01821,SMB,APAC,14.9
+C01822,Mid-Market,North America,37.2
+C01823,Mid-Market,LATAM,89.4
+C01824,SMB,North America,9.4
+C01825,Mid-Market,North America,86.3
+C01826,SMB,EMEA,8.7
+C01827,Mid-Market,North America,53.5
+C01828,Mid-Market,North America,47.0
+C01829,SMB,LATAM,9.2
+C01830,Mid-Market,EMEA,42.5
+C01831,Mid-Market,North America,36.7
+C01832,SMB,North America,7.8
+C01833,Strategic,EMEA,432.0
+C01834,SMB,LATAM,12.1
+C01835,Mid-Market,North America,30.0
+C01836,Enterprise,North America,133.4
+C01837,SMB,EMEA,17.3
+C01838,Mid-Market,North America,80.0
+C01839,SMB,LATAM,11.2
+C01840,SMB,EMEA,13.2
+C01841,Mid-Market,North America,43.4
+C01842,SMB,North America,12.9
+C01843,SMB,APAC,8.0
+C01844,SMB,EMEA,7.0
+C01845,Mid-Market,APAC,78.7
+C01846,Mid-Market,LATAM,127.2
+C01847,SMB,EMEA,14.0
+C01848,Mid-Market,EMEA,55.9
+C01849,Strategic,North America,370.1
+C01850,SMB,EMEA,15.0
+C01851,Mid-Market,APAC,124.6
+C01852,Enterprise,APAC,88.2
+C01853,Strategic,LATAM,731.4
+C01854,Strategic,EMEA,436.9
+C01855,Mid-Market,APAC,29.7
+C01856,Strategic,EMEA,385.4
+C01857,Mid-Market,APAC,41.0
+C01858,Enterprise,North America,199.5
+C01859,SMB,North America,9.4
+C01860,SMB,North America,17.1
+C01861,SMB,APAC,12.4
+C01862,SMB,North America,14.3
+C01863,Enterprise,North America,147.0
+C01864,SMB,APAC,10.3
+C01865,SMB,EMEA,16.0
+C01866,SMB,EMEA,6.8
+C01867,SMB,LATAM,13.3
+C01868,SMB,North America,8.8
+C01869,SMB,APAC,17.0
+C01870,Strategic,North America,381.9
+C01871,SMB,North America,37.5
+C01872,Enterprise,EMEA,74.9
+C01873,Strategic,North America,479.4
+C01874,SMB,APAC,5.4
+C01875,Mid-Market,North America,24.4
+C01876,Mid-Market,LATAM,91.5
+C01877,SMB,North America,14.7
+C01878,Enterprise,North America,208.2
+C01879,Mid-Market,LATAM,81.9
+C01880,SMB,APAC,4.9
+C01881,SMB,North America,5.9
+C01882,SMB,APAC,6.3
+C01883,Mid-Market,LATAM,46.9
+C01884,Enterprise,North America,137.8
+C01885,Mid-Market,EMEA,71.2
+C01886,SMB,EMEA,13.6
+C01887,Mid-Market,LATAM,69.2
+C01888,Mid-Market,LATAM,75.9
+C01889,SMB,North America,12.2
+C01890,Mid-Market,North America,47.7
+C01891,SMB,EMEA,13.3
+C01892,Mid-Market,North America,140.8
+C01893,Mid-Market,EMEA,38.4
+C01894,SMB,North America,22.2
+C01895,Enterprise,EMEA,361.5
+C01896,Mid-Market,LATAM,114.6
+C01897,Enterprise,North America,178.9
+C01898,Mid-Market,North America,26.1
+C01899,Mid-Market,EMEA,78.6
+C01900,Mid-Market,North America,66.4
+C01901,Mid-Market,EMEA,64.7
+C01902,SMB,North America,4.0
+C01903,SMB,APAC,6.1
+C01904,Strategic,North America,324.8
+C01905,SMB,EMEA,12.9
+C01906,Mid-Market,North America,251.0
+C01907,Strategic,EMEA,185.3
+C01908,SMB,North America,6.6
+C01909,SMB,North America,22.2
+C01910,Mid-Market,North America,26.0
+C01911,Enterprise,North America,71.8
+C01912,Mid-Market,North America,99.9
+C01913,Enterprise,North America,202.2
+C01914,SMB,APAC,6.1
+C01915,Strategic,North America,476.3
+C01916,SMB,North America,20.1
+C01917,Mid-Market,EMEA,41.0
+C01918,Strategic,EMEA,86.3
+C01919,SMB,EMEA,9.2
+C01920,SMB,North America,12.7
+C01921,SMB,EMEA,11.4
+C01922,Mid-Market,EMEA,78.1
+C01923,Enterprise,APAC,501.4
+C01924,Mid-Market,North America,64.8
+C01925,Mid-Market,LATAM,52.9
+C01926,SMB,North America,9.5
+C01927,Strategic,EMEA,509.1
+C01928,Mid-Market,North America,111.4
+C01929,SMB,APAC,9.8
+C01930,SMB,North America,14.3
+C01931,Enterprise,North America,175.5
+C01932,Enterprise,North America,129.5
+C01933,SMB,LATAM,19.8
+C01934,Enterprise,LATAM,103.8
+C01935,Enterprise,North America,101.5
+C01936,Mid-Market,EMEA,77.6
+C01937,Mid-Market,EMEA,49.8
+C01938,Mid-Market,EMEA,73.1
+C01939,Strategic,EMEA,219.9
+C01940,Strategic,North America,170.9
+C01941,Mid-Market,EMEA,187.2
+C01942,SMB,North America,7.3
+C01943,SMB,EMEA,8.3
+C01944,Mid-Market,APAC,91.0
+C01945,Enterprise,LATAM,84.2
+C01946,Enterprise,EMEA,159.2
+C01947,Mid-Market,APAC,83.4
+C01948,SMB,EMEA,15.5
+C01949,Mid-Market,APAC,97.2
+C01950,Enterprise,EMEA,109.6
+C01951,SMB,EMEA,11.9
+C01952,Mid-Market,LATAM,102.9
+C01953,SMB,EMEA,14.9
+C01954,Strategic,North America,351.5
+C01955,SMB,LATAM,29.8
+C01956,SMB,LATAM,13.0
+C01957,Mid-Market,North America,98.9
+C01958,Enterprise,LATAM,284.8
+C01959,SMB,APAC,10.2
+C01960,Enterprise,APAC,227.5
+C01961,SMB,North America,29.2
+C01962,SMB,North America,17.4
+C01963,Mid-Market,North America,53.6
+C01964,SMB,APAC,10.9
+C01965,Enterprise,North America,194.5
+C01966,Mid-Market,North America,51.8
+C01967,SMB,EMEA,11.2
+C01968,Mid-Market,North America,53.9
+C01969,Mid-Market,EMEA,82.8
+C01970,SMB,North America,13.1
+C01971,Strategic,North America,507.3
+C01972,SMB,APAC,12.8
+C01973,Mid-Market,North America,53.8
+C01974,Mid-Market,APAC,34.9
+C01975,Enterprise,North America,152.7
+C01976,SMB,North America,13.0
+C01977,Enterprise,LATAM,143.4
+C01978,Mid-Market,North America,35.6
+C01979,SMB,North America,13.4
+C01980,Mid-Market,North America,30.8
+C01981,SMB,EMEA,20.8
+C01982,Mid-Market,LATAM,40.2
+C01983,Enterprise,EMEA,57.5
+C01984,SMB,EMEA,9.1
+C01985,Mid-Market,EMEA,63.6
+C01986,Mid-Market,North America,31.3
+C01987,SMB,EMEA,6.4
+C01988,SMB,North America,28.3
+C01989,Mid-Market,North America,57.7
+C01990,Enterprise,APAC,194.8
+C01991,SMB,EMEA,11.7
+C01992,SMB,North America,10.0
+C01993,Mid-Market,EMEA,31.9
+C01994,Strategic,North America,364.5
+C01995,Mid-Market,North America,77.5
+C01996,SMB,LATAM,13.0
+C01997,Mid-Market,North America,90.9
+C01998,Enterprise,North America,103.6
+C01999,Enterprise,North America,330.7
+C02000,SMB,EMEA,13.3
+C02001,SMB,North America,15.8
+C02002,SMB,APAC,7.6
+C02003,Mid-Market,North America,72.2
+C02004,Enterprise,EMEA,225.6
+C02005,Strategic,APAC,257.4
+C02006,Mid-Market,North America,96.9
+C02007,SMB,LATAM,5.6
+C02008,Mid-Market,North America,79.1
+C02009,SMB,EMEA,12.5
+C02010,Mid-Market,EMEA,22.3
+C02011,SMB,EMEA,22.9
+C02012,Mid-Market,North America,45.1
+C02013,SMB,LATAM,8.3
+C02014,SMB,LATAM,11.7
+C02015,Mid-Market,EMEA,85.1
+C02016,Enterprise,North America,125.8
+C02017,Strategic,North America,287.7
+C02018,Enterprise,EMEA,391.7
+C02019,Mid-Market,EMEA,79.3
+C02020,Enterprise,North America,99.7
+C02021,Mid-Market,North America,47.5
+C02022,SMB,North America,15.0
+C02023,Enterprise,North America,213.8
+C02024,SMB,North America,7.8
+C02025,Mid-Market,North America,85.8
+C02026,Enterprise,EMEA,49.8
+C02027,Mid-Market,North America,151.1
+C02028,Mid-Market,APAC,22.3
+C02029,SMB,North America,7.4
+C02030,Strategic,North America,550.9
+C02031,SMB,EMEA,13.2
+C02032,Enterprise,North America,126.7
+C02033,Enterprise,North America,249.9
+C02034,SMB,EMEA,11.8
+C02035,SMB,North America,9.3
+C02036,Mid-Market,APAC,64.9
+C02037,SMB,North America,21.6
+C02038,Enterprise,APAC,145.3
+C02039,Strategic,EMEA,487.3
+C02040,SMB,North America,7.2
+C02041,Strategic,North America,983.2
+C02042,Enterprise,EMEA,142.1
+C02043,Strategic,EMEA,568.6
+C02044,SMB,LATAM,14.4
+C02045,SMB,North America,13.0
+C02046,Enterprise,APAC,222.8
+C02047,Mid-Market,APAC,23.5
+C02048,SMB,LATAM,25.5
+C02049,SMB,APAC,11.8
+C02050,SMB,APAC,9.5
+C02051,Enterprise,APAC,285.5
+C02052,Mid-Market,EMEA,45.0
+C02053,SMB,North America,10.9
+C02054,SMB,North America,5.7
+C02055,Enterprise,APAC,249.6
+C02056,Enterprise,EMEA,165.3
+C02057,Mid-Market,LATAM,76.7
+C02058,Mid-Market,North America,58.2
+C02059,SMB,North America,5.2
+C02060,Enterprise,APAC,345.6
+C02061,Mid-Market,North America,69.9
+C02062,SMB,EMEA,4.0
+C02063,SMB,EMEA,17.6
+C02064,Mid-Market,North America,94.5
+C02065,SMB,APAC,12.4
+C02066,Mid-Market,North America,55.5
+C02067,SMB,LATAM,10.9
+C02068,SMB,LATAM,17.6
+C02069,Enterprise,EMEA,102.7
+C02070,SMB,EMEA,23.5
+C02071,Mid-Market,EMEA,55.0
+C02072,Enterprise,APAC,301.9
+C02073,Mid-Market,North America,45.4
+C02074,SMB,APAC,9.1
+C02075,SMB,LATAM,13.2
+C02076,Enterprise,North America,159.4
+C02077,Enterprise,EMEA,117.1
+C02078,SMB,LATAM,12.1
+C02079,Enterprise,APAC,139.9
+C02080,Enterprise,APAC,118.7
+C02081,Enterprise,EMEA,236.1
+C02082,Enterprise,EMEA,149.1
+C02083,SMB,North America,6.6
+C02084,SMB,North America,20.0
+C02085,Strategic,EMEA,694.6
+C02086,SMB,APAC,8.2
+C02087,SMB,North America,13.4
+C02088,SMB,EMEA,18.9
+C02089,Mid-Market,North America,91.0
+C02090,Enterprise,APAC,96.9
+C02091,Mid-Market,EMEA,74.4
+C02092,SMB,North America,12.3
+C02093,Enterprise,North America,266.2
+C02094,Enterprise,North America,189.3
+C02095,Enterprise,APAC,646.1
+C02096,Mid-Market,EMEA,83.8
+C02097,SMB,EMEA,4.5
+C02098,SMB,APAC,15.9
+C02099,Enterprise,North America,89.9
+C02100,Mid-Market,EMEA,62.0
+C02101,Enterprise,North America,312.3
+C02102,Enterprise,EMEA,95.6
+C02103,Mid-Market,LATAM,63.1
+C02104,SMB,North America,24.3
+C02105,SMB,North America,7.4
+C02106,SMB,North America,5.8
+C02107,SMB,APAC,10.3
+C02108,Mid-Market,APAC,77.4
+C02109,Enterprise,North America,182.8
+C02110,Mid-Market,North America,144.2
+C02111,SMB,EMEA,7.9
+C02112,SMB,APAC,10.7
+C02113,Enterprise,EMEA,181.5
+C02114,SMB,North America,9.9
+C02115,SMB,North America,22.9
+C02116,Strategic,North America,179.3
+C02117,Mid-Market,EMEA,71.2
+C02118,Mid-Market,EMEA,60.8
+C02119,SMB,North America,15.9
+C02120,Strategic,EMEA,682.8
+C02121,SMB,North America,16.0
+C02122,SMB,North America,8.3
+C02123,SMB,LATAM,24.2
+C02124,Mid-Market,APAC,83.5
+C02125,Strategic,North America,649.0
+C02126,SMB,North America,10.7
+C02127,Mid-Market,North America,51.3
+C02128,SMB,LATAM,7.9
+C02129,Mid-Market,North America,155.8
+C02130,Mid-Market,EMEA,44.6
+C02131,SMB,North America,16.3
+C02132,Mid-Market,North America,50.3
+C02133,Strategic,EMEA,236.2
+C02134,Enterprise,APAC,312.2
+C02135,SMB,North America,14.5
+C02136,Mid-Market,APAC,71.4
+C02137,SMB,North America,10.7
+C02138,Mid-Market,North America,37.8
+C02139,Mid-Market,EMEA,39.0
+C02140,Mid-Market,EMEA,55.3
+C02141,SMB,EMEA,10.7
+C02142,Mid-Market,EMEA,132.4
+C02143,SMB,APAC,10.4
+C02144,SMB,EMEA,22.1
+C02145,Enterprise,EMEA,153.3
+C02146,Strategic,APAC,120.2
+C02147,Mid-Market,North America,117.1
+C02148,Mid-Market,LATAM,104.9
+C02149,Enterprise,North America,174.8
+C02150,Strategic,North America,466.3
+C02151,Enterprise,EMEA,261.6
+C02152,SMB,North America,15.8
+C02153,Strategic,EMEA,384.0
+C02154,Mid-Market,North America,124.5
+C02155,Enterprise,North America,309.1
+C02156,Enterprise,North America,138.4
+C02157,Enterprise,North America,118.7
+C02158,Strategic,APAC,337.8
+C02159,Mid-Market,North America,92.8
+C02160,SMB,North America,12.4
+C02161,Mid-Market,LATAM,64.1
+C02162,Enterprise,EMEA,220.3
+C02163,Mid-Market,North America,38.2
+C02164,Enterprise,North America,156.6
+C02165,Enterprise,North America,143.1
+C02166,SMB,North America,10.3
+C02167,SMB,LATAM,9.3
+C02168,Mid-Market,North America,42.5
+C02169,SMB,LATAM,9.9
+C02170,Mid-Market,APAC,63.3
+C02171,SMB,North America,17.7
+C02172,SMB,EMEA,21.1
+C02173,SMB,EMEA,16.9
+C02174,Mid-Market,EMEA,46.7
+C02175,Enterprise,North America,191.4
+C02176,Strategic,North America,481.8
+C02177,SMB,EMEA,6.2
+C02178,Enterprise,North America,192.8
+C02179,SMB,EMEA,16.8
+C02180,Mid-Market,North America,65.9
+C02181,SMB,EMEA,14.2
+C02182,Mid-Market,North America,52.6
+C02183,Mid-Market,North America,121.7
+C02184,SMB,North America,7.1
+C02185,Mid-Market,North America,52.0
+C02186,Mid-Market,North America,81.5
+C02187,SMB,North America,11.8
+C02188,Mid-Market,APAC,16.8
+C02189,SMB,EMEA,7.4
+C02190,Mid-Market,North America,44.6
+C02191,Enterprise,North America,143.9
+C02192,Strategic,North America,398.7
+C02193,Mid-Market,LATAM,49.0
+C02194,SMB,LATAM,20.3
+C02195,SMB,North America,6.9
+C02196,SMB,North America,23.4
+C02197,Mid-Market,North America,58.0
+C02198,Enterprise,North America,77.8
+C02199,Mid-Market,EMEA,49.1
+C02200,Strategic,North America,375.3
+C02201,SMB,EMEA,13.6
+C02202,SMB,APAC,14.3
+C02203,Enterprise,North America,276.4
+C02204,SMB,LATAM,10.8
+C02205,SMB,APAC,21.2
+C02206,SMB,EMEA,16.0
+C02207,Mid-Market,EMEA,32.8
+C02208,Mid-Market,North America,79.4
+C02209,Mid-Market,North America,36.9
+C02210,Mid-Market,North America,128.0
+C02211,Strategic,EMEA,394.2
+C02212,Mid-Market,LATAM,56.3
+C02213,SMB,EMEA,35.5
+C02214,SMB,EMEA,11.4
+C02215,Mid-Market,LATAM,47.2
+C02216,Mid-Market,North America,51.1
+C02217,SMB,EMEA,12.4
+C02218,SMB,LATAM,13.1
+C02219,SMB,EMEA,15.4
+C02220,Enterprise,North America,100.0
+C02221,Enterprise,EMEA,112.3
+C02222,Mid-Market,North America,28.4
+C02223,SMB,LATAM,8.2
+C02224,Mid-Market,North America,111.4
+C02225,Mid-Market,North America,97.2
+C02226,Mid-Market,LATAM,180.2
+C02227,Mid-Market,North America,43.4
+C02228,Mid-Market,North America,86.5
+C02229,Mid-Market,APAC,55.5
+C02230,SMB,APAC,5.7
+C02231,Mid-Market,EMEA,56.4
+C02232,Mid-Market,North America,133.2
+C02233,SMB,EMEA,6.4
+C02234,Mid-Market,North America,27.6
+C02235,Enterprise,North America,313.3
+C02236,Enterprise,North America,194.9
+C02237,Enterprise,North America,127.9
+C02238,Mid-Market,EMEA,48.7
+C02239,SMB,EMEA,8.4
+C02240,Mid-Market,EMEA,124.1
+C02241,Enterprise,EMEA,128.3
+C02242,Mid-Market,EMEA,117.8
+C02243,Strategic,EMEA,434.6
+C02244,SMB,APAC,7.2
+C02245,Mid-Market,North America,25.4
+C02246,Mid-Market,EMEA,99.4
+C02247,Strategic,North America,492.0
+C02248,Enterprise,APAC,145.3
+C02249,Mid-Market,APAC,90.7
+C02250,Mid-Market,EMEA,32.4
+C02251,Mid-Market,LATAM,134.0
+C02252,SMB,APAC,7.6
+C02253,SMB,EMEA,8.5
+C02254,SMB,LATAM,11.3
+C02255,Mid-Market,EMEA,52.3
+C02256,Mid-Market,LATAM,50.8
+C02257,Mid-Market,EMEA,41.9
+C02258,Enterprise,North America,199.4
+C02259,Mid-Market,APAC,131.0
+C02260,SMB,EMEA,10.1
+C02261,SMB,LATAM,10.2
+C02262,Mid-Market,North America,58.7
+C02263,SMB,EMEA,15.2
+C02264,Mid-Market,North America,53.3
+C02265,SMB,LATAM,8.5
+C02266,SMB,EMEA,24.2
+C02267,Enterprise,EMEA,95.2
+C02268,Mid-Market,North America,36.5
+C02269,Mid-Market,APAC,31.2
+C02270,Enterprise,EMEA,135.1
+C02271,Enterprise,EMEA,164.8
+C02272,Mid-Market,EMEA,71.3
+C02273,Mid-Market,North America,48.4
+C02274,Mid-Market,North America,79.0
+C02275,Enterprise,LATAM,261.5
+C02276,SMB,APAC,10.1
+C02277,SMB,North America,12.3
+C02278,Mid-Market,North America,61.2
+C02279,Strategic,North America,424.9
+C02280,SMB,EMEA,7.6
+C02281,SMB,LATAM,13.6
+C02282,SMB,LATAM,4.0
+C02283,SMB,EMEA,10.8
+C02284,SMB,EMEA,7.2
+C02285,Strategic,North America,467.7
+C02286,Strategic,APAC,381.8
+C02287,SMB,North America,16.8
+C02288,Mid-Market,North America,79.7
+C02289,Mid-Market,APAC,15.1
+C02290,Mid-Market,EMEA,140.3
+C02291,Enterprise,EMEA,132.5
+C02292,Strategic,North America,839.9
+C02293,Enterprise,North America,159.2
+C02294,Enterprise,EMEA,165.6
+C02295,SMB,LATAM,9.2
+C02296,Enterprise,North America,83.6
+C02297,SMB,EMEA,20.2
+C02298,Mid-Market,North America,34.8
+C02299,Enterprise,North America,128.5
+C02300,Enterprise,North America,74.2
+C02301,Enterprise,EMEA,135.0
+C02302,Enterprise,North America,151.2
+C02303,Strategic,North America,625.7
+C02304,SMB,APAC,6.4
+C02305,SMB,LATAM,8.2
+C02306,Mid-Market,EMEA,34.9
+C02307,Mid-Market,North America,37.1
+C02308,Enterprise,APAC,197.3
+C02309,SMB,LATAM,7.6
+C02310,Mid-Market,LATAM,171.0
+C02311,Enterprise,North America,217.8
+C02312,Mid-Market,EMEA,41.1
+C02313,SMB,LATAM,10.3
+C02314,Mid-Market,North America,31.6
+C02315,Strategic,North America,394.6
+C02316,Mid-Market,North America,54.1
+C02317,Strategic,EMEA,212.9
+C02318,Mid-Market,North America,65.4
+C02319,Mid-Market,EMEA,43.3
+C02320,SMB,APAC,11.5
+C02321,SMB,North America,9.3
+C02322,Mid-Market,North America,102.9
+C02323,SMB,North America,22.4
+C02324,Mid-Market,EMEA,138.0
+C02325,Mid-Market,EMEA,54.7
+C02326,Enterprise,North America,211.6
+C02327,SMB,North America,4.2
+C02328,SMB,North America,14.7
+C02329,SMB,LATAM,23.0
+C02330,SMB,LATAM,19.6
+C02331,SMB,LATAM,7.1
+C02332,Mid-Market,LATAM,25.9
+C02333,Mid-Market,LATAM,145.5
+C02334,SMB,APAC,9.3
+C02335,Enterprise,EMEA,98.1
+C02336,Mid-Market,LATAM,83.7
+C02337,Mid-Market,LATAM,47.3
+C02338,Mid-Market,North America,60.9
+C02339,Mid-Market,LATAM,52.2
+C02340,Mid-Market,North America,74.2
+C02341,SMB,APAC,8.7
+C02342,Enterprise,North America,219.9
+C02343,Mid-Market,North America,51.6
+C02344,Enterprise,North America,121.8
+C02345,SMB,EMEA,12.8
+C02346,Mid-Market,EMEA,74.7
+C02347,SMB,North America,12.7
+C02348,SMB,LATAM,16.9
+C02349,Strategic,APAC,715.1
+C02350,Mid-Market,EMEA,75.4
+C02351,Enterprise,EMEA,165.8
+C02352,SMB,LATAM,7.0
+C02353,SMB,North America,19.7
+C02354,SMB,North America,20.1
+C02355,Enterprise,North America,132.1
+C02356,Enterprise,EMEA,221.8
+C02357,Strategic,North America,505.2
+C02358,SMB,North America,29.0
+C02359,Enterprise,North America,518.1
+C02360,SMB,EMEA,12.1
+C02361,Mid-Market,APAC,79.5
+C02362,Enterprise,EMEA,194.9
+C02363,Mid-Market,APAC,57.7
+C02364,Enterprise,LATAM,246.6
+C02365,Mid-Market,EMEA,102.1
+C02366,Mid-Market,EMEA,51.6
+C02367,Mid-Market,APAC,104.2
+C02368,Strategic,APAC,593.2
+C02369,Mid-Market,North America,43.9
+C02370,Strategic,North America,392.5
+C02371,SMB,EMEA,17.4
+C02372,SMB,North America,21.0
+C02373,SMB,LATAM,11.1
+C02374,SMB,EMEA,6.6
+C02375,SMB,North America,11.0
+C02376,Enterprise,APAC,186.9
+C02377,SMB,North America,7.7
+C02378,Enterprise,North America,174.0
+C02379,SMB,North America,13.1
+C02380,SMB,LATAM,6.4
+C02381,SMB,EMEA,5.7
+C02382,SMB,APAC,15.1
+C02383,Mid-Market,EMEA,42.4
+C02384,SMB,North America,12.8
+C02385,Mid-Market,North America,51.2
+C02386,Mid-Market,North America,46.7
+C02387,SMB,APAC,6.4
+C02388,Mid-Market,North America,90.3
+C02389,Mid-Market,APAC,123.8
+C02390,Mid-Market,APAC,73.0
+C02391,Enterprise,North America,275.7
+C02392,SMB,EMEA,17.6
+C02393,Mid-Market,APAC,63.8
+C02394,Mid-Market,North America,66.3
+C02395,Mid-Market,North America,60.6
+C02396,Strategic,North America,431.2
+C02397,Mid-Market,EMEA,56.3
+C02398,Enterprise,North America,128.4
+C02399,SMB,EMEA,14.7
+C02400,Mid-Market,LATAM,62.0
+C02401,Enterprise,EMEA,131.2
+C02402,SMB,APAC,15.7
+C02403,Enterprise,North America,106.4
+C02404,SMB,APAC,7.4
+C02405,Enterprise,APAC,116.8
+C02406,SMB,EMEA,11.0
+C02407,Strategic,APAC,585.5
+C02408,Mid-Market,North America,62.0
+C02409,SMB,North America,21.4
+C02410,SMB,EMEA,12.2
+C02411,Strategic,North America,433.3
+C02412,Strategic,North America,205.6
+C02413,SMB,APAC,11.5
+C02414,Mid-Market,APAC,63.5
+C02415,Mid-Market,North America,77.8
+C02416,Mid-Market,EMEA,63.2
+C02417,SMB,EMEA,7.9
+C02418,Enterprise,LATAM,258.1
+C02419,Enterprise,EMEA,189.9
+C02420,SMB,North America,12.2
+C02421,Mid-Market,North America,98.4
+C02422,Enterprise,North America,55.8
+C02423,SMB,North America,6.6
+C02424,Enterprise,EMEA,127.7
+C02425,SMB,EMEA,7.8
+C02426,Enterprise,North America,139.4
+C02427,Enterprise,North America,299.3
+C02428,SMB,APAC,20.4
+C02429,SMB,North America,15.4
+C02430,SMB,EMEA,15.8
+C02431,Enterprise,North America,206.4
+C02432,Mid-Market,APAC,73.8
+C02433,SMB,APAC,31.7
+C02434,SMB,EMEA,20.2
+C02435,Strategic,APAC,701.7
+C02436,Strategic,North America,510.9
+C02437,SMB,EMEA,9.1
+C02438,SMB,EMEA,8.2
+C02439,Mid-Market,EMEA,40.8
+C02440,Enterprise,North America,143.3
+C02441,Mid-Market,APAC,45.5
+C02442,SMB,North America,9.3
+C02443,Enterprise,North America,131.3
+C02444,Strategic,APAC,287.9
+C02445,SMB,LATAM,25.0
+C02446,Mid-Market,EMEA,48.3
+C02447,Mid-Market,LATAM,55.6
+C02448,Mid-Market,EMEA,19.0
+C02449,SMB,APAC,17.4
+C02450,Mid-Market,EMEA,81.2
+C02451,Strategic,EMEA,670.1
+C02452,Mid-Market,APAC,50.9
+C02453,Mid-Market,North America,109.5
+C02454,Mid-Market,EMEA,48.2
+C02455,Enterprise,North America,216.0
+C02456,SMB,EMEA,15.4
+C02457,Enterprise,North America,136.7
+C02458,Strategic,North America,741.2
+C02459,Mid-Market,APAC,61.6
+C02460,Enterprise,APAC,171.0
+C02461,SMB,APAC,16.2
+C02462,Mid-Market,EMEA,48.7
+C02463,Enterprise,North America,165.8
+C02464,SMB,North America,22.0
+C02465,SMB,APAC,15.8
+C02466,Mid-Market,APAC,54.7
+C02467,SMB,North America,5.2
+C02468,Mid-Market,North America,58.2
+C02469,Strategic,EMEA,329.1
+C02470,SMB,LATAM,16.4
+C02471,Strategic,North America,384.0
+C02472,SMB,APAC,8.6
+C02473,Strategic,North America,402.7
+C02474,Enterprise,LATAM,113.4
+C02475,Mid-Market,North America,120.4
+C02476,Mid-Market,EMEA,212.0
+C02477,SMB,APAC,9.2
+C02478,Mid-Market,APAC,86.4
+C02479,SMB,EMEA,18.2
+C02480,SMB,APAC,10.8
+C02481,Mid-Market,APAC,34.0
+C02482,SMB,North America,15.4
+C02483,SMB,LATAM,6.3
+C02484,SMB,EMEA,11.1
+C02485,SMB,North America,22.0
+C02486,SMB,APAC,7.7
+C02487,SMB,North America,12.6
+C02488,Mid-Market,North America,40.7
+C02489,SMB,North America,7.3
+C02490,Mid-Market,LATAM,66.0
+C02491,Mid-Market,North America,60.2
+C02492,Mid-Market,APAC,84.6
+C02493,Mid-Market,North America,69.9
+C02494,Mid-Market,LATAM,44.9
+C02495,Enterprise,North America,149.3
+C02496,Mid-Market,LATAM,63.3
+C02497,Mid-Market,North America,87.6
+C02498,SMB,LATAM,13.1
+C02499,Enterprise,EMEA,120.5
+C02500,SMB,LATAM,7.6
+C02501,Enterprise,EMEA,123.6
+C02502,Mid-Market,EMEA,63.3
+C02503,SMB,North America,14.0
+C02504,Mid-Market,EMEA,54.6
+C02505,Enterprise,APAC,145.9
+C02506,SMB,APAC,7.4
+C02507,Mid-Market,APAC,66.2
+C02508,SMB,EMEA,18.3
+C02509,Mid-Market,North America,58.5
+C02510,Mid-Market,North America,26.2
+C02511,Mid-Market,North America,42.4
+C02512,Enterprise,EMEA,183.2
+C02513,Mid-Market,EMEA,56.5
+C02514,Mid-Market,EMEA,73.0
+C02515,Mid-Market,North America,71.1
+C02516,Mid-Market,LATAM,47.4
+C02517,Enterprise,North America,193.4
+C02518,Mid-Market,APAC,52.0
+C02519,Mid-Market,North America,120.7
+C02520,Strategic,North America,1626.2
+C02521,Mid-Market,North America,54.9
+C02522,Mid-Market,North America,50.1
+C02523,Mid-Market,North America,122.9
+C02524,SMB,EMEA,16.9
+C02525,Mid-Market,North America,81.7
+C02526,Mid-Market,EMEA,84.2
+C02527,SMB,LATAM,23.9
+C02528,Mid-Market,EMEA,72.3
+C02529,SMB,APAC,10.2
+C02530,SMB,APAC,9.0
+C02531,SMB,North America,15.4
+C02532,Mid-Market,EMEA,46.7
+C02533,SMB,North America,11.0
+C02534,Mid-Market,North America,109.9
+C02535,Mid-Market,APAC,91.6
+C02536,Strategic,North America,661.1
+C02537,SMB,LATAM,7.7
+C02538,Enterprise,APAC,104.0
+C02539,SMB,LATAM,9.9
+C02540,Mid-Market,North America,59.6
+C02541,SMB,LATAM,18.2
+C02542,Mid-Market,North America,88.0
+C02543,Mid-Market,North America,84.0
+C02544,Mid-Market,LATAM,137.8
+C02545,SMB,EMEA,10.0
+C02546,Enterprise,LATAM,79.8
+C02547,Mid-Market,North America,87.3
+C02548,SMB,North America,16.8
+C02549,Strategic,North America,463.9
+C02550,SMB,North America,13.8
+C02551,Mid-Market,EMEA,52.4
+C02552,SMB,EMEA,10.1
+C02553,Mid-Market,North America,58.8
+C02554,SMB,North America,10.0
+C02555,Enterprise,LATAM,235.5
+C02556,SMB,LATAM,14.7
+C02557,SMB,EMEA,22.3
+C02558,Enterprise,EMEA,41.4
+C02559,Mid-Market,APAC,58.2
+C02560,Strategic,EMEA,242.9
+C02561,Enterprise,EMEA,177.5
+C02562,Enterprise,EMEA,121.0
+C02563,SMB,EMEA,19.5
+C02564,Enterprise,LATAM,242.7
+C02565,Enterprise,APAC,278.8
+C02566,Mid-Market,North America,60.7
+C02567,Mid-Market,LATAM,33.7
+C02568,Strategic,North America,333.7
+C02569,SMB,North America,15.2
+C02570,Enterprise,North America,114.4
+C02571,Enterprise,EMEA,200.7
+C02572,SMB,APAC,13.4
+C02573,Strategic,North America,558.5
+C02574,Strategic,North America,304.2
+C02575,Enterprise,EMEA,214.7
+C02576,Mid-Market,APAC,20.2
+C02577,Enterprise,North America,133.0
+C02578,Mid-Market,North America,46.6
+C02579,Mid-Market,North America,95.4
+C02580,SMB,LATAM,8.7
+C02581,Enterprise,EMEA,265.0
+C02582,Mid-Market,North America,33.3
+C02583,Enterprise,North America,63.1
+C02584,SMB,APAC,10.9
+C02585,Strategic,APAC,245.6
+C02586,SMB,EMEA,7.8
+C02587,Mid-Market,APAC,38.6
+C02588,Enterprise,North America,158.2
+C02589,SMB,North America,15.5
+C02590,Strategic,North America,131.7
+C02591,Mid-Market,North America,79.4
+C02592,Enterprise,EMEA,117.4
+C02593,Mid-Market,EMEA,65.2
+C02594,Mid-Market,North America,69.0
+C02595,Mid-Market,North America,66.4
+C02596,SMB,EMEA,12.7
+C02597,Strategic,LATAM,496.2
+C02598,Mid-Market,North America,77.0
+C02599,SMB,North America,11.7
+C02600,SMB,LATAM,10.8
+C02601,SMB,EMEA,7.3
+C02602,Enterprise,North America,155.4
+C02603,Enterprise,EMEA,146.9
+C02604,SMB,APAC,7.3
+C02605,SMB,APAC,15.7
+C02606,Mid-Market,APAC,48.9
+C02607,SMB,LATAM,10.0
+C02608,SMB,APAC,9.3
+C02609,SMB,EMEA,8.0
+C02610,Enterprise,APAC,206.1
+C02611,Mid-Market,North America,32.3
+C02612,Enterprise,APAC,90.7
+C02613,SMB,North America,14.2
+C02614,SMB,LATAM,7.7
+C02615,SMB,APAC,4.0
+C02616,SMB,LATAM,14.8
+C02617,Mid-Market,North America,93.9
+C02618,SMB,LATAM,7.4
+C02619,Mid-Market,North America,55.1
+C02620,SMB,EMEA,30.5
+C02621,Mid-Market,North America,76.9
+C02622,SMB,EMEA,6.6
+C02623,Mid-Market,EMEA,54.2
+C02624,Strategic,APAC,367.1
+C02625,Mid-Market,North America,93.9
+C02626,Enterprise,North America,81.6
+C02627,Mid-Market,APAC,105.1
+C02628,SMB,APAC,10.1
+C02629,SMB,EMEA,12.1
+C02630,SMB,LATAM,7.3
+C02631,Mid-Market,EMEA,51.0
+C02632,SMB,APAC,11.1
+C02633,Enterprise,EMEA,155.8
+C02634,SMB,North America,11.9
+C02635,Mid-Market,North America,82.7
+C02636,Mid-Market,EMEA,41.6
+C02637,Mid-Market,APAC,88.0
+C02638,Strategic,North America,238.0
+C02639,SMB,North America,6.4
+C02640,Strategic,EMEA,399.2
+C02641,SMB,APAC,9.2
+C02642,Mid-Market,North America,33.1
+C02643,Strategic,North America,1001.2
+C02644,Strategic,APAC,651.0
+C02645,Mid-Market,EMEA,83.8
+C02646,Enterprise,North America,96.3
+C02647,SMB,LATAM,10.7
+C02648,Enterprise,APAC,97.6
+C02649,Mid-Market,North America,63.3
+C02650,SMB,LATAM,11.9
+C02651,SMB,EMEA,5.6
+C02652,Mid-Market,LATAM,60.4
+C02653,Mid-Market,LATAM,131.0
+C02654,SMB,EMEA,18.0
+C02655,SMB,EMEA,8.6
+C02656,SMB,APAC,15.7
+C02657,SMB,North America,15.2
+C02658,Mid-Market,North America,56.3
+C02659,Mid-Market,North America,61.1
+C02660,Enterprise,North America,84.2
+C02661,Mid-Market,North America,69.2
+C02662,SMB,North America,11.3
+C02663,Mid-Market,EMEA,54.9
+C02664,Mid-Market,APAC,151.1
+C02665,Enterprise,North America,105.1
+C02666,Mid-Market,EMEA,41.5
+C02667,Enterprise,North America,196.9
+C02668,SMB,APAC,24.4
+C02669,Mid-Market,APAC,45.6
+C02670,Mid-Market,EMEA,37.1
+C02671,SMB,EMEA,8.2
+C02672,Mid-Market,North America,58.1
+C02673,SMB,EMEA,10.2
+C02674,Mid-Market,APAC,198.3
+C02675,Mid-Market,LATAM,47.8
+C02676,SMB,North America,14.5
+C02677,SMB,EMEA,20.9
+C02678,Mid-Market,North America,65.5
+C02679,SMB,North America,8.4
+C02680,Mid-Market,North America,72.0
+C02681,Mid-Market,EMEA,34.6
+C02682,Mid-Market,APAC,78.2
+C02683,Mid-Market,North America,42.4
+C02684,SMB,EMEA,16.8
+C02685,SMB,North America,15.8
+C02686,Mid-Market,APAC,66.1
+C02687,Enterprise,EMEA,183.4
+C02688,SMB,LATAM,17.5
+C02689,Enterprise,APAC,85.8
+C02690,SMB,North America,9.7
+C02691,Mid-Market,EMEA,23.7
+C02692,Strategic,APAC,108.6
+C02693,Mid-Market,APAC,94.2
+C02694,Enterprise,North America,176.3
+C02695,Strategic,North America,421.4
+C02696,SMB,APAC,23.8
+C02697,Enterprise,LATAM,104.2
+C02698,Mid-Market,North America,69.6
+C02699,SMB,LATAM,7.4
+C02700,SMB,North America,25.0
+C02701,Mid-Market,EMEA,65.6
+C02702,SMB,LATAM,11.7
+C02703,Mid-Market,EMEA,183.2
+C02704,SMB,North America,20.8
+C02705,Mid-Market,North America,58.3
+C02706,Enterprise,North America,196.5
+C02707,SMB,North America,73.4
+C02708,Mid-Market,North America,33.5
+C02709,Mid-Market,EMEA,47.2
+C02710,Strategic,North America,701.1
+C02711,Mid-Market,North America,109.5
+C02712,SMB,North America,16.5
+C02713,SMB,EMEA,8.3
+C02714,SMB,North America,9.5
+C02715,Mid-Market,North America,48.6
+C02716,SMB,APAC,6.5
+C02717,Mid-Market,North America,90.9
+C02718,Strategic,APAC,737.9
+C02719,Enterprise,EMEA,289.9
+C02720,SMB,EMEA,8.3
+C02721,Mid-Market,North America,38.9
+C02722,Enterprise,EMEA,99.8
+C02723,Enterprise,North America,315.6
+C02724,Enterprise,EMEA,198.3
+C02725,Mid-Market,APAC,56.8
+C02726,Mid-Market,North America,73.3
+C02727,Strategic,APAC,369.4
+C02728,SMB,North America,14.0
+C02729,SMB,LATAM,5.5
+C02730,SMB,North America,11.0
+C02731,SMB,EMEA,7.1
+C02732,Mid-Market,APAC,97.4
+C02733,SMB,North America,6.5
+C02734,Mid-Market,EMEA,43.4
+C02735,Mid-Market,EMEA,74.6
+C02736,SMB,APAC,11.2
+C02737,Mid-Market,EMEA,66.6
+C02738,Enterprise,North America,204.5
+C02739,Mid-Market,APAC,132.4
+C02740,Mid-Market,EMEA,65.7
+C02741,Mid-Market,EMEA,77.3
+C02742,Strategic,EMEA,301.1
+C02743,SMB,APAC,7.5
+C02744,Mid-Market,North America,27.9
+C02745,SMB,APAC,21.3
+C02746,Enterprise,EMEA,165.6
+C02747,SMB,LATAM,12.0
+C02748,Mid-Market,North America,38.2
+C02749,SMB,APAC,7.3
+C02750,Mid-Market,North America,76.0
+C02751,SMB,LATAM,8.0
+C02752,Mid-Market,EMEA,49.6
+C02753,Enterprise,APAC,118.2
+C02754,Strategic,North America,382.8
+C02755,SMB,LATAM,11.1
+C02756,Mid-Market,LATAM,66.6
+C02757,Enterprise,LATAM,94.1
+C02758,Mid-Market,EMEA,116.3
+C02759,Strategic,North America,442.5
+C02760,Enterprise,LATAM,95.9
+C02761,Enterprise,North America,118.4
+C02762,Enterprise,North America,288.7
+C02763,SMB,LATAM,15.5
+C02764,SMB,LATAM,13.6
+C02765,SMB,LATAM,11.8
+C02766,Mid-Market,EMEA,67.4
+C02767,Mid-Market,EMEA,51.4
+C02768,Mid-Market,North America,73.8
+C02769,Enterprise,LATAM,266.2
+C02770,Enterprise,LATAM,138.9
+C02771,Enterprise,LATAM,191.8
+C02772,SMB,APAC,11.1
+C02773,Strategic,EMEA,254.3
+C02774,Enterprise,APAC,197.6
+C02775,SMB,EMEA,9.9
+C02776,Enterprise,APAC,108.0
+C02777,Strategic,North America,317.4
+C02778,Enterprise,EMEA,122.2
+C02779,Enterprise,EMEA,85.3
+C02780,SMB,APAC,15.9
+C02781,Mid-Market,EMEA,33.5
+C02782,Mid-Market,EMEA,41.7
+C02783,Enterprise,EMEA,198.5
+C02784,Mid-Market,North America,76.1
+C02785,Mid-Market,North America,26.0
+C02786,SMB,LATAM,15.3
+C02787,SMB,North America,8.5
+C02788,SMB,LATAM,33.0
+C02789,Enterprise,APAC,284.0
+C02790,Enterprise,North America,153.2
+C02791,Mid-Market,APAC,99.7
+C02792,Mid-Market,LATAM,46.1
+C02793,SMB,LATAM,5.8
+C02794,SMB,LATAM,6.3
+C02795,SMB,North America,17.5
+C02796,SMB,North America,4.1
+C02797,Enterprise,APAC,408.6
+C02798,Mid-Market,North America,52.5
+C02799,Mid-Market,EMEA,66.8
+C02800,Mid-Market,APAC,47.3
+C02801,Mid-Market,APAC,73.5
+C02802,Strategic,North America,745.6
+C02803,Enterprise,EMEA,71.4
+C02804,Mid-Market,North America,142.6
+C02805,Mid-Market,North America,115.6
+C02806,Mid-Market,EMEA,69.7
+C02807,Strategic,APAC,489.4
+C02808,Strategic,EMEA,286.6
+C02809,SMB,EMEA,14.9
+C02810,Mid-Market,North America,75.1
+C02811,SMB,LATAM,9.7
+C02812,Enterprise,EMEA,170.9
+C02813,Enterprise,North America,223.6
+C02814,SMB,North America,18.9
+C02815,Mid-Market,EMEA,81.9
+C02816,Enterprise,EMEA,214.9
+C02817,Mid-Market,North America,55.4
+C02818,Mid-Market,North America,68.3
+C02819,SMB,EMEA,20.5
+C02820,Mid-Market,EMEA,61.3
+C02821,Mid-Market,North America,103.0
+C02822,Enterprise,North America,116.7
+C02823,Strategic,North America,586.5
+C02824,Strategic,North America,620.9
+C02825,Mid-Market,EMEA,109.5
+C02826,Mid-Market,EMEA,82.5
+C02827,SMB,APAC,16.7
+C02828,Mid-Market,North America,96.9
+C02829,Mid-Market,EMEA,75.3
+C02830,Enterprise,North America,223.6
+C02831,SMB,North America,14.3
+C02832,Mid-Market,EMEA,32.8
+C02833,SMB,North America,15.8
+C02834,SMB,North America,12.1
+C02835,SMB,LATAM,9.5
+C02836,SMB,LATAM,13.2
+C02837,Mid-Market,LATAM,150.5
+C02838,Enterprise,North America,144.5
+C02839,Enterprise,North America,267.2
+C02840,Mid-Market,North America,56.9
+C02841,Strategic,EMEA,176.6
+C02842,Enterprise,North America,196.6
+C02843,Enterprise,North America,143.3
+C02844,Enterprise,North America,312.5
+C02845,Mid-Market,North America,65.9
+C02846,Strategic,North America,240.9
+C02847,Enterprise,LATAM,82.6
+C02848,Strategic,North America,236.0
+C02849,Strategic,EMEA,303.1
+C02850,SMB,EMEA,4.9
+C02851,SMB,EMEA,14.4
+C02852,SMB,EMEA,12.0
+C02853,Mid-Market,North America,51.9
+C02854,Mid-Market,EMEA,55.0
+C02855,Enterprise,EMEA,222.4
+C02856,SMB,EMEA,12.6
+C02857,SMB,North America,29.9
+C02858,Mid-Market,EMEA,88.2
+C02859,SMB,LATAM,18.4
+C02860,SMB,EMEA,9.7
+C02861,SMB,North America,27.3
+C02862,Enterprise,North America,139.4
+C02863,Enterprise,EMEA,100.4
+C02864,Enterprise,EMEA,150.9
+C02865,Mid-Market,LATAM,98.6
+C02866,Mid-Market,North America,34.8
+C02867,SMB,LATAM,12.2
+C02868,SMB,North America,7.4
+C02869,SMB,APAC,7.6
+C02870,Mid-Market,North America,26.7
+C02871,Enterprise,EMEA,339.8
+C02872,Mid-Market,EMEA,38.4
+C02873,SMB,APAC,20.9
+C02874,Mid-Market,LATAM,82.4
+C02875,Mid-Market,EMEA,41.4
+C02876,Enterprise,North America,150.1
+C02877,Enterprise,North America,204.0
+C02878,SMB,EMEA,14.4
+C02879,SMB,APAC,11.7
+C02880,SMB,APAC,27.0
+C02881,SMB,APAC,7.8
+C02882,SMB,LATAM,9.6
+C02883,SMB,EMEA,10.4
+C02884,SMB,LATAM,12.3
+C02885,SMB,LATAM,21.6
+C02886,Enterprise,APAC,97.5
+C02887,Mid-Market,North America,35.2
+C02888,Mid-Market,North America,65.1
+C02889,SMB,North America,19.2
+C02890,Enterprise,North America,176.4
+C02891,Mid-Market,LATAM,43.0
+C02892,SMB,EMEA,9.2
+C02893,SMB,EMEA,10.3
+C02894,Enterprise,EMEA,130.3
+C02895,Enterprise,APAC,310.0
+C02896,Enterprise,North America,93.4
+C02897,Mid-Market,APAC,29.7
+C02898,Strategic,North America,338.9
+C02899,Mid-Market,EMEA,78.7
+C02900,Mid-Market,APAC,57.5
+C02901,SMB,North America,10.0
+C02902,SMB,LATAM,12.4
+C02903,SMB,APAC,11.4
+C02904,Strategic,North America,535.3
+C02905,Strategic,EMEA,441.9
+C02906,Strategic,EMEA,749.9
+C02907,SMB,North America,13.3
+C02908,Enterprise,North America,135.3
+C02909,Mid-Market,North America,52.5
+C02910,SMB,LATAM,17.3
+C02911,SMB,North America,10.3
+C02912,SMB,EMEA,6.4
+C02913,Mid-Market,EMEA,103.1
+C02914,Mid-Market,EMEA,54.4
+C02915,Mid-Market,North America,47.2
+C02916,SMB,EMEA,20.4
+C02917,Strategic,North America,697.7
+C02918,Mid-Market,LATAM,112.8
+C02919,Mid-Market,North America,168.1
+C02920,Enterprise,North America,246.0
+C02921,SMB,APAC,8.9
+C02922,Strategic,North America,539.9
+C02923,Enterprise,North America,181.6
+C02924,SMB,LATAM,8.1
+C02925,Strategic,EMEA,311.4
+C02926,Enterprise,North America,160.6
+C02927,Mid-Market,APAC,42.2
+C02928,Mid-Market,EMEA,70.8
+C02929,Strategic,EMEA,176.0
+C02930,Mid-Market,LATAM,43.8
+C02931,Mid-Market,North America,61.5
+C02932,Mid-Market,APAC,44.0
+C02933,SMB,EMEA,19.6
+C02934,Strategic,North America,452.4
+C02935,Strategic,APAC,318.6
+C02936,Mid-Market,EMEA,92.4
+C02937,Mid-Market,APAC,28.2
+C02938,SMB,North America,7.1
+C02939,Strategic,North America,388.5
+C02940,Enterprise,North America,47.3
+C02941,Mid-Market,APAC,125.5
+C02942,Mid-Market,APAC,51.3
+C02943,SMB,North America,18.9
+C02944,Strategic,North America,744.5
+C02945,Enterprise,EMEA,196.5
+C02946,Strategic,North America,577.5
+C02947,SMB,North America,20.0
+C02948,SMB,LATAM,10.7
+C02949,SMB,APAC,9.5
+C02950,SMB,APAC,15.2
+C02951,SMB,EMEA,11.5
+C02952,SMB,North America,6.1
+C02953,Mid-Market,APAC,53.0
+C02954,SMB,EMEA,7.2
+C02955,SMB,EMEA,5.4
+C02956,Strategic,North America,379.4
+C02957,Mid-Market,EMEA,35.6
+C02958,Strategic,North America,332.1
+C02959,SMB,EMEA,4.9
+C02960,Mid-Market,APAC,86.1
+C02961,SMB,APAC,11.2
+C02962,SMB,North America,23.3
+C02963,SMB,APAC,7.0
+C02964,SMB,North America,6.3
+C02965,Mid-Market,EMEA,49.4
+C02966,Mid-Market,North America,73.8
+C02967,SMB,LATAM,30.2
+C02968,Enterprise,LATAM,239.2
+C02969,Strategic,North America,766.9
+C02970,Mid-Market,North America,76.8
+C02971,Strategic,North America,450.0
+C02972,SMB,EMEA,8.4
+C02973,SMB,EMEA,13.0
+C02974,Enterprise,North America,199.8
+C02975,Mid-Market,North America,46.9
+C02976,SMB,North America,11.1
+C02977,Mid-Market,LATAM,82.6
+C02978,SMB,North America,17.9
+C02979,SMB,EMEA,8.1
+C02980,Mid-Market,EMEA,31.6
+C02981,Mid-Market,APAC,65.3
+C02982,Mid-Market,EMEA,47.9
+C02983,Mid-Market,APAC,29.9
+C02984,Mid-Market,APAC,96.8
+C02985,Enterprise,EMEA,203.8
+C02986,SMB,North America,15.5
+C02987,Mid-Market,EMEA,69.0
+C02988,SMB,EMEA,12.0
+C02989,Mid-Market,North America,44.0
+C02990,SMB,North America,7.7
+C02991,Strategic,EMEA,642.8
+C02992,Mid-Market,North America,110.1
+C02993,Mid-Market,North America,58.1
+C02994,SMB,EMEA,8.1
+C02995,Mid-Market,North America,50.8
+C02996,Mid-Market,North America,107.6
+C02997,SMB,EMEA,17.7
+C02998,Mid-Market,EMEA,23.7
+C02999,Mid-Market,North America,33.6
+C03000,Strategic,North America,385.4
+C03001,SMB,EMEA,18.9
+C03002,SMB,North America,14.1
+C03003,Enterprise,North America,87.9
+C03004,SMB,APAC,7.3
+C03005,Mid-Market,LATAM,65.9
+C03006,Mid-Market,North America,73.8
+C03007,Enterprise,EMEA,175.6
+C03008,Mid-Market,North America,44.7
+C03009,Mid-Market,North America,36.6
+C03010,Mid-Market,North America,49.0
+C03011,SMB,EMEA,18.0
+C03012,Enterprise,EMEA,305.5
+C03013,Mid-Market,North America,36.3
+C03014,Strategic,EMEA,682.4
+C03015,SMB,LATAM,9.0
+C03016,SMB,North America,24.2
+C03017,SMB,North America,16.1
+C03018,SMB,LATAM,10.0
+C03019,Mid-Market,North America,46.3
+C03020,Mid-Market,APAC,156.6
+C03021,Mid-Market,North America,37.0
+C03022,SMB,APAC,14.3
+C03023,Mid-Market,North America,61.0
+C03024,Mid-Market,EMEA,101.9
+C03025,Mid-Market,EMEA,31.4
+C03026,Enterprise,North America,124.1
+C03027,SMB,APAC,7.1
+C03028,Mid-Market,APAC,55.2
+C03029,Mid-Market,APAC,72.5
+C03030,SMB,APAC,10.4
+C03031,SMB,EMEA,14.7
+C03032,SMB,APAC,8.6
+C03033,SMB,APAC,17.9
+C03034,Mid-Market,North America,96.3
+C03035,Strategic,North America,601.0
+C03036,SMB,APAC,8.0
+C03037,Enterprise,EMEA,199.7
+C03038,SMB,EMEA,9.9
+C03039,Strategic,North America,320.5
+C03040,SMB,North America,10.6
+C03041,Mid-Market,North America,50.2
+C03042,SMB,North America,9.2
+C03043,Mid-Market,North America,34.9
+C03044,Strategic,North America,179.0
+C03045,SMB,North America,10.7
+C03046,Enterprise,EMEA,156.6
+C03047,Mid-Market,North America,42.6
+C03048,SMB,North America,14.5
+C03049,Enterprise,EMEA,173.1
+C03050,Enterprise,EMEA,232.6
+C03051,Mid-Market,EMEA,91.3
+C03052,Strategic,EMEA,95.0
+C03053,Mid-Market,EMEA,71.8
+C03054,SMB,EMEA,14.8
+C03055,Mid-Market,North America,46.7
+C03056,Strategic,LATAM,614.1
+C03057,Mid-Market,EMEA,48.8
+C03058,SMB,LATAM,11.1
+C03059,SMB,EMEA,7.6
+C03060,SMB,LATAM,18.5
+C03061,SMB,EMEA,19.5
+C03062,Strategic,North America,261.6
+C03063,Mid-Market,EMEA,62.6
+C03064,Enterprise,EMEA,193.5
+C03065,SMB,LATAM,12.6
+C03066,Enterprise,EMEA,284.8
+C03067,Mid-Market,North America,104.5
+C03068,Enterprise,North America,197.6
+C03069,Mid-Market,EMEA,99.9
+C03070,SMB,EMEA,11.3
+C03071,SMB,APAC,34.7
+C03072,Strategic,EMEA,683.6
+C03073,Mid-Market,North America,28.3
+C03074,SMB,EMEA,24.3
+C03075,SMB,LATAM,15.5
+C03076,SMB,EMEA,17.8
+C03077,SMB,EMEA,6.7
+C03078,Enterprise,EMEA,140.0
+C03079,Mid-Market,North America,159.0
+C03080,SMB,APAC,7.5
+C03081,Mid-Market,LATAM,52.2
+C03082,SMB,North America,10.6
+C03083,Mid-Market,North America,13.8
+C03084,SMB,North America,8.9
+C03085,SMB,APAC,6.4
+C03086,Enterprise,EMEA,285.7
+C03087,SMB,EMEA,10.0
+C03088,SMB,EMEA,7.9
+C03089,Mid-Market,APAC,34.7
+C03090,Enterprise,EMEA,132.4
+C03091,Mid-Market,EMEA,145.9
+C03092,Mid-Market,APAC,60.2
+C03093,SMB,LATAM,11.1
+C03094,Enterprise,North America,210.9
+C03095,Mid-Market,APAC,59.4
+C03096,Strategic,North America,372.3
+C03097,SMB,North America,20.8
+C03098,Mid-Market,EMEA,81.2
+C03099,SMB,North America,11.7
+C03100,Enterprise,North America,115.7
+C03101,Mid-Market,LATAM,113.5
+C03102,SMB,APAC,6.0
+C03103,SMB,EMEA,7.2
+C03104,Enterprise,EMEA,146.5
+C03105,SMB,APAC,10.4
+C03106,SMB,APAC,7.8
+C03107,Enterprise,North America,90.4
+C03108,Enterprise,APAC,71.9
+C03109,SMB,EMEA,11.8
+C03110,Enterprise,EMEA,159.8
+C03111,Mid-Market,North America,28.1
+C03112,Strategic,EMEA,468.1
+C03113,Enterprise,LATAM,105.8
+C03114,SMB,APAC,7.9
+C03115,Mid-Market,North America,45.2
+C03116,Mid-Market,North America,56.0
+C03117,Enterprise,EMEA,165.5
+C03118,Enterprise,LATAM,143.6
+C03119,Mid-Market,EMEA,47.2
+C03120,Mid-Market,APAC,20.4
+C03121,SMB,North America,6.3
+C03122,Enterprise,APAC,340.4
+C03123,Mid-Market,EMEA,26.0
+C03124,Enterprise,EMEA,110.8
+C03125,Mid-Market,North America,88.7
+C03126,Enterprise,EMEA,107.7
+C03127,Enterprise,North America,96.8
+C03128,Mid-Market,EMEA,44.6
+C03129,SMB,North America,8.5
+C03130,Mid-Market,EMEA,45.6
+C03131,Enterprise,LATAM,134.7
+C03132,Mid-Market,North America,49.3
+C03133,Mid-Market,LATAM,71.4
+C03134,Mid-Market,North America,46.5
+C03135,Enterprise,North America,63.1
+C03136,Strategic,North America,729.9
+C03137,SMB,APAC,16.8
+C03138,Mid-Market,LATAM,65.1
+C03139,SMB,North America,8.8
+C03140,Mid-Market,EMEA,67.2
+C03141,Mid-Market,LATAM,67.9
+C03142,Mid-Market,North America,82.9
+C03143,Mid-Market,North America,71.4
+C03144,Mid-Market,EMEA,200.3
+C03145,Mid-Market,APAC,40.7
+C03146,Mid-Market,North America,38.9
+C03147,Mid-Market,North America,124.5
+C03148,Mid-Market,LATAM,47.2
+C03149,SMB,APAC,5.3
+C03150,SMB,LATAM,23.8
+C03151,Mid-Market,APAC,72.3
+C03152,SMB,APAC,30.1
+C03153,Mid-Market,EMEA,54.6
+C03154,Mid-Market,LATAM,82.6
+C03155,Enterprise,EMEA,138.2
+C03156,SMB,North America,7.1
+C03157,Mid-Market,EMEA,59.8
+C03158,Enterprise,EMEA,108.0
+C03159,SMB,North America,7.7
+C03160,Mid-Market,North America,40.1
+C03161,Mid-Market,North America,66.1
+C03162,Enterprise,APAC,95.7
+C03163,SMB,APAC,15.2
+C03164,SMB,North America,8.3
+C03165,SMB,EMEA,10.5
+C03166,Enterprise,EMEA,288.4
+C03167,Mid-Market,EMEA,78.5
+C03168,Strategic,APAC,479.8
+C03169,Enterprise,North America,350.1
+C03170,SMB,North America,11.0
+C03171,Mid-Market,North America,28.5
+C03172,Strategic,EMEA,431.5
+C03173,Mid-Market,EMEA,53.2
+C03174,Enterprise,North America,509.5
+C03175,SMB,North America,9.1
+C03176,Enterprise,LATAM,132.5
+C03177,SMB,EMEA,7.8
+C03178,Mid-Market,APAC,83.3
+C03179,Strategic,North America,420.2
+C03180,Enterprise,APAC,143.1
+C03181,SMB,APAC,7.4
+C03182,Mid-Market,EMEA,34.6
+C03183,Enterprise,North America,243.5
+C03184,SMB,North America,11.8
+C03185,SMB,North America,7.5
+C03186,Mid-Market,North America,48.9
+C03187,Mid-Market,EMEA,62.8
+C03188,Mid-Market,EMEA,46.3
+C03189,SMB,LATAM,16.0
+C03190,SMB,APAC,11.6
+C03191,SMB,APAC,6.5
+C03192,Strategic,EMEA,251.9
+C03193,SMB,EMEA,11.1
+C03194,Enterprise,APAC,213.7
+C03195,SMB,North America,8.5
+C03196,Mid-Market,North America,45.1
+C03197,SMB,North America,19.0
+C03198,SMB,LATAM,9.7
+C03199,SMB,North America,40.5
+C03200,SMB,LATAM,15.6
+C03201,Enterprise,EMEA,132.7
+C03202,Enterprise,EMEA,147.4
+C03203,Enterprise,North America,91.0
+C03204,SMB,North America,7.0
+C03205,Strategic,North America,605.8
+C03206,Mid-Market,North America,48.4
+C03207,Strategic,North America,534.0
+C03208,Mid-Market,EMEA,109.4
+C03209,Enterprise,APAC,224.5
+C03210,Strategic,North America,418.7
+C03211,Mid-Market,North America,61.5
+C03212,Strategic,APAC,291.1
+C03213,Strategic,North America,333.0
+C03214,SMB,APAC,9.8
+C03215,Mid-Market,EMEA,58.9
+C03216,Strategic,APAC,420.0
+C03217,SMB,North America,19.8
+C03218,SMB,APAC,11.1
+C03219,Enterprise,EMEA,227.3
+C03220,SMB,EMEA,28.8
+C03221,Enterprise,EMEA,85.8
+C03222,Mid-Market,APAC,66.0
+C03223,Mid-Market,North America,57.4
+C03224,SMB,EMEA,13.1
+C03225,Enterprise,North America,222.4
+C03226,Mid-Market,EMEA,60.1
+C03227,Enterprise,EMEA,112.5
+C03228,SMB,North America,15.2
+C03229,Strategic,EMEA,310.0
+C03230,SMB,LATAM,7.2
+C03231,Mid-Market,APAC,32.3
+C03232,Enterprise,North America,331.6
+C03233,Enterprise,EMEA,223.0
+C03234,Enterprise,APAC,56.0
+C03235,SMB,North America,10.3
+C03236,Mid-Market,EMEA,63.7
+C03237,SMB,EMEA,9.4
+C03238,SMB,LATAM,18.4
+C03239,SMB,North America,7.2
+C03240,SMB,EMEA,44.2
+C03241,SMB,EMEA,14.5
+C03242,Mid-Market,APAC,111.1
+C03243,Mid-Market,APAC,60.6
+C03244,Mid-Market,North America,27.8
+C03245,Mid-Market,North America,52.4
+C03246,Enterprise,EMEA,255.8
+C03247,Strategic,North America,307.0
+C03248,SMB,North America,18.5
+C03249,Mid-Market,North America,47.3
+C03250,Mid-Market,North America,59.1
+C03251,Enterprise,North America,187.8
+C03252,SMB,LATAM,10.3
+C03253,Enterprise,LATAM,91.8
+C03254,Mid-Market,North America,87.5
+C03255,Enterprise,EMEA,196.8
+C03256,Strategic,APAC,276.3
+C03257,Mid-Market,EMEA,47.1
+C03258,SMB,North America,20.9
+C03259,Mid-Market,EMEA,41.2
+C03260,Enterprise,APAC,163.0
+C03261,Strategic,North America,1426.7
+C03262,Enterprise,EMEA,247.5
+C03263,Enterprise,APAC,93.2
+C03264,SMB,North America,18.0
+C03265,SMB,North America,12.0
+C03266,Enterprise,North America,317.0
+C03267,Mid-Market,EMEA,34.5
+C03268,SMB,APAC,26.2
+C03269,Mid-Market,North America,95.5
+C03270,Mid-Market,North America,98.5
+C03271,Mid-Market,North America,52.6
+C03272,Mid-Market,EMEA,25.7
+C03273,SMB,North America,9.7
+C03274,Mid-Market,North America,66.9
+C03275,SMB,North America,5.7
+C03276,SMB,EMEA,10.9
+C03277,Enterprise,APAC,373.8
+C03278,Mid-Market,LATAM,65.6
+C03279,SMB,North America,14.6
+C03280,Mid-Market,APAC,26.8
+C03281,Enterprise,APAC,207.7
+C03282,SMB,LATAM,6.9
+C03283,SMB,LATAM,14.3
+C03284,SMB,APAC,14.0
+C03285,Mid-Market,EMEA,89.8
+C03286,Strategic,North America,203.5
+C03287,Mid-Market,EMEA,77.2
+C03288,SMB,LATAM,11.9
+C03289,Strategic,EMEA,328.1
+C03290,SMB,North America,12.5
+C03291,Mid-Market,LATAM,32.7
+C03292,SMB,EMEA,10.1
+C03293,Strategic,EMEA,326.7
+C03294,Mid-Market,APAC,31.9
+C03295,Enterprise,EMEA,165.4
+C03296,Mid-Market,LATAM,53.6
+C03297,SMB,EMEA,8.8
+C03298,SMB,LATAM,11.0
+C03299,Enterprise,North America,187.2
+C03300,SMB,APAC,15.5
+C03301,SMB,North America,5.7
+C03302,SMB,North America,13.2
+C03303,Mid-Market,APAC,62.2
+C03304,Strategic,APAC,421.7
+C03305,Enterprise,APAC,192.5
+C03306,SMB,APAC,13.3
+C03307,Enterprise,North America,232.0
+C03308,SMB,EMEA,4.7
+C03309,Enterprise,North America,403.9
+C03310,Strategic,North America,362.0
+C03311,Mid-Market,EMEA,46.4
+C03312,Strategic,North America,285.5
+C03313,Enterprise,North America,120.8
+C03314,Strategic,APAC,966.9
+C03315,Mid-Market,APAC,119.3
+C03316,Mid-Market,APAC,67.2
+C03317,Enterprise,EMEA,153.2
+C03318,Strategic,North America,696.7
+C03319,Mid-Market,North America,50.4
+C03320,SMB,North America,14.6
+C03321,Mid-Market,EMEA,28.6
+C03322,SMB,North America,27.4
+C03323,Mid-Market,North America,39.3
+C03324,SMB,North America,16.9
+C03325,Enterprise,EMEA,160.0
+C03326,Mid-Market,North America,80.2
+C03327,SMB,APAC,13.3
+C03328,Enterprise,EMEA,228.0
+C03329,SMB,North America,15.5
+C03330,SMB,North America,7.6
+C03331,Enterprise,EMEA,61.3
+C03332,Mid-Market,North America,49.0
+C03333,Strategic,North America,572.2
+C03334,Mid-Market,North America,130.9
+C03335,SMB,North America,8.4
+C03336,Mid-Market,North America,53.0
+C03337,Enterprise,EMEA,153.8
+C03338,SMB,LATAM,10.7
+C03339,Mid-Market,EMEA,105.8
+C03340,Mid-Market,EMEA,22.9
+C03341,Enterprise,North America,150.9
+C03342,Mid-Market,North America,37.6
+C03343,SMB,EMEA,7.8
+C03344,Strategic,North America,603.6
+C03345,SMB,LATAM,16.6
+C03346,SMB,LATAM,5.2
+C03347,SMB,North America,9.0
+C03348,Mid-Market,EMEA,62.3
+C03349,Mid-Market,North America,65.0
+C03350,Enterprise,LATAM,239.8
+C03351,Mid-Market,EMEA,87.1
+C03352,Strategic,North America,196.8
+C03353,Mid-Market,LATAM,88.6
+C03354,Mid-Market,North America,83.9
+C03355,SMB,APAC,13.1
+C03356,Mid-Market,EMEA,54.9
+C03357,SMB,EMEA,12.0
+C03358,SMB,APAC,9.4
+C03359,Strategic,North America,290.1
+C03360,Mid-Market,EMEA,78.6
+C03361,SMB,North America,8.6
+C03362,SMB,EMEA,8.7
+C03363,Enterprise,North America,281.1
+C03364,Mid-Market,North America,157.3
+C03365,SMB,APAC,19.3
+C03366,SMB,North America,15.2
+C03367,SMB,APAC,7.1
+C03368,Enterprise,North America,161.4
+C03369,SMB,North America,8.3
+C03370,SMB,LATAM,15.1
+C03371,Mid-Market,APAC,72.5
+C03372,Mid-Market,EMEA,42.7
+C03373,Mid-Market,EMEA,173.3
+C03374,SMB,North America,14.1
+C03375,Mid-Market,EMEA,19.4
+C03376,SMB,APAC,14.3
+C03377,Mid-Market,APAC,54.4
+C03378,SMB,EMEA,9.3
+C03379,Mid-Market,North America,58.1
+C03380,Enterprise,North America,90.0
+C03381,SMB,EMEA,9.6
+C03382,Mid-Market,North America,96.8
+C03383,SMB,EMEA,9.3
+C03384,Mid-Market,LATAM,54.6
+C03385,SMB,North America,5.1
+C03386,Mid-Market,APAC,50.5
+C03387,Mid-Market,North America,36.9
+C03388,Enterprise,EMEA,108.2
+C03389,SMB,EMEA,9.6
+C03390,Mid-Market,EMEA,38.1
+C03391,SMB,APAC,10.2
+C03392,Enterprise,EMEA,76.5
+C03393,Enterprise,LATAM,217.6
+C03394,Mid-Market,APAC,76.2
+C03395,Strategic,North America,239.0
+C03396,SMB,LATAM,7.6
+C03397,Enterprise,EMEA,178.9
+C03398,SMB,EMEA,13.1
+C03399,SMB,LATAM,9.2
+C03400,Mid-Market,EMEA,65.1
+C03401,Enterprise,EMEA,253.2
+C03402,Mid-Market,EMEA,66.1
+C03403,Mid-Market,North America,68.2
+C03404,SMB,APAC,8.0
+C03405,Enterprise,EMEA,73.1
+C03406,Enterprise,North America,128.0
+C03407,SMB,EMEA,10.9
+C03408,Mid-Market,North America,58.2
+C03409,Mid-Market,North America,42.4
+C03410,Mid-Market,North America,54.7
+C03411,SMB,North America,6.2
+C03412,Mid-Market,North America,97.1
+C03413,Mid-Market,North America,48.2
+C03414,Mid-Market,EMEA,57.9
+C03415,Mid-Market,North America,201.8
+C03416,Enterprise,APAC,64.6
+C03417,SMB,APAC,17.8
+C03418,Mid-Market,North America,40.1
+C03419,Mid-Market,EMEA,46.8
+C03420,SMB,North America,8.4
+C03421,Enterprise,EMEA,150.1
+C03422,SMB,North America,5.8
+C03423,SMB,EMEA,13.8
+C03424,Mid-Market,EMEA,26.2
+C03425,SMB,North America,29.2
+C03426,Enterprise,APAC,156.4
+C03427,Enterprise,EMEA,161.9
+C03428,Enterprise,EMEA,180.1
+C03429,SMB,EMEA,17.3
+C03430,Mid-Market,EMEA,41.6
+C03431,SMB,APAC,15.2
+C03432,SMB,EMEA,11.0
+C03433,Mid-Market,North America,101.5
+C03434,SMB,EMEA,11.6
+C03435,Mid-Market,APAC,43.3
+C03436,SMB,APAC,18.9
+C03437,SMB,LATAM,11.1
+C03438,Mid-Market,North America,42.8
+C03439,Mid-Market,LATAM,58.5
+C03440,Mid-Market,North America,53.2
+C03441,SMB,EMEA,9.1
+C03442,Enterprise,North America,131.7
+C03443,Enterprise,North America,141.0
+C03444,Mid-Market,APAC,43.0
+C03445,SMB,North America,19.2
+C03446,SMB,EMEA,9.2
+C03447,SMB,North America,12.9
+C03448,SMB,North America,10.4
+C03449,SMB,North America,17.4
+C03450,SMB,LATAM,13.0
+C03451,SMB,APAC,7.2
+C03452,Enterprise,LATAM,215.5
+C03453,SMB,EMEA,9.2
+C03454,Mid-Market,EMEA,47.3
+C03455,Enterprise,APAC,198.9
+C03456,SMB,APAC,10.7
+C03457,Strategic,LATAM,273.9
+C03458,Mid-Market,EMEA,81.1
+C03459,Enterprise,EMEA,136.8
+C03460,Enterprise,APAC,260.6
+C03461,SMB,EMEA,10.2
+C03462,Mid-Market,EMEA,87.2
+C03463,SMB,LATAM,17.5
+C03464,Enterprise,North America,116.3
+C03465,Mid-Market,EMEA,32.3
+C03466,Mid-Market,EMEA,122.8
+C03467,SMB,North America,8.8
+C03468,Strategic,LATAM,887.3
+C03469,Mid-Market,LATAM,26.3
+C03470,Enterprise,EMEA,120.3
+C03471,SMB,LATAM,11.5
+C03472,SMB,LATAM,19.1
+C03473,Enterprise,North America,111.6
+C03474,SMB,LATAM,6.9
+C03475,Enterprise,APAC,151.4
+C03476,Mid-Market,North America,71.8
+C03477,SMB,APAC,9.1
+C03478,Mid-Market,EMEA,67.9
+C03479,Mid-Market,EMEA,32.6
+C03480,Enterprise,North America,385.6
+C03481,Mid-Market,North America,44.3
+C03482,SMB,EMEA,12.9
+C03483,Strategic,APAC,366.0
+C03484,Mid-Market,North America,76.4
+C03485,SMB,LATAM,14.2
+C03486,Mid-Market,North America,29.6
+C03487,SMB,North America,6.3
+C03488,SMB,EMEA,21.6
+C03489,Enterprise,North America,183.3
+C03490,SMB,LATAM,16.7
+C03491,Mid-Market,North America,28.6
+C03492,SMB,LATAM,4.2
+C03493,Mid-Market,North America,45.1
+C03494,Enterprise,North America,96.9
+C03495,SMB,North America,12.6
+C03496,SMB,EMEA,19.2
+C03497,SMB,North America,8.9
+C03498,Mid-Market,APAC,41.7
+C03499,SMB,LATAM,9.8
+C03500,SMB,APAC,5.5
+C03501,SMB,APAC,13.1
+C03502,Strategic,North America,364.8
+C03503,Enterprise,EMEA,246.1
+C03504,SMB,APAC,13.6
+C03505,Mid-Market,North America,47.6
+C03506,Enterprise,EMEA,255.0
+C03507,Mid-Market,EMEA,47.8
+C03508,SMB,EMEA,38.7
+C03509,Enterprise,EMEA,182.3
+C03510,Mid-Market,LATAM,68.5
+C03511,Mid-Market,North America,68.9
+C03512,Strategic,North America,220.6
+C03513,SMB,LATAM,18.5
+C03514,SMB,APAC,11.4
+C03515,Strategic,EMEA,870.7
+C03516,Enterprise,EMEA,298.4
+C03517,Mid-Market,LATAM,61.2
+C03518,SMB,LATAM,15.6
+C03519,SMB,LATAM,11.1
+C03520,Mid-Market,APAC,75.2
+C03521,Enterprise,North America,141.2
+C03522,SMB,North America,13.0
+C03523,Mid-Market,APAC,86.6
+C03524,SMB,APAC,15.0
+C03525,SMB,North America,4.8
+C03526,Mid-Market,North America,35.3
+C03527,Mid-Market,LATAM,110.1
+C03528,Strategic,North America,491.6
+C03529,Mid-Market,North America,31.4
+C03530,SMB,EMEA,19.9
+C03531,Mid-Market,EMEA,23.1
+C03532,Enterprise,North America,268.7
+C03533,SMB,LATAM,11.2
+C03534,Strategic,North America,446.5
+C03535,SMB,EMEA,15.1
+C03536,Enterprise,EMEA,254.4
+C03537,Mid-Market,APAC,33.5
+C03538,Enterprise,North America,88.1
+C03539,Strategic,EMEA,570.8
+C03540,Enterprise,North America,241.9
+C03541,SMB,EMEA,6.0
+C03542,Mid-Market,LATAM,43.5
+C03543,Strategic,EMEA,311.0
+C03544,Enterprise,North America,94.5
+C03545,Enterprise,North America,115.6
+C03546,Enterprise,EMEA,82.1
+C03547,Mid-Market,EMEA,75.9
+C03548,SMB,North America,15.6
+C03549,SMB,North America,23.9
+C03550,Mid-Market,LATAM,41.1
+C03551,SMB,LATAM,12.3
+C03552,Enterprise,LATAM,285.6
+C03553,SMB,LATAM,8.4
+C03554,SMB,EMEA,14.6
+C03555,Mid-Market,EMEA,36.0
+C03556,SMB,North America,11.5
+C03557,SMB,LATAM,22.5
+C03558,Mid-Market,LATAM,53.5
+C03559,Enterprise,EMEA,138.4
+C03560,Strategic,North America,228.4
+C03561,SMB,EMEA,13.7
+C03562,SMB,North America,19.6
+C03563,Mid-Market,North America,125.2
+C03564,Mid-Market,LATAM,35.1
+C03565,SMB,LATAM,19.3
+C03566,SMB,North America,10.8
+C03567,SMB,EMEA,8.6
+C03568,Enterprise,North America,234.3
+C03569,Mid-Market,EMEA,105.5
+C03570,Enterprise,LATAM,182.1
+C03571,Enterprise,North America,120.7
+C03572,Mid-Market,EMEA,21.1
+C03573,Strategic,EMEA,355.6
+C03574,SMB,APAC,15.3
+C03575,Mid-Market,EMEA,68.7
+C03576,SMB,APAC,18.5
+C03577,Mid-Market,LATAM,60.6
+C03578,Mid-Market,EMEA,137.3
+C03579,Mid-Market,North America,48.6
+C03580,Mid-Market,APAC,53.6
+C03581,Mid-Market,North America,73.1
+C03582,SMB,EMEA,10.1
+C03583,Enterprise,LATAM,391.1
+C03584,Mid-Market,APAC,47.1
+C03585,SMB,EMEA,9.7
+C03586,SMB,APAC,21.1
+C03587,SMB,EMEA,23.8
+C03588,Mid-Market,APAC,76.2
+C03589,SMB,APAC,27.5
+C03590,SMB,EMEA,7.6
+C03591,SMB,North America,9.4
+C03592,SMB,LATAM,15.4
+C03593,Enterprise,EMEA,126.4
+C03594,Mid-Market,EMEA,78.1
+C03595,SMB,APAC,14.8
+C03596,Mid-Market,North America,85.7
+C03597,Enterprise,EMEA,103.6
+C03598,Mid-Market,North America,65.3
+C03599,Enterprise,EMEA,96.2
+C03600,Enterprise,APAC,148.3
+C03601,SMB,EMEA,26.9
+C03602,Mid-Market,North America,31.0
+C03603,SMB,North America,10.8
+C03604,Mid-Market,APAC,80.9
+C03605,Strategic,APAC,244.5
+C03606,SMB,North America,16.1
+C03607,SMB,North America,11.7
+C03608,Mid-Market,APAC,46.2
+C03609,Enterprise,APAC,104.1
+C03610,Mid-Market,EMEA,63.2
+C03611,SMB,EMEA,15.4
+C03612,SMB,LATAM,18.2
+C03613,SMB,North America,16.0
+C03614,Mid-Market,APAC,59.1
+C03615,Enterprise,APAC,128.3
+C03616,SMB,APAC,10.9
+C03617,Mid-Market,EMEA,114.2
+C03618,SMB,North America,4.0
+C03619,Enterprise,EMEA,138.0
+C03620,SMB,EMEA,5.5
+C03621,Enterprise,North America,369.9
+C03622,SMB,EMEA,7.9
+C03623,SMB,North America,12.1
+C03624,SMB,North America,9.3
+C03625,Mid-Market,North America,53.4
+C03626,Enterprise,North America,171.6
+C03627,Mid-Market,EMEA,56.2
+C03628,SMB,North America,7.5
+C03629,Mid-Market,APAC,96.5
+C03630,Enterprise,EMEA,393.0
+C03631,SMB,LATAM,15.2
+C03632,Enterprise,EMEA,109.2
+C03633,SMB,LATAM,9.7
+C03634,SMB,EMEA,9.9
+C03635,Enterprise,EMEA,127.3
+C03636,SMB,North America,8.7
+C03637,Enterprise,North America,312.3
+C03638,Enterprise,EMEA,96.3
+C03639,SMB,North America,13.1
+C03640,Mid-Market,EMEA,176.5
+C03641,Mid-Market,EMEA,33.4
+C03642,Mid-Market,EMEA,80.4
+C03643,Mid-Market,EMEA,65.8
+C03644,SMB,EMEA,20.5
+C03645,Strategic,APAC,553.2
+C03646,Mid-Market,North America,25.9
+C03647,SMB,North America,10.9
+C03648,Enterprise,APAC,136.1
+C03649,SMB,APAC,14.6
+C03650,Mid-Market,North America,120.9
+C03651,Enterprise,EMEA,141.9
+C03652,Enterprise,EMEA,74.1
+C03653,Strategic,North America,337.0
+C03654,Enterprise,North America,434.1
+C03655,SMB,North America,9.2
+C03656,SMB,APAC,8.5
+C03657,Enterprise,North America,111.6
+C03658,Enterprise,APAC,110.4
+C03659,Mid-Market,North America,55.7
+C03660,SMB,LATAM,14.2
+C03661,SMB,APAC,19.9
+C03662,Mid-Market,EMEA,103.9
+C03663,SMB,APAC,16.7
+C03664,Enterprise,North America,102.7
+C03665,SMB,North America,14.0
+C03666,SMB,EMEA,12.9
+C03667,Mid-Market,North America,42.2
+C03668,Mid-Market,EMEA,27.3
+C03669,Strategic,North America,499.1
+C03670,Enterprise,EMEA,445.2
+C03671,SMB,North America,6.3
+C03672,Enterprise,EMEA,155.6
+C03673,SMB,North America,17.6
+C03674,SMB,North America,20.0
+C03675,Enterprise,North America,163.3
+C03676,Mid-Market,EMEA,61.9
+C03677,Mid-Market,EMEA,32.5
+C03678,Mid-Market,North America,88.0
+C03679,Enterprise,EMEA,119.0
+C03680,SMB,North America,4.2
+C03681,Strategic,LATAM,844.0
+C03682,Mid-Market,EMEA,61.4
+C03683,SMB,North America,15.9
+C03684,Strategic,EMEA,368.7
+C03685,SMB,EMEA,27.4
+C03686,Mid-Market,North America,68.1
+C03687,Mid-Market,LATAM,132.4
+C03688,Enterprise,EMEA,203.9
+C03689,Enterprise,North America,400.0
+C03690,Enterprise,EMEA,166.2
+C03691,Mid-Market,North America,81.2
+C03692,Enterprise,EMEA,129.9
+C03693,Strategic,North America,460.6
+C03694,Mid-Market,APAC,40.8
+C03695,Strategic,North America,371.5
+C03696,Enterprise,North America,266.4
+C03697,Enterprise,EMEA,161.9
+C03698,Strategic,APAC,588.0
+C03699,SMB,APAC,9.4
+C03700,Enterprise,APAC,105.7
+C03701,Enterprise,EMEA,519.0
+C03702,SMB,LATAM,12.1
+C03703,SMB,EMEA,12.0
+C03704,SMB,APAC,18.5
+C03705,SMB,EMEA,11.2
+C03706,SMB,North America,19.8
+C03707,Mid-Market,EMEA,46.6
+C03708,Enterprise,North America,286.9
+C03709,Mid-Market,North America,84.6
+C03710,Enterprise,North America,98.6
+C03711,Mid-Market,APAC,68.8
+C03712,Mid-Market,EMEA,47.5
+C03713,SMB,APAC,19.4
+C03714,SMB,EMEA,10.4
+C03715,Enterprise,North America,40.0
+C03716,Mid-Market,EMEA,70.0
+C03717,Mid-Market,North America,84.0
+C03718,Enterprise,EMEA,181.5
+C03719,SMB,North America,8.6
+C03720,SMB,North America,10.0
+C03721,Strategic,North America,197.0
+C03722,Enterprise,EMEA,176.9
+C03723,Enterprise,North America,316.0
+C03724,Mid-Market,APAC,45.3
+C03725,Mid-Market,APAC,86.9
+C03726,SMB,EMEA,17.1
+C03727,Enterprise,North America,157.7
+C03728,SMB,North America,8.8
+C03729,SMB,North America,6.3
+C03730,Enterprise,EMEA,106.7
+C03731,Mid-Market,EMEA,43.3
+C03732,Enterprise,North America,109.2
+C03733,Enterprise,North America,113.5
+C03734,Mid-Market,LATAM,49.7
+C03735,SMB,LATAM,25.4
+C03736,SMB,North America,31.3
+C03737,SMB,EMEA,11.2
+C03738,Enterprise,EMEA,126.0
+C03739,SMB,EMEA,12.6
+C03740,Enterprise,North America,106.3
+C03741,SMB,EMEA,14.3
+C03742,SMB,LATAM,12.7
+C03743,SMB,APAC,32.5
+C03744,Enterprise,EMEA,675.0
+C03745,Strategic,EMEA,200.7
+C03746,Enterprise,North America,179.6
+C03747,Enterprise,North America,261.5
+C03748,SMB,EMEA,17.4
+C03749,Mid-Market,North America,61.5
+C03750,SMB,North America,10.9
+C03751,Enterprise,North America,185.6
+C03752,Strategic,EMEA,383.5
+C03753,SMB,EMEA,8.5
+C03754,SMB,EMEA,9.1
+C03755,SMB,North America,20.6
+C03756,Strategic,APAC,391.3
+C03757,Mid-Market,EMEA,62.7
+C03758,Enterprise,APAC,262.7
+C03759,Mid-Market,North America,35.7
+C03760,SMB,EMEA,6.3
+C03761,Strategic,North America,620.2
+C03762,Strategic,North America,1069.3
+C03763,SMB,APAC,6.0
+C03764,Mid-Market,North America,39.6
+C03765,Enterprise,EMEA,277.6
+C03766,SMB,North America,31.8
+C03767,Enterprise,North America,145.9
+C03768,Enterprise,EMEA,109.6
+C03769,Strategic,APAC,349.1
+C03770,Mid-Market,EMEA,46.8
+C03771,Mid-Market,EMEA,64.0
+C03772,Mid-Market,EMEA,61.7
+C03773,SMB,North America,9.8
+C03774,SMB,EMEA,6.9
+C03775,Enterprise,North America,134.3
+C03776,Mid-Market,North America,99.8
+C03777,Mid-Market,North America,26.9
+C03778,Strategic,APAC,693.8
+C03779,Strategic,EMEA,442.8
+C03780,Mid-Market,EMEA,73.3
+C03781,Strategic,EMEA,193.5
+C03782,Enterprise,EMEA,132.6
+C03783,SMB,APAC,8.8
+C03784,Strategic,North America,766.0
+C03785,Mid-Market,EMEA,69.6
+C03786,Mid-Market,North America,50.3
+C03787,Enterprise,APAC,147.9
+C03788,Enterprise,EMEA,204.3
+C03789,Enterprise,APAC,376.5
+C03790,Mid-Market,APAC,45.4
+C03791,Mid-Market,North America,53.8
+C03792,Mid-Market,EMEA,99.9
+C03793,Mid-Market,EMEA,71.7
+C03794,SMB,North America,14.8
+C03795,SMB,North America,7.3
+C03796,Enterprise,EMEA,200.5
+C03797,Mid-Market,LATAM,32.9
+C03798,Mid-Market,APAC,29.6
+C03799,SMB,North America,5.3
+C03800,Enterprise,North America,354.8
+C03801,SMB,LATAM,10.3
+C03802,Enterprise,North America,119.0
+C03803,SMB,North America,17.9
+C03804,Enterprise,North America,76.4
+C03805,Enterprise,North America,145.7
+C03806,Mid-Market,North America,59.2
+C03807,Strategic,EMEA,472.6
+C03808,SMB,APAC,10.3
+C03809,Mid-Market,North America,52.7
+C03810,Enterprise,LATAM,260.2
+C03811,Mid-Market,EMEA,82.5
+C03812,Mid-Market,North America,24.7
+C03813,Mid-Market,EMEA,36.9
+C03814,Mid-Market,North America,54.0
+C03815,Mid-Market,EMEA,47.9
+C03816,SMB,APAC,7.9
+C03817,SMB,North America,10.2
+C03818,Mid-Market,EMEA,90.6
+C03819,Mid-Market,North America,40.8
+C03820,SMB,EMEA,14.7
+C03821,Mid-Market,EMEA,101.6
+C03822,Mid-Market,North America,49.4
+C03823,Enterprise,APAC,121.7
+C03824,Mid-Market,North America,62.6
+C03825,SMB,LATAM,7.9
+C03826,SMB,EMEA,19.5
+C03827,Mid-Market,EMEA,51.8
+C03828,SMB,North America,5.7
+C03829,Enterprise,APAC,166.2
+C03830,Mid-Market,EMEA,46.7
+C03831,SMB,APAC,18.8
+C03832,SMB,North America,12.7
+C03833,Mid-Market,EMEA,41.0
+C03834,SMB,North America,13.5
+C03835,Mid-Market,APAC,82.1
+C03836,Mid-Market,LATAM,26.2
+C03837,Mid-Market,LATAM,100.7
+C03838,Mid-Market,North America,75.4
+C03839,Mid-Market,North America,85.8
+C03840,SMB,EMEA,7.7
+C03841,Enterprise,North America,238.0
+C03842,SMB,North America,4.9
+C03843,Mid-Market,APAC,40.7
+C03844,Mid-Market,EMEA,103.6
+C03845,Strategic,North America,755.6
+C03846,SMB,LATAM,6.9
+C03847,SMB,EMEA,6.0
+C03848,Enterprise,APAC,184.9
+C03849,SMB,APAC,4.8
+C03850,SMB,EMEA,9.7
+C03851,SMB,North America,11.1
+C03852,SMB,North America,14.4
+C03853,Mid-Market,LATAM,208.4
+C03854,Enterprise,EMEA,189.0
+C03855,SMB,LATAM,6.5
+C03856,Mid-Market,North America,94.0
+C03857,Mid-Market,EMEA,71.0
+C03858,Enterprise,APAC,230.7
+C03859,Mid-Market,LATAM,56.9
+C03860,Enterprise,North America,165.5
+C03861,Mid-Market,EMEA,41.5
+C03862,Strategic,North America,916.4
+C03863,Mid-Market,APAC,83.3
+C03864,Mid-Market,EMEA,47.4
+C03865,Mid-Market,North America,61.6
+C03866,Mid-Market,LATAM,72.4
+C03867,SMB,EMEA,10.0
+C03868,Enterprise,EMEA,260.7
+C03869,Mid-Market,North America,71.1
+C03870,Enterprise,LATAM,189.8
+C03871,SMB,LATAM,15.6
+C03872,SMB,EMEA,12.5
+C03873,Enterprise,APAC,312.5
+C03874,Mid-Market,APAC,108.6
+C03875,Mid-Market,LATAM,69.6
+C03876,Enterprise,North America,114.6
+C03877,SMB,North America,10.9
+C03878,SMB,LATAM,9.0
+C03879,Mid-Market,North America,49.0
+C03880,Enterprise,North America,284.2
+C03881,Mid-Market,North America,35.3
+C03882,Mid-Market,APAC,65.3
+C03883,Strategic,APAC,562.8
+C03884,Mid-Market,EMEA,38.5
+C03885,Mid-Market,LATAM,65.8
+C03886,Enterprise,North America,160.6
+C03887,Enterprise,North America,194.9
+C03888,Enterprise,North America,228.6
+C03889,Mid-Market,EMEA,42.0
+C03890,SMB,APAC,16.8
+C03891,SMB,EMEA,19.1
+C03892,Mid-Market,LATAM,93.9
+C03893,Enterprise,North America,90.2
+C03894,SMB,North America,12.6
+C03895,Mid-Market,LATAM,44.4
+C03896,Strategic,EMEA,318.8
+C03897,SMB,EMEA,16.2
+C03898,Mid-Market,North America,138.3
+C03899,Enterprise,LATAM,167.8
+C03900,Mid-Market,North America,49.4
+C03901,Enterprise,North America,166.0
+C03902,Mid-Market,APAC,105.0
+C03903,Mid-Market,EMEA,52.4
+C03904,Enterprise,EMEA,69.1
+C03905,SMB,EMEA,6.3
+C03906,SMB,APAC,17.5
+C03907,Enterprise,APAC,220.8
+C03908,SMB,LATAM,28.7
+C03909,Mid-Market,LATAM,37.3
+C03910,SMB,LATAM,6.9
+C03911,Mid-Market,North America,34.2
+C03912,SMB,APAC,9.0
+C03913,Mid-Market,North America,61.2
+C03914,SMB,EMEA,11.6
+C03915,SMB,EMEA,7.5
+C03916,Mid-Market,EMEA,152.0
+C03917,Enterprise,North America,167.2
+C03918,Enterprise,North America,139.3
+C03919,Mid-Market,APAC,135.5
+C03920,Enterprise,APAC,142.6
+C03921,SMB,LATAM,12.3
+C03922,SMB,North America,18.3
+C03923,Enterprise,LATAM,90.3
+C03924,Enterprise,North America,123.2
+C03925,Enterprise,EMEA,372.8
+C03926,SMB,North America,16.0
+C03927,Mid-Market,North America,43.2
+C03928,Strategic,North America,399.3
+C03929,SMB,EMEA,9.2
+C03930,Mid-Market,North America,81.7
+C03931,Mid-Market,North America,41.3
+C03932,SMB,LATAM,10.2
+C03933,Enterprise,APAC,455.7
+C03934,Enterprise,LATAM,125.4
+C03935,Mid-Market,LATAM,25.3
+C03936,Mid-Market,North America,50.0
+C03937,SMB,North America,12.2
+C03938,Enterprise,APAC,153.6
+C03939,Mid-Market,APAC,45.9
+C03940,SMB,North America,11.6
+C03941,Strategic,APAC,559.5
+C03942,Mid-Market,North America,67.1
+C03943,Mid-Market,North America,64.0
+C03944,SMB,EMEA,13.7
+C03945,Mid-Market,North America,65.4
+C03946,Enterprise,EMEA,170.3
+C03947,Enterprise,North America,239.7
+C03948,Mid-Market,EMEA,35.0
+C03949,Mid-Market,North America,92.8
+C03950,SMB,North America,7.7
+C03951,SMB,EMEA,11.3
+C03952,Mid-Market,LATAM,57.6
+C03953,Enterprise,North America,121.5
+C03954,SMB,EMEA,7.2
+C03955,SMB,EMEA,12.3
+C03956,Enterprise,EMEA,76.3
+C03957,SMB,North America,9.7
+C03958,Enterprise,APAC,309.0
+C03959,SMB,LATAM,9.2
+C03960,Mid-Market,North America,48.3
+C03961,SMB,EMEA,21.3
+C03962,Enterprise,North America,194.6
+C03963,SMB,North America,8.9
+C03964,SMB,LATAM,12.1
+C03965,Enterprise,North America,215.8
+C03966,Mid-Market,North America,50.4
+C03967,Mid-Market,EMEA,65.5
+C03968,Mid-Market,North America,119.4
+C03969,Mid-Market,North America,48.5
+C03970,Mid-Market,EMEA,109.8
+C03971,SMB,LATAM,21.1
+C03972,Mid-Market,North America,87.6
+C03973,Mid-Market,LATAM,82.0
+C03974,Mid-Market,North America,57.1
+C03975,SMB,North America,6.5
+C03976,Mid-Market,LATAM,85.9
+C03977,SMB,APAC,23.1
+C03978,Enterprise,EMEA,97.1
+C03979,SMB,EMEA,8.6
+C03980,Mid-Market,LATAM,40.0
+C03981,Mid-Market,EMEA,60.2
+C03982,SMB,LATAM,12.7
+C03983,SMB,APAC,14.3
+C03984,Mid-Market,North America,78.8
+C03985,SMB,North America,10.5
+C03986,Strategic,APAC,492.4
+C03987,Mid-Market,LATAM,148.7
+C03988,SMB,LATAM,6.0
+C03989,SMB,North America,12.2
+C03990,Enterprise,EMEA,268.6
+C03991,Enterprise,EMEA,260.8
+C03992,Enterprise,EMEA,165.3
+C03993,SMB,North America,9.8
+C03994,SMB,North America,8.2
+C03995,SMB,North America,12.4
+C03996,Mid-Market,LATAM,98.0
+C03997,Mid-Market,EMEA,69.3
+C03998,Strategic,North America,343.7
+C03999,Enterprise,EMEA,142.6
+C04000,Enterprise,North America,63.1
+C04001,Enterprise,North America,167.1
+C04002,Mid-Market,LATAM,42.2
+C04003,SMB,EMEA,8.0
+C04004,Mid-Market,EMEA,55.7
+C04005,Mid-Market,North America,53.0
+C04006,SMB,North America,7.8
+C04007,SMB,EMEA,9.3
+C04008,Mid-Market,North America,27.3
+C04009,SMB,LATAM,13.1
+C04010,SMB,LATAM,15.2
+C04011,Enterprise,North America,164.6
+C04012,SMB,EMEA,12.0
+C04013,SMB,North America,8.3
+C04014,SMB,APAC,11.0
+C04015,Enterprise,APAC,172.2
+C04016,SMB,North America,12.9
+C04017,SMB,APAC,21.6
+C04018,Mid-Market,EMEA,69.8
+C04019,Mid-Market,North America,60.5
+C04020,SMB,North America,14.0
+C04021,SMB,LATAM,12.3
+C04022,Mid-Market,LATAM,84.2
+C04023,Mid-Market,EMEA,90.7
+C04024,SMB,North America,12.6
+C04025,Enterprise,North America,183.6
+C04026,SMB,North America,10.5
+C04027,Enterprise,EMEA,228.3
+C04028,SMB,LATAM,13.6
+C04029,SMB,North America,7.9
+C04030,SMB,North America,12.3
+C04031,Enterprise,EMEA,173.7
+C04032,SMB,North America,18.5
+C04033,SMB,North America,12.2
+C04034,SMB,LATAM,4.0
+C04035,Enterprise,North America,188.5
+C04036,Mid-Market,APAC,36.2
+C04037,SMB,EMEA,16.8
+C04038,SMB,LATAM,17.7
+C04039,SMB,EMEA,15.3
+C04040,Mid-Market,EMEA,90.0
+C04041,SMB,EMEA,16.3
+C04042,SMB,EMEA,10.9
+C04043,Enterprise,North America,179.6
+C04044,Enterprise,EMEA,184.5
+C04045,Enterprise,EMEA,156.0
+C04046,Mid-Market,EMEA,93.6
+C04047,Enterprise,EMEA,90.1
+C04048,Mid-Market,LATAM,125.8
+C04049,Mid-Market,APAC,15.7
+C04050,SMB,APAC,11.1
+C04051,Enterprise,North America,205.1
+C04052,Enterprise,APAC,156.0
+C04053,Mid-Market,EMEA,29.9
+C04054,Mid-Market,APAC,157.5
+C04055,SMB,APAC,9.2
+C04056,Mid-Market,North America,167.1
+C04057,SMB,APAC,8.0
+C04058,Enterprise,EMEA,119.0
+C04059,SMB,North America,9.7
+C04060,Strategic,North America,335.9
+C04061,Strategic,APAC,439.6
+C04062,Enterprise,LATAM,129.6
+C04063,SMB,North America,8.4
+C04064,Mid-Market,North America,42.3
+C04065,SMB,LATAM,6.7
+C04066,Mid-Market,LATAM,77.0
+C04067,Strategic,North America,744.9
+C04068,Mid-Market,North America,106.7
+C04069,SMB,LATAM,9.7
+C04070,Mid-Market,APAC,27.8
+C04071,Mid-Market,North America,68.3
+C04072,Mid-Market,EMEA,72.0
+C04073,SMB,APAC,12.5
+C04074,SMB,APAC,12.2
+C04075,Mid-Market,North America,49.3
+C04076,Enterprise,EMEA,149.9
+C04077,Enterprise,North America,208.1
+C04078,SMB,APAC,15.7
+C04079,Enterprise,APAC,226.6
+C04080,SMB,LATAM,11.7
+C04081,Enterprise,North America,133.3
+C04082,Mid-Market,APAC,56.7
+C04083,Mid-Market,North America,106.4
+C04084,Enterprise,EMEA,96.3
+C04085,SMB,EMEA,12.7
+C04086,SMB,LATAM,7.3
+C04087,Mid-Market,APAC,66.7
+C04088,SMB,North America,17.9
+C04089,Mid-Market,North America,39.1
+C04090,SMB,LATAM,9.4
+C04091,Enterprise,North America,242.1
+C04092,SMB,North America,15.7
+C04093,Strategic,EMEA,527.9
+C04094,SMB,EMEA,15.0
+C04095,Mid-Market,APAC,72.6
+C04096,Enterprise,LATAM,438.7
+C04097,SMB,North America,9.9
+C04098,SMB,North America,12.0
+C04099,Enterprise,EMEA,71.3
+C04100,SMB,APAC,10.8
+C04101,Mid-Market,North America,39.4
+C04102,SMB,North America,7.7
+C04103,SMB,EMEA,9.7
+C04104,SMB,EMEA,9.5
+C04105,SMB,North America,19.4
+C04106,Enterprise,EMEA,151.4
+C04107,SMB,EMEA,10.0
+C04108,Enterprise,North America,133.0
+C04109,Mid-Market,APAC,39.5
+C04110,SMB,North America,17.3
+C04111,Strategic,EMEA,509.2
+C04112,Enterprise,EMEA,159.9
+C04113,Mid-Market,North America,104.5
+C04114,Enterprise,EMEA,120.8
+C04115,SMB,North America,8.1
+C04116,Enterprise,EMEA,108.0
+C04117,SMB,APAC,14.0
+C04118,Enterprise,North America,203.4
+C04119,Mid-Market,EMEA,55.7
+C04120,SMB,EMEA,10.5
+C04121,Mid-Market,EMEA,62.7
+C04122,Enterprise,North America,70.0
+C04123,SMB,EMEA,13.2
+C04124,Mid-Market,North America,108.4
+C04125,Mid-Market,EMEA,69.8
+C04126,Mid-Market,North America,23.2
+C04127,Mid-Market,EMEA,20.8
+C04128,Enterprise,EMEA,119.1
+C04129,Enterprise,EMEA,159.1
+C04130,Mid-Market,North America,43.5
+C04131,Mid-Market,EMEA,70.8
+C04132,SMB,APAC,9.9
+C04133,Mid-Market,EMEA,128.6
+C04134,SMB,EMEA,10.1
+C04135,Mid-Market,LATAM,71.2
+C04136,SMB,North America,8.3
+C04137,SMB,EMEA,11.0
+C04138,Mid-Market,APAC,51.0
+C04139,Enterprise,North America,214.2
+C04140,Enterprise,LATAM,188.7
+C04141,Mid-Market,North America,90.0
+C04142,SMB,LATAM,13.1
+C04143,Mid-Market,APAC,32.7
+C04144,Mid-Market,North America,50.3
+C04145,SMB,North America,6.4
+C04146,SMB,EMEA,5.0
+C04147,SMB,North America,14.8
+C04148,Mid-Market,EMEA,35.2
+C04149,Mid-Market,North America,68.9
+C04150,Mid-Market,APAC,64.3
+C04151,Mid-Market,North America,51.4
+C04152,Enterprise,LATAM,53.6
+C04153,SMB,North America,15.5
+C04154,Enterprise,EMEA,97.9
+C04155,Enterprise,APAC,105.3
+C04156,Mid-Market,LATAM,39.5
+C04157,Mid-Market,North America,83.0
+C04158,Mid-Market,APAC,54.7
+C04159,SMB,North America,9.5
+C04160,Mid-Market,North America,102.2
+C04161,SMB,North America,8.7
+C04162,SMB,North America,8.5
+C04163,Enterprise,North America,106.8
+C04164,SMB,North America,10.0
+C04165,SMB,North America,16.3
+C04166,SMB,North America,12.6
+C04167,SMB,LATAM,11.9
+C04168,SMB,EMEA,11.1
+C04169,SMB,LATAM,7.5
+C04170,Mid-Market,APAC,27.6
+C04171,Enterprise,North America,157.2
+C04172,SMB,North America,14.6
+C04173,Mid-Market,North America,65.1
+C04174,Mid-Market,LATAM,69.7
+C04175,Enterprise,North America,108.3
+C04176,Strategic,APAC,230.4
+C04177,Enterprise,APAC,207.6
+C04178,Mid-Market,EMEA,46.5
+C04179,Enterprise,North America,84.9
+C04180,SMB,APAC,16.3
+C04181,SMB,North America,8.6
+C04182,SMB,North America,6.8
+C04183,Mid-Market,APAC,55.3
+C04184,SMB,North America,7.7
+C04185,Mid-Market,APAC,58.9
+C04186,Mid-Market,North America,42.0
+C04187,SMB,North America,15.4
+C04188,Mid-Market,EMEA,32.8
+C04189,Mid-Market,EMEA,48.6
+C04190,Mid-Market,North America,85.0
+C04191,Mid-Market,EMEA,55.9
+C04192,Mid-Market,North America,87.6
+C04193,Strategic,North America,245.7
+C04194,Mid-Market,North America,34.9
+C04195,SMB,North America,6.8
+C04196,Mid-Market,EMEA,156.7
+C04197,Mid-Market,LATAM,67.5
+C04198,SMB,North America,9.8
+C04199,Enterprise,EMEA,158.3
+C04200,Enterprise,EMEA,261.4

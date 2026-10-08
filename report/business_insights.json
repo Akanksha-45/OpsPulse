@@ -1,0 +1,68 @@
+{
+  "bottleneck": {
+    "stage": "Investigation",
+    "share_of_cycle_pct": 45.9,
+    "median_hours": 8.28,
+    "slowest_category": "Technical Issue",
+    "slowest_median": 10.89
+  },
+  "secondary": {
+    "stage": "Assigned (time to first response)",
+    "share_of_cycle_pct": 18.4
+  },
+  "drivers": {
+    "reopen_breach_upside_pct": 172.9,
+    "escalation_breach_upside_pct": 36.8
+  },
+  "backlog": {
+    "open_tickets": 357,
+    "over_budget": 337
+  },
+  "workload_gap": {
+    "technical_team_tickets_per_agent": 3540,
+    "billing_team_tickets_per_agent": 1172
+  },
+  "compliance": {
+    "start_pct": 76.1,
+    "latest_pct": 77.0,
+    "overall_pct": 76.3
+  },
+  "scenarios": [
+    {
+      "scenario": "S1 investigation -20%",
+      "compliance_after": 79.3,
+      "gain_pct_points": 3.0,
+      "tickets_recovered": 1838
+    },
+    {
+      "scenario": "S2 investigation -30%",
+      "compliance_after": 80.8,
+      "gain_pct_points": 4.4,
+      "tickets_recovered": 2763
+    },
+    {
+      "scenario": "S3 first-response (Assigned) -30%",
+      "compliance_after": 78.5,
+      "gain_pct_points": 2.2,
+      "tickets_recovered": 1347
+    },
+    {
+      "scenario": "S4 escalation stage -50%",
+      "compliance_after": 76.7,
+      "gain_pct_points": 0.4,
+      "tickets_recovered": 246
+    },
+    {
+      "scenario": "S5 investigation -10% + Assigned -20%",
+      "compliance_after": 79.3,
+      "gain_pct_points": 2.9,
+      "tickets_recovered": 1823
+    },
+    {
+      "scenario": "S6 combined -20% inv + -25% assigned",
+      "compliance_after": 81.1,
+      "gain_pct_points": 4.8,
+      "tickets_recovered": 2996
+    }
+  ]
+}
